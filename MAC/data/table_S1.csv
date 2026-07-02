@@ -1,0 +1,280 @@
+collection,source,latitude,longitude,population,species,sample
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,C,biaurelia,AL7-10
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,C,biaurelia,AL7-25
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,C,biaurelia,AL7-27_B
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,multimicronucleatum,AL7-30
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL1-1
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL1-4
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL2-10
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL3-6
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL3-7
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL3-B
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL3B
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL4-A
+Arizona,Ayer Lake,33.2802317444025,-111.153813768354,A,primaurelia_cladeB,AL6A
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,E,biaurelia,CL12-1
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,E,biaurelia,CL12-3
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,E,biaurelia,CL12-8
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,E,biaurelia,CL5-12
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeA,CL11-10
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeB,CL11-15
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeB,CL11-3
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeB,CL_1-14
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeB,CL3-12
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeB,CL5-1
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeB,CL5-11
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,D,primaurelia_cladeB,CL5-2
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,quindecaurelia,CL11-12
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,quindecaurelia,CL11-13
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,quindecaurelia,CL11-14
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,quindecaurelia,CL11-16
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,quindecaurelia,CL11-19
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,quindecaurelia,CL11-20
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,quindecaurelia,CL11-24
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,triaurelia,CL12-12
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,triaurelia,CL12-18
+Arizona,Canyon Lake,33.5418414622629,-111.435516480326,A,triaurelia,CL12-27
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC10-10
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC6-13
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC6-15
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC6-16
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC6-5
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC6-7
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC7-9
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC8-6a
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC8-7
+Arizona,horton creek ,34.355017,-111.082881,A,caudatum_cladeA,HC9-9a_Large
+Arizona,horton creek ,34.355017,-111.082881,B,quindecaurelia,HC6-14
+Arizona,horton creek ,34.355017,-111.082881,B,quindecaurelia,HC9-9b
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP3-8
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP6-1
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP6-10
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP6-3
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP7-10
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP7-12
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP7-14
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP7-3
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP7-5a
+Arizona,Lake Pleasant,33.904154,-112.289871,B,caudatum_cladeB,LP8-12
+Arizona,Lake Pleasant,33.904154,-112.289871,H,primaurelia_cladeA,LP4-2b
+Arizona,Lake Pleasant,33.904154,-112.289871,H,primaurelia_cladeA,LP7-4
+Arizona,Lake Pleasant,33.904154,-112.289871,H,primaurelia_cladeB,LP7-1
+Arizona,Lake Pleasant,33.904154,-112.289871,H,primaurelia_cladeB,LP8-13
+Arizona,Lake Pleasant,33.904154,-112.289871,C,triaurelia,LP2-1b
+Arizona,Lake Pleasant,33.904154,-112.289871,C,triaurelia,LP3-1
+Arizona,Lake Pleasant,33.904154,-112.289871,C,triaurelia,LP3-6
+Arizona,Lake Pleasant,33.904154,-112.289871,C,triaurelia,LP6-15
+Arizona,Lake Pleasant,33.904154,-112.289871,C,triaurelia,LP7-5b
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-12B
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-16_B
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-19B
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-20_B
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-21_B
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-3a_B
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-7a_(B)
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P1-8a(B)
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P2-16
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P2-20_(B)
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P2-4_(B)
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P2-6_(B)
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P2-7B
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P2-9_(B)
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P3-16aB
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P3-17b
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P3-19_(B)
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P3-3b_(B)2nd
+Arizona,Ramsey Canyon Preserve,31.447409,-110.313953,A,bursaria,P3-5a(B)
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,K,biaurelia,RL12-10
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,J,caudatum_cladeB,RL15-37
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,J,caudatum_cladeB,RL15-61
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,C,multimicronucleatum,RL6B
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,J,primaurelia_cladeB,RL13-15b
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,J,primaurelia_cladeB,RL7B
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,I,sexaurelia,RL6-2
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,B,tribursaria,RL13-_18a_B
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,B,tribursaria,RL13-_4a_B
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,B,tribursaria,RL14-15b-B
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,B,tribursaria,RL14-_9b_B
+Arizona,Roosevelt Lake ,33.4556295,-111.9146449,B,tribursaria,RL15-14b-B
+Arizona,Watson Lake ,34.588977,-112.416908,F,caudatum_cladeA,WL2-3B
+Arizona,Watson Lake ,34.588977,-112.416908,F,caudatum_cladeA,WL5-2C
+Arizona,Watson Lake ,34.588977,-112.416908,F,caudatum_cladeB,WL1-1C
+Arizona,Watson Lake ,34.588977,-112.416908,F,caudatum_cladeB,WL5-6B
+Arizona,Wisconsin,42.886357,-89.03,D,multimicronucleatum,SWL_1-25
+Arizona,Woods Canyon,34.8148456,-111.6748923,I,biaurelia,WCL3-10
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WC1-6a
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL_2-10
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL2-11
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL_2-12
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL_2-15
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL_2-4
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL_2-5
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL_2-8
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL3-6
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL5-3
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL5-4
+Arizona,Woods Canyon,34.8148456,-111.6748923,E,caudatum_cladeA,WCL8-15
+Arizona,Woods Canyon,34.8148456,-111.6748923,D,quindecaurelia,WCL_3-12
+Arizona,Woods Canyon,34.8148456,-111.6748923,C,tribursaria,WC9-1b
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-14
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-16
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-17
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-18
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-2
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-21
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-22
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-23
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-25
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-3
+California,,36.701463,-118.755997,C,primaurelia_cladeA,CAC1-9
+China,China – Quanzhou,24.87679,118.674316,B,fokini,NJH-QZ
+China,China – Shenzen,22.552539,114.04494,B,fokini,NJH-SZ
+China,China – Weinan,34.506073,109.512059,B,fokini,NJH-WN
+Germany,Australia,-24.776109,134.755,C,tetraurelia,A4-291
+Germany,Australia,-24.776109,134.755,C,tetraurelia,A4-293
+Germany,Austria,47.59397,14.12456,M,caudatum_cladeA,CO30
+Germany,Berkley – California,37.8736523776714,-122.271787725457,,tetraurelia,47
+Germany,Berkley – California,37.8736523776714,-122.271787725457,,tetraurelia,47apo
+Germany,,,,,biaurelia,294
+Germany,,,,,biaurelia,A1-4
+Germany,,,,,biaurelia,M2Hc
+Germany,Bloomington – Indiana,39.1699611436162,-86.5395716097105,,biaurelia,12-I-16
+Germany,Bloomington – Indiana,39.1699611436162,-86.5395716097105,,primaurelia_cladeB,3_III_1
+Germany,Bloomington – Indiana,39.1699611436162,-86.5395716097105,,tetraurelia,116-K
+Germany,Brazil,-10.333333,-53.2,K,primaurelia_cladeB,Rio_Lg_Jac_2_II
+Germany,Brazil,-10.333333,-53.2,,tetraurelia,Brazil_P3
+Germany,Ecuador,-1.339767,-79.366697,F,primaurelia_cladeB,Ecuador_A1-9._I
+Germany,Ecuador,-1.339767,-79.366697,F,sexaurelia,C131
+Germany,Ecuador,-1.339767,-79.366697,F,sexaurelia,Ecuad_6_II
+Germany,,,,,fokini,Pmmn_MO3C4
+Germany,Germany,51.163818,10.447831,B,primaurelia_cladeA,C124
+Germany,Germany,51.163818,10.447831,E,sexaurelia,P_6a-131
+Germany,Greece,38.995368,21.987713,L,caudatum_cladeB,C171
+Germany,Indonesia,-2.483383,117.890285,C,sexaurelia,Indo_1_9_II
+Germany,Indonesia,-2.483383,117.890285,C,sexaurelia,Indon._12.5_I
+Germany,Indonesia,-2.483383,117.890285,C,sexaurelia,Indon._1.7_I
+Germany,Indonesia,-2.483383,117.890285,C,sexaurelia,J2
+Germany,Israel,30.812425,34.859476,G,biaurelia,P2a.45
+Germany,Istanbul,41.006381,28.975872,G,primaurelia_cladeA,G5
+Germany,Istanbul,41.006381,28.975872,G,primaurelia_cladeA,Ista_1_d_1(III)
+Germany,Istanbul,41.006381,28.975872,G,primaurelia_cladeA,Ista1_d_1_IV
+Germany,Istanbul,41.006381,28.975872,G,primaurelia_cladeA,Istanbul-1a-III
+Germany,Istanbul,41.006381,28.975872,,tetraurelia,Istanbul_2_b_IV_3
+Germany,Japan,36.574844,139.239418,C,caudatum_cladeB,C139
+Germany,Japan,36.574844,139.239418,G,sexaurelia,G3
+Germany,Krakow – Poland,50.0634031168876,19.9464247132324,,tetraurelia,Bapo
+Germany,Lake Lemon – Indiana,39.2575074571843,-86.393400538055,,primaurelia_cladeA,14_II_2
+Germany,Littlehampton - Australia,-35.0485605965873,138.864049217401,,tetraurelia,A30_K
+Germany,Madrid – Spain,40.4208097199292,-3.69472392797971,,tetraurelia,298_apo
+Germany,Monroe Lake – Indiana,39.033634,-86.474683,,caudatum_cladeB,6_II_4
+Germany,Morioka city – Japan,39.7067115181799,141.153441099913,,tetraurelia,169k
+Germany,Mozambique,-19.302233,34.914498,D,sexaurelia,Moz_13_C_IX
+Germany,Mozambique,-19.302233,34.914498,G,tetraurelia,Moz_13_C_XI
+Germany,Opatowice – Poland,52.6035761938795,18.5630132549637,,biaurelia,Opa
+Germany,Panama,8.559559,-81.130843,D,tetraurelia,A4-298
+Germany,Russia,64.686314,97.745306,B,sexaurelia,A6-137
+Germany,Spain,39.326068,-4.837979,H,biaurelia,P_2a-44
+Germany,Spain,39.326068,-4.837979,A,sexaurelia,A6-132
+Germany,Spain,39.326068,-4.837979,A,sexaurelia,A6-133
+Germany,Spencer - Indiana,39.2866613633411,-86.7620217381176,,tetraurelia,51_apo
+Germany,,,,,tetraurelia,198_K_24C
+Germany,,,,,tetraurelia,290apo
+Germany,,,,,tetraurelia,298_KC+
+Germany,,,,,tetraurelia,98apo
+Germany,,,,,tetraurelia,A30cplus
+Germany,,,,,tetraurelia,G1
+Germany,USA,39.78373,-100.445882,A,biaurelia,11_IV_2
+Germany,USA,39.78373,-100.445882,A,biaurelia,36_I_1
+Germany,USA,39.78373,-100.445882,A,biaurelia,36-I-2
+Germany,USA,39.78373,-100.445882,A,biaurelia,4-IV-2
+Germany,USA,39.78373,-100.445882,A,biaurelia,4_IV_3
+Germany,USA,39.78373,-100.445882,A,biaurelia,G10
+Germany,USA,39.78373,-100.445882,A,biaurelia,G11
+Germany,USA,39.78373,-100.445882,A,biaurelia,G7
+Germany,USA,39.78373,-100.445882,A,biaurelia,G8
+Germany,USA,39.78373,-100.445882,A,biaurelia,G9
+Germany,USA,39.78373,-100.445882,K,caudatum_cladeB,C082
+Germany,USA,39.78373,-100.445882,M,primaurelia_cladeA,YE_4
+Germany,USA,39.78373,-100.445882,J,sexaurelia,11_II_7
+Germany,USA,39.78373,-100.445882,B,tetraurelia,3_III_2
+Germany,USA,39.78373,-100.445882,B,tetraurelia,A4-116
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,NF_13
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,NF_20
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,NF23
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,NF_3
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,NF4
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,SF_3
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,SF_4
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,SF_5
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,SF_6
+Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,SF_9
+Japan,Germany – Baden-baden,48.7610716,8.239959,C,bursaria,BB1
+Japan,Japan - Honsyu Island,37.490074,139.835688,N,primaurelia_cladeB,YKKWold
+Japan,"Yamaguchi, Japan",37.490074,139.835688,D,tribursaria,Yad1g1N
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,E,bursaria,MW_45
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_11
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_12
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_14
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_15
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_18
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_20
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_21
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_22
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW23
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW24
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_25
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_26
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_27
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_3
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_30
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_31
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_32
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_33
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_34
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_4
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_5
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_6
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_7
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_8
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,NE1
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,NE3
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,NE4
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,NE8
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,B,multimicronucleatum,MW_40
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,B,multimicronucleatum,MW_42
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,B,multimicronucleatum,NE5
+Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,tribursaria,MW_46
+Nebraska,,,,,multimicronucleatum,PPP22-17
+Nebraska,,41.737023,-99.587382,E,primaurelia_cladeA,CL_22-7
+Nebraska,,41.737023,-99.587382,E,primaurelia_cladeB,CL_22-10
+Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC_15_B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC_22-13B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC_22-29B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC_38_B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC_3_B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC43B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC_4B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,caudatum_cladeB,SC22-16
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,caudatum_cladeB,SC22-20
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,caudatum_cladeB,SC22-22
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,caudatum_cladeB,SC22-27
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,caudatum_cladeB,SC22-28
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,caudatum_cladeB,SC22-36
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,caudatum_cladeB,SC22-7
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,fokini,SC_22-1
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,fokini,SC22-13
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,fokini,SC22-19
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,fokini,SC22-25
+Nebraska,Spring Creek Pond,40.692931,-96.851981,D,fokini,SC22-26
+Nebraska,Spring Creek Pond,40.692931,-96.851981,L,primaurelia_cladeA,SC34B
+Nebraska,Spring Creek Pond,40.692931,-96.851981,L,primaurelia_cladeB,SC22-12
+Nebraska,,41.7370229,-99.5873816,B,triaurelia,CL_22-29
+Nebraska,,41.7370229,-99.5873816,B,triaurelia,CL_22-33
+Nebraska,,41.7370229,-99.5873816,B,triaurelia,CL_22-37
+Nebraska,,41.7370229,-99.5873816,B,triaurelia,CL_22-39
+New York,Basha Kill Marsh,41.535528,-74.512361,D,biaurelia,BA1C_2
+New York,Basha Kill Marsh,41.535528,-74.512361,D,biaurelia,BA2A_1
+New York,Basha Kill Marsh,41.535528,-74.512361,D,biaurelia,BA4C_1
+New York,Duck Pond,41.754139,-74.145639,F,biaurelia,DP1G_2
+New York,Great Sacandaga Lake,43.110694,-74.198944,D,triaurelia,SA1E_1
+New York,Yanketown Pond,42.01975,-74.183694,J,biaurelia,YK2H_1
