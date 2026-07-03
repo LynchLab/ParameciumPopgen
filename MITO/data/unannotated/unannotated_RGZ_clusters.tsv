@@ -1,0 +1,2071 @@
+species	sample	orf_id	cluster_label
+pfoki	"<bound method NDFrame.sample of short_id          U0000340
+species              pfoki
+sample      M12__pfoki_orf
+orf_id       cds_2_frame_5
+Name: 339, dtype: object>"	cds_2_frame_5	R1
+multi	"<bound method NDFrame.sample of short_id                            U0000291
+species                                multi
+sample      RL15-60__multimicronucleatum_orf
+orf_id                         cds_2_frame_2
+Name: 290, dtype: object>"	cds_2_frame_2	R1
+multi	"<bound method NDFrame.sample of short_id                          U0000274
+species                              multi
+sample      AL7-6__multimicronucleatum_orf
+orf_id                       cds_2_frame_2
+Name: 273, dtype: object>"	cds_2_frame_2	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000300
+species                                 multi
+sample      SWL_1-26__multimicronucleatum_orf
+orf_id                          cds_2_frame_5
+Name: 299, dtype: object>"	cds_2_frame_5	R1
+multi	"<bound method NDFrame.sample of short_id                            U0000303
+species                                multi
+sample      SWL_1-2__multimicronucleatum_orf
+orf_id                         cds_2_frame_3
+Name: 302, dtype: object>"	cds_2_frame_3	R1
+multi	"<bound method NDFrame.sample of short_id                         U0000275
+species                             multi
+sample      C175__multimicronucleatum_orf
+orf_id                      cds_1_frame_3
+Name: 274, dtype: object>"	cds_1_frame_3	R1
+multi	"<bound method NDFrame.sample of short_id                          U0000277
+species                              multi
+sample      MW_37__multimicronucleatum_orf
+orf_id                       cds_2_frame_4
+Name: 276, dtype: object>"	cds_2_frame_4	R1
+pfoki	"<bound method NDFrame.sample of short_id          U0000355
+species              pfoki
+sample      NE8__pfoki_orf
+orf_id       cds_4_frame_1
+Name: 354, dtype: object>"	cds_4_frame_1	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000302
+species                                 multi
+sample      SWL_1-27__multimicronucleatum_orf
+orf_id                          cds_2_frame_4
+Name: 301, dtype: object>"	cds_2_frame_4	R1
+multi	"<bound method NDFrame.sample of short_id                            U0000286
+species                                multi
+sample      PPP22-9__multimicronucleatum_orf
+orf_id                         cds_2_frame_6
+Name: 285, dtype: object>"	cds_2_frame_6	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000283
+species                                 multi
+sample      PPP22-26__multimicronucleatum_orf
+orf_id                          cds_2_frame_2
+Name: 282, dtype: object>"	cds_2_frame_2	R1
+multi	"<bound method NDFrame.sample of short_id                           U0000263
+species                               multi
+sample      AL_2-7__multimicronucleatum_orf
+orf_id                        cds_1_frame_5
+Name: 262, dtype: object>"	cds_1_frame_5	R1
+primaurelia	"<bound method NDFrame.sample of short_id                   U0000357
+species                 primaurelia
+sample      CAC1-8__primaurelia_orf
+orf_id                cds_1_frame_5
+Name: 356, dtype: object>"	cds_1_frame_5	R1
+multi	"<bound method NDFrame.sample of short_id                          U0000265
+species                              multi
+sample      AL3-2__multimicronucleatum_orf
+orf_id                       cds_2_frame_5
+Name: 264, dtype: object>"	cds_2_frame_5	R1
+pfoki	"<bound method NDFrame.sample of short_id         U0000339
+species             pfoki
+sample      J1__pfoki_orf
+orf_id      cds_2_frame_4
+Name: 338, dtype: object>"	cds_2_frame_4	R1
+pfoki	"<bound method NDFrame.sample of short_id         U0000338
+species             pfoki
+sample      G6__pfoki_orf
+orf_id      cds_2_frame_5
+Name: 337, dtype: object>"	cds_2_frame_5	R1
+multi	"<bound method NDFrame.sample of short_id                           U0000272
+species                               multi
+sample      AL7-31__multimicronucleatum_orf
+orf_id                        cds_2_frame_4
+Name: 271, dtype: object>"	cds_2_frame_4	R1
+multi	"<bound method NDFrame.sample of short_id                           U0000267
+species                               multi
+sample      AL7-12__multimicronucleatum_orf
+orf_id                        cds_2_frame_5
+Name: 266, dtype: object>"	cds_2_frame_5	R1
+pfoki	"<bound method NDFrame.sample of short_id            U0000349
+species                pfoki
+sample      MW_35__pfoki_orf
+orf_id         cds_2_frame_3
+Name: 348, dtype: object>"	cds_2_frame_3	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000293
+species                                 multi
+sample      SWL_1-14__multimicronucleatum_orf
+orf_id                          cds_2_frame_2
+Name: 292, dtype: object>"	cds_2_frame_2	R1
+multi	"<bound method NDFrame.sample of short_id                            U0000305
+species                                multi
+sample      SWL_1-3__multimicronucleatum_orf
+orf_id                         cds_2_frame_6
+Name: 304, dtype: object>"	cds_2_frame_6	R1
+multi	"<bound method NDFrame.sample of short_id                                U0000307
+species                                    multi
+sample      SWL_1-4afat__multimicronucleatum_orf
+orf_id                             cds_2_frame_4
+Name: 306, dtype: object>"	cds_2_frame_4	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000298
+species                                 multi
+sample      SWL_1-24__multimicronucleatum_orf
+orf_id                          cds_2_frame_2
+Name: 297, dtype: object>"	cds_2_frame_2	R1
+caudatum	"<bound method NDFrame.sample of short_id                  U0000254
+species                   caudatum
+sample      SWL_1-29__caudatum_orf
+orf_id               cds_3_frame_1
+Name: 253, dtype: object>"	cds_3_frame_1	R1
+pfoki	"<bound method NDFrame.sample of short_id          U0000341
+species              pfoki
+sample      M18__pfoki_orf
+orf_id       cds_2_frame_3
+Name: 340, dtype: object>"	cds_2_frame_3	R1
+multi	"<bound method NDFrame.sample of short_id                           U0000269
+species                               multi
+sample      AL7-20__multimicronucleatum_orf
+orf_id                        cds_2_frame_4
+Name: 268, dtype: object>"	cds_2_frame_4	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000297
+species                                 multi
+sample      SWL_1-19__multimicronucleatum_orf
+orf_id                          cds_2_frame_5
+Name: 296, dtype: object>"	cds_2_frame_5	R1
+pfoki	"<bound method NDFrame.sample of short_id          U0000353
+species              pfoki
+sample      NE3__pfoki_orf
+orf_id       cds_3_frame_3
+Name: 352, dtype: object>"	cds_3_frame_3	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000280
+species                                 multi
+sample      PPP22-23__multimicronucleatum_orf
+orf_id                          cds_2_frame_1
+Name: 279, dtype: object>"	cds_2_frame_1	R1
+multi	"<bound method NDFrame.sample of short_id                           U0000270
+species                               multi
+sample      AL7-22__multimicronucleatum_orf
+orf_id                        cds_2_frame_4
+Name: 269, dtype: object>"	cds_2_frame_4	R1
+pfoki	"<bound method NDFrame.sample of short_id            U0000343
+species                pfoki
+sample      Mo3C4__pfoki_orf
+orf_id         cds_2_frame_1
+Name: 342, dtype: object>"	cds_2_frame_1	R1
+multi	"<bound method NDFrame.sample of short_id                             U0000295
+species                                 multi
+sample      SWL_1-17__multimicronucleatum_orf
+orf_id                          cds_2_frame_2
+Name: 294, dtype: object>"	cds_2_frame_2	R1
+caudatum	"<bound method NDFrame.sample of short_id                U0000262
+species                 caudatum
+sample      WL5-7B__caudatum_orf
+orf_id             cds_3_frame_5
+Name: 261, dtype: object>"	cds_3_frame_5	R1
+multi	"<bound method NDFrame.sample of short_id                            U0000306
+species                                multi
+sample      SWL_1-3__multimicronucleatum_orf
+orf_id                         cds_4_frame_6
+Name: 305, dtype: object>"	cds_4_frame_6	G1
+multi	"<bound method NDFrame.sample of short_id                           U0000264
+species                               multi
+sample      AL_2-7__multimicronucleatum_orf
+orf_id                        cds_3_frame_5
+Name: 263, dtype: object>"	cds_3_frame_5	G1
+multi	"<bound method NDFrame.sample of short_id                             U0000296
+species                                 multi
+sample      SWL_1-17__multimicronucleatum_orf
+orf_id                          cds_4_frame_2
+Name: 295, dtype: object>"	cds_4_frame_2	G1
+multi	"<bound method NDFrame.sample of short_id                             U0000299
+species                                 multi
+sample      SWL_1-24__multimicronucleatum_orf
+orf_id                          cds_4_frame_2
+Name: 298, dtype: object>"	cds_4_frame_2	G1
+multi	"<bound method NDFrame.sample of short_id                            U0000304
+species                                multi
+sample      SWL_1-2__multimicronucleatum_orf
+orf_id                         cds_4_frame_3
+Name: 303, dtype: object>"	cds_4_frame_3	G1
+multi	"<bound method NDFrame.sample of short_id                            U0000287
+species                                multi
+sample      PPP22-9__multimicronucleatum_orf
+orf_id                         cds_3_frame_4
+Name: 286, dtype: object>"	cds_3_frame_4	G1
+multi	"<bound method NDFrame.sample of short_id                             U0000281
+species                                 multi
+sample      PPP22-23__multimicronucleatum_orf
+orf_id                          cds_3_frame_3
+Name: 280, dtype: object>"	cds_3_frame_3	G1
+multi	"<bound method NDFrame.sample of short_id                                U0000308
+species                                    multi
+sample      SWL_1-4afat__multimicronucleatum_orf
+orf_id                             cds_4_frame_4
+Name: 307, dtype: object>"	cds_4_frame_4	G1
+multi	"<bound method NDFrame.sample of short_id                          U0000278
+species                              multi
+sample      MW_37__multimicronucleatum_orf
+orf_id                       cds_4_frame_4
+Name: 277, dtype: object>"	cds_4_frame_4	G1
+multi	"<bound method NDFrame.sample of short_id                             U0000284
+species                                 multi
+sample      PPP22-26__multimicronucleatum_orf
+orf_id                          cds_3_frame_3
+Name: 283, dtype: object>"	cds_3_frame_3	G1
+multi	"<bound method NDFrame.sample of short_id                            U0000292
+species                                multi
+sample      RL15-60__multimicronucleatum_orf
+orf_id                         cds_3_frame_3
+Name: 291, dtype: object>"	cds_3_frame_3	G1
+multi	"<bound method NDFrame.sample of short_id                             U0000294
+species                                 multi
+sample      SWL_1-14__multimicronucleatum_orf
+orf_id                          cds_4_frame_2
+Name: 293, dtype: object>"	cds_4_frame_2	G1
+multi	"<bound method NDFrame.sample of short_id                             U0000301
+species                                 multi
+sample      SWL_1-26__multimicronucleatum_orf
+orf_id                          cds_4_frame_5
+Name: 300, dtype: object>"	cds_4_frame_5	G1
+multi	"<bound method NDFrame.sample of short_id                           U0000273
+species                               multi
+sample      AL7-31__multimicronucleatum_orf
+orf_id                        cds_4_frame_4
+Name: 272, dtype: object>"	cds_4_frame_4	G1
+multi	"<bound method NDFrame.sample of short_id                           U0000268
+species                               multi
+sample      AL7-12__multimicronucleatum_orf
+orf_id                        cds_3_frame_4
+Name: 267, dtype: object>"	cds_3_frame_4	G1
+multi	"<bound method NDFrame.sample of short_id                         U0000276
+species                             multi
+sample      C175__multimicronucleatum_orf
+orf_id                      cds_2_frame_3
+Name: 275, dtype: object>"	cds_2_frame_3	G1
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000383
+species             sexaurelia
+sample      G3__sexaurelia_orf
+orf_id          cds_24_frame_2
+Name: 382, dtype: object>"	cds_24_frame_2	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                        U0000389
+species                       sexaurelia
+sample      Indon._1.7_I__sexaurelia_orf
+orf_id                    cds_23_frame_3
+Name: 388, dtype: object>"	cds_23_frame_3	R2
+caudatum	"<bound method NDFrame.sample of short_id               U0000249
+species                caudatum
+sample      HC8-7__caudatum_orf
+orf_id           cds_18_frame_4
+Name: 248, dtype: object>"	cds_18_frame_4	R2
+caudatum	"<bound method NDFrame.sample of short_id              U0000241
+species               caudatum
+sample      caudatum_43c3d_orf
+orf_id          cds_15_frame_4
+Name: 240, dtype: object>"	cds_15_frame_4	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                      U0000381
+species                     sexaurelia
+sample      Ecuad_6_II__sexaurelia_orf
+orf_id                  cds_21_frame_1
+Name: 380, dtype: object>"	cds_21_frame_1	R2
+caudatum	"<bound method NDFrame.sample of short_id             U0000244
+species              caudatum
+sample      caudatum_C083_orf
+orf_id         cds_19_frame_4
+Name: 243, dtype: object>"	cds_19_frame_4	R2
+caudatum	"<bound method NDFrame.sample of short_id             U0000245
+species              caudatum
+sample      caudatum_C104_orf
+orf_id         cds_20_frame_4
+Name: 244, dtype: object>"	cds_20_frame_4	R2
+caudatum	"<bound method NDFrame.sample of short_id                 U0000258
+species                  caudatum
+sample      WCL8-15__caudatum_orf
+orf_id             cds_18_frame_3
+Name: 257, dtype: object>"	cds_18_frame_3	R2
+caudatum	"<bound method NDFrame.sample of short_id                  U0000255
+species                   caudatum
+sample      SWL_1-29__caudatum_orf
+orf_id               cds_6_frame_1
+Name: 254, dtype: object>"	cds_6_frame_1	R2
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000391
+species             sexaurelia
+sample      J2__sexaurelia_orf
+orf_id          cds_32_frame_2
+Name: 390, dtype: object>"	cds_32_frame_2	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                    U0000395
+species                   sexaurelia
+sample      P_6a-131__sexaurelia_orf
+orf_id                cds_19_frame_3
+Name: 394, dtype: object>"	cds_19_frame_3	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                  U0000376
+species                 sexaurelia
+sample      A6-137__sexaurelia_orf
+orf_id              cds_22_frame_1
+Name: 375, dtype: object>"	cds_22_frame_1	R2
+caudatum	"<bound method NDFrame.sample of short_id               U0000252
+species                caudatum
+sample      NF_13__caudatum_orf
+orf_id           cds_19_frame_1
+Name: 251, dtype: object>"	cds_19_frame_1	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                   U0000370
+species                  sexaurelia
+sample      11_II_7__sexaurelia_orf
+orf_id               cds_19_frame_2
+Name: 369, dtype: object>"	cds_19_frame_2	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                  U0000375
+species                 sexaurelia
+sample      A6-133__sexaurelia_orf
+orf_id              cds_16_frame_1
+Name: 374, dtype: object>"	cds_16_frame_1	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                  U0000373
+species                 sexaurelia
+sample      A6-132__sexaurelia_orf
+orf_id              cds_17_frame_1
+Name: 372, dtype: object>"	cds_17_frame_1	R2
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000400
+species             sexaurelia
+sample      sexaurelia_128_orf
+orf_id          cds_27_frame_5
+Name: 399, dtype: object>"	cds_27_frame_5	R2
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000404
+species             sexaurelia
+sample      sexaurelia_133_orf
+orf_id          cds_17_frame_6
+Name: 403, dtype: object>"	cds_17_frame_6	R2
+caudatum	"<bound method NDFrame.sample of short_id                U0000232
+species                 caudatum
+sample      6_II_4__caudatum_orf
+orf_id            cds_16_frame_3
+Name: 231, dtype: object>"	cds_16_frame_3	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                U0000406
+species               sexaurelia
+sample      sexaurelia_AZ8-4_orf
+orf_id            cds_20_frame_6
+Name: 405, dtype: object>"	cds_20_frame_6	R2
+caudatum	"<bound method NDFrame.sample of short_id                U0000257
+species                 caudatum
+sample      WCL5-3__caudatum_orf
+orf_id            cds_20_frame_5
+Name: 256, dtype: object>"	cds_20_frame_5	R2
+caudatum	"<bound method NDFrame.sample of short_id                 U0000256
+species                  caudatum
+sample      WCL_2-4__caudatum_orf
+orf_id             cds_18_frame_1
+Name: 255, dtype: object>"	cds_18_frame_1	R2
+caudatum	"<bound method NDFrame.sample of short_id                U0000260
+species                 caudatum
+sample      WL2-3B__caudatum_orf
+orf_id            cds_18_frame_4
+Name: 259, dtype: object>"	cds_18_frame_4	R2
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000402
+species             sexaurelia
+sample      sexaurelia_130_orf
+orf_id          cds_24_frame_4
+Name: 401, dtype: object>"	cds_24_frame_4	R2
+caudatum	"<bound method NDFrame.sample of short_id             U0000242
+species              caudatum
+sample      caudatum_C026_orf
+orf_id         cds_20_frame_5
+Name: 241, dtype: object>"	cds_20_frame_5	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                       U0000393
+species                      sexaurelia
+sample      Moz_13_C_IX__sexaurelia_orf
+orf_id                   cds_25_frame_6
+Name: 392, dtype: object>"	cds_25_frame_6	R2
+caudatum	"<bound method NDFrame.sample of short_id              U0000253
+species               caudatum
+sample      SF_9__caudatum_orf
+orf_id          cds_19_frame_1
+Name: 252, dtype: object>"	cds_19_frame_1	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                         U0000387
+species                        sexaurelia
+sample      Indon._12.5_I__sexaurelia_orf
+orf_id                     cds_27_frame_4
+Name: 386, dtype: object>"	cds_27_frame_4	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                U0000378
+species               sexaurelia
+sample      C131__sexaurelia_orf
+orf_id            cds_19_frame_6
+Name: 377, dtype: object>"	cds_19_frame_6	R2
+caudatum	"<bound method NDFrame.sample of short_id               U0000251
+species                caudatum
+sample      LP6-3__caudatum_orf
+orf_id           cds_16_frame_2
+Name: 250, dtype: object>"	cds_16_frame_2	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                 U0000398
+species                sexaurelia
+sample      RL6-2__sexaurelia_orf
+orf_id             cds_23_frame_3
+Name: 397, dtype: object>"	cds_23_frame_3	R2
+caudatum	"<bound method NDFrame.sample of short_id            U0000246
+species             caudatum
+sample      caudatum_GBE_orf
+orf_id        cds_17_frame_6
+Name: 245, dtype: object>"	cds_17_frame_6	R2
+caudatum	"<bound method NDFrame.sample of short_id                U0000247
+species                 caudatum
+sample      HC6-16__caudatum_orf
+orf_id            cds_11_frame_4
+Name: 246, dtype: object>"	cds_11_frame_4	R2
+caudatum	"<bound method NDFrame.sample of short_id              U0000233
+species               caudatum
+sample      C082__caudatum_orf
+orf_id           cds_6_frame_5
+Name: 232, dtype: object>"	cds_6_frame_5	R2
+sexaurelia	"<bound method NDFrame.sample of short_id                       U0000385
+species                      sexaurelia
+sample      Indo_1_9_II__sexaurelia_orf
+orf_id                   cds_22_frame_5
+Name: 384, dtype: object>"	cds_22_frame_5	R2
+triaurelia	"<bound method NDFrame.sample of short_id                   U0000408
+species                  triaurelia
+sample      CL12-18__triaurelia_orf
+orf_id                cds_5_frame_3
+Name: 407, dtype: object>"	cds_5_frame_3	R3
+triaurelia	"<bound method NDFrame.sample of short_id                 U0000410
+species                triaurelia
+sample      LP3-1__triaurelia_orf
+orf_id              cds_5_frame_6
+Name: 409, dtype: object>"	cds_5_frame_6	R3
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000010
+species                 biaurelia
+sample      DP3B_1__biaurelia_orf
+orf_id              cds_4_frame_6
+Name: 9, dtype: object>"	cds_4_frame_6	R3
+triaurelia	"<bound method NDFrame.sample of short_id                  U0000414
+species                 triaurelia
+sample      LP7-5b__triaurelia_orf
+orf_id               cds_5_frame_4
+Name: 413, dtype: object>"	cds_5_frame_4	R3
+biaurelia	"<bound method NDFrame.sample of short_id                   U0000002
+species                   biaurelia
+sample      AL7-27_B__biaurelia_orf
+orf_id                cds_4_frame_2
+Name: 1, dtype: object>"	cds_4_frame_2	R3
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000005
+species                 biaurelia
+sample      BA2A_1__biaurelia_orf
+orf_id             cds_20_frame_2
+Name: 4, dtype: object>"	cds_20_frame_2	R3
+primaurelia	"<bound method NDFrame.sample of short_id                    U0000360
+species                  primaurelia
+sample      CL11-15__primaurelia_orf
+orf_id                 cds_8_frame_4
+Name: 359, dtype: object>"	cds_8_frame_4	R3
+bursaria	"<bound method NDFrame.sample of short_id             U0000015
+species              bursaria
+sample      AZ4__bursaria_orf
+orf_id          cds_2_frame_3
+Name: 14, dtype: object>"	cds_2_frame_3	G2
+bursaria	"<bound method NDFrame.sample of short_id                 U0000064
+species                  bursaria
+sample      P1-21_B__bursaria_orf
+orf_id             cds_13_frame_4
+Name: 63, dtype: object>"	cds_13_frame_4	G2
+bursaria	"<bound method NDFrame.sample of short_id                   U0000072
+species                    bursaria
+sample      P1-7a_(B)__bursaria_orf
+orf_id               cds_19_frame_5
+Name: 71, dtype: object>"	cds_19_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                  U0000077
+species                   bursaria
+sample      P1-8a(B)__bursaria_orf
+orf_id              cds_15_frame_6
+Name: 76, dtype: object>"	cds_15_frame_6	G2
+bursaria	"<bound method NDFrame.sample of short_id                U0000037
+species                 bursaria
+sample      P1-14B__bursaria_orf
+orf_id            cds_18_frame_3
+Name: 36, dtype: object>"	cds_18_frame_3	G2
+bursaria	"<bound method NDFrame.sample of short_id                U0000124
+species                 bursaria
+sample      P3-17a__bursaria_orf
+orf_id             cds_4_frame_5
+Name: 123, dtype: object>"	cds_4_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                 U0000058
+species                  bursaria
+sample      P1-20_B__bursaria_orf
+orf_id             cds_21_frame_5
+Name: 57, dtype: object>"	cds_21_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                 U0000183
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id             cds_18_frame_4
+Name: 182, dtype: object>"	cds_18_frame_4	G2
+bursaria	"<bound method NDFrame.sample of short_id                U0000127
+species                 bursaria
+sample      P3-17b__bursaria_orf
+orf_id            cds_22_frame_6
+Name: 126, dtype: object>"	cds_22_frame_6	G2
+bursaria	"<bound method NDFrame.sample of short_id             U0000011
+species              bursaria
+sample      AZ1__bursaria_orf
+orf_id         cds_14_frame_5
+Name: 10, dtype: object>"	cds_14_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                   U0000090
+species                    bursaria
+sample      P2-20_(B)__bursaria_orf
+orf_id               cds_15_frame_5
+Name: 89, dtype: object>"	cds_15_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id               U0000216
+species                bursaria
+sample      SC43B__bursaria_orf
+orf_id            cds_7_frame_3
+Name: 215, dtype: object>"	cds_7_frame_3	G2
+bursaria	"<bound method NDFrame.sample of short_id                U0000036
+species                 bursaria
+sample      P1-12B__bursaria_orf
+orf_id             cds_7_frame_3
+Name: 35, dtype: object>"	cds_7_frame_3	G2
+bursaria	"<bound method NDFrame.sample of short_id                U0000051
+species                 bursaria
+sample      P1-19B__bursaria_orf
+orf_id            cds_21_frame_3
+Name: 50, dtype: object>"	cds_21_frame_3	G2
+bursaria	"<bound method NDFrame.sample of short_id                   U0000133
+species                    bursaria
+sample      P3-19_(B)__bursaria_orf
+orf_id               cds_24_frame_3
+Name: 132, dtype: object>"	cds_24_frame_3	G2
+bursaria	"<bound method NDFrame.sample of short_id               U0000219
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id           cds_16_frame_4
+Name: 218, dtype: object>"	cds_16_frame_4	G2
+bursaria	"<bound method NDFrame.sample of short_id                 U0000045
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id             cds_20_frame_2
+Name: 44, dtype: object>"	cds_20_frame_2	G2
+bursaria	"<bound method NDFrame.sample of short_id                  U0000117
+species                   bursaria
+sample      P2-9_(B)__bursaria_orf
+orf_id               cds_4_frame_5
+Name: 116, dtype: object>"	cds_4_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                U0000191
+species                 bursaria
+sample      SC_17B__bursaria_orf
+orf_id            cds_23_frame_5
+Name: 190, dtype: object>"	cds_23_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                  U0000100
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_24_frame_6
+Name: 99, dtype: object>"	cds_24_frame_6	G2
+bursaria	"<bound method NDFrame.sample of short_id                 U0000202
+species                  bursaria
+sample      SC_38_B__bursaria_orf
+orf_id             cds_14_frame_4
+Name: 201, dtype: object>"	cds_14_frame_4	G2
+bursaria	"<bound method NDFrame.sample of short_id                 U0000069
+species                  bursaria
+sample      P1-3a_B__bursaria_orf
+orf_id             cds_29_frame_1
+Name: 68, dtype: object>"	cds_29_frame_1	G2
+bursaria	"<bound method NDFrame.sample of short_id                 U0000123
+species                  bursaria
+sample      P3-16aB__bursaria_orf
+orf_id              cds_2_frame_5
+Name: 122, dtype: object>"	cds_2_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                U0000209
+species                 bursaria
+sample      SC_3_B__bursaria_orf
+orf_id            cds_14_frame_4
+Name: 208, dtype: object>"	cds_14_frame_4	G2
+bursaria	"<bound method NDFrame.sample of short_id               U0000029
+species                bursaria
+sample      MW_45__bursaria_orf
+orf_id           cds_20_frame_1
+Name: 28, dtype: object>"	cds_20_frame_1	G2
+bursaria	"<bound method NDFrame.sample of short_id                      U0000138
+species                       bursaria
+sample      P3-3b_(B)2nd__bursaria_orf
+orf_id                  cds_18_frame_4
+Name: 137, dtype: object>"	cds_18_frame_4	G2
+bursaria	"<bound method NDFrame.sample of short_id                  U0000105
+species                   bursaria
+sample      P2-6_(B)__bursaria_orf
+orf_id              cds_15_frame_5
+Name: 104, dtype: object>"	cds_15_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                   U0000200
+species                    bursaria
+sample      SC_22-29B__bursaria_orf
+orf_id                cds_3_frame_5
+Name: 199, dtype: object>"	cds_3_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id               U0000110
+species                bursaria
+sample      P2-7B__bursaria_orf
+orf_id           cds_22_frame_5
+Name: 109, dtype: object>"	cds_22_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id                  U0000145
+species                   bursaria
+sample      P3-5a(B)__bursaria_orf
+orf_id               cds_2_frame_5
+Name: 144, dtype: object>"	cds_2_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id               U0000084
+species                bursaria
+sample      P2-16__bursaria_orf
+orf_id           cds_22_frame_5
+Name: 83, dtype: object>"	cds_22_frame_5	G2
+bursaria	"<bound method NDFrame.sample of short_id              U0000022
+species               bursaria
+sample      C173__bursaria_orf
+orf_id          cds_16_frame_6
+Name: 21, dtype: object>"	cds_16_frame_6	G2
+bursaria	"<bound method NDFrame.sample of short_id                   U0000198
+species                    bursaria
+sample      SC_22-13B__bursaria_orf
+orf_id                cds_9_frame_2
+Name: 197, dtype: object>"	cds_9_frame_2	G2
+other_aurelia	"<bound method NDFrame.sample of short_id          U0000310
+species      other_aurelia
+sample        gigas_mt_orf
+orf_id      cds_10_frame_1
+Name: 309, dtype: object>"	cds_10_frame_1	Z1
+bursaria	"<bound method NDFrame.sample of short_id                    U0000158
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                cds_34_frame_6
+Name: 157, dtype: object>"	cds_34_frame_6	G3
+bursaria	"<bound method NDFrame.sample of short_id                    U0000171
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                cds_32_frame_6
+Name: 170, dtype: object>"	cds_32_frame_6	G3
+sexaurelia	"<bound method NDFrame.sample of short_id                       U0000394
+species                      sexaurelia
+sample      Moz_13_C_IX__sexaurelia_orf
+orf_id                   cds_39_frame_2
+Name: 393, dtype: object>"	cds_39_frame_2	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                U0000379
+species               sexaurelia
+sample      C131__sexaurelia_orf
+orf_id            cds_38_frame_1
+Name: 378, dtype: object>"	cds_38_frame_1	R4
+other_aurelia	"<bound method NDFrame.sample of short_id                U0000316
+species            other_aurelia
+sample      sonneborni_30995_orf
+orf_id            cds_37_frame_2
+Name: 315, dtype: object>"	cds_37_frame_2	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                 U0000399
+species                sexaurelia
+sample      RL6-2__sexaurelia_orf
+orf_id             cds_44_frame_4
+Name: 398, dtype: object>"	cds_44_frame_4	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                  U0000377
+species                 sexaurelia
+sample      A6-137__sexaurelia_orf
+orf_id              cds_44_frame_5
+Name: 376, dtype: object>"	cds_44_frame_5	R4
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000405
+species             sexaurelia
+sample      sexaurelia_133_orf
+orf_id          cds_40_frame_2
+Name: 404, dtype: object>"	cds_40_frame_2	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                   U0000371
+species                  sexaurelia
+sample      11_II_7__sexaurelia_orf
+orf_id               cds_44_frame_5
+Name: 370, dtype: object>"	cds_44_frame_5	R4
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000403
+species             sexaurelia
+sample      sexaurelia_130_orf
+orf_id          cds_45_frame_1
+Name: 402, dtype: object>"	cds_45_frame_1	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                  U0000372
+species                 sexaurelia
+sample      A6-132__sexaurelia_orf
+orf_id              cds_11_frame_4
+Name: 371, dtype: object>"	cds_11_frame_4	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                      U0000382
+species                     sexaurelia
+sample      Ecuad_6_II__sexaurelia_orf
+orf_id                  cds_43_frame_6
+Name: 381, dtype: object>"	cds_43_frame_6	R4
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000392
+species             sexaurelia
+sample      J2__sexaurelia_orf
+orf_id          cds_41_frame_5
+Name: 391, dtype: object>"	cds_41_frame_5	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                  U0000374
+species                 sexaurelia
+sample      A6-133__sexaurelia_orf
+orf_id              cds_11_frame_4
+Name: 373, dtype: object>"	cds_11_frame_4	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                        U0000390
+species                       sexaurelia
+sample      Indon._1.7_I__sexaurelia_orf
+orf_id                    cds_43_frame_4
+Name: 389, dtype: object>"	cds_43_frame_4	R4
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000384
+species             sexaurelia
+sample      G3__sexaurelia_orf
+orf_id          cds_41_frame_5
+Name: 383, dtype: object>"	cds_41_frame_5	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                         U0000388
+species                        sexaurelia
+sample      Indon._12.5_I__sexaurelia_orf
+orf_id                     cds_39_frame_1
+Name: 387, dtype: object>"	cds_39_frame_1	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                       U0000386
+species                      sexaurelia
+sample      Indo_1_9_II__sexaurelia_orf
+orf_id                   cds_41_frame_1
+Name: 385, dtype: object>"	cds_41_frame_1	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                    U0000396
+species                   sexaurelia
+sample      P_6a-131__sexaurelia_orf
+orf_id                cds_40_frame_5
+Name: 395, dtype: object>"	cds_40_frame_5	R4
+sexaurelia	"<bound method NDFrame.sample of short_id                U0000407
+species               sexaurelia
+sample      sexaurelia_AZ8-4_orf
+orf_id            cds_41_frame_3
+Name: 406, dtype: object>"	cds_41_frame_3	R4
+sexaurelia	"<bound method NDFrame.sample of short_id              U0000401
+species             sexaurelia
+sample      sexaurelia_128_orf
+orf_id          cds_41_frame_1
+Name: 400, dtype: object>"	cds_41_frame_1	R4
+bursaria	"<bound method NDFrame.sample of short_id                 U0000184
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id             cds_31_frame_4
+Name: 183, dtype: object>"	cds_31_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id               U0000031
+species                bursaria
+sample      MW_45__bursaria_orf
+orf_id           cds_33_frame_1
+Name: 30, dtype: object>"	cds_33_frame_1	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000052
+species                 bursaria
+sample      P1-19B__bursaria_orf
+orf_id            cds_30_frame_3
+Name: 51, dtype: object>"	cds_30_frame_3	G4
+bursaria	"<bound method NDFrame.sample of short_id                 U0000047
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id             cds_32_frame_1
+Name: 46, dtype: object>"	cds_32_frame_1	G4
+bursaria	"<bound method NDFrame.sample of short_id                 U0000120
+species                  bursaria
+sample      P3-16aB__bursaria_orf
+orf_id             cds_17_frame_5
+Name: 119, dtype: object>"	cds_17_frame_5	G4
+bursaria	"<bound method NDFrame.sample of short_id                    U0000154
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                cds_23_frame_4
+Name: 153, dtype: object>"	cds_23_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id               U0000111
+species                bursaria
+sample      P2-7B__bursaria_orf
+orf_id           cds_31_frame_5
+Name: 110, dtype: object>"	cds_31_frame_5	G4
+bursaria	"<bound method NDFrame.sample of short_id                  U0000116
+species                   bursaria
+sample      P2-9_(B)__bursaria_orf
+orf_id              cds_12_frame_4
+Name: 115, dtype: object>"	cds_12_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id               U0000085
+species                bursaria
+sample      P2-16__bursaria_orf
+orf_id           cds_31_frame_5
+Name: 84, dtype: object>"	cds_31_frame_5	G4
+bursaria	"<bound method NDFrame.sample of short_id               U0000220
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id           cds_33_frame_5
+Name: 219, dtype: object>"	cds_33_frame_5	G4
+bursaria	"<bound method NDFrame.sample of short_id             U0000017
+species              bursaria
+sample      BB1__bursaria_orf
+orf_id         cds_12_frame_5
+Name: 16, dtype: object>"	cds_12_frame_5	G4
+bursaria	"<bound method NDFrame.sample of short_id                 U0000068
+species                  bursaria
+sample      P1-3a_B__bursaria_orf
+orf_id             cds_28_frame_2
+Name: 67, dtype: object>"	cds_28_frame_2	G4
+bursaria	"<bound method NDFrame.sample of short_id                      U0000139
+species                       bursaria
+sample      P3-3b_(B)2nd__bursaria_orf
+orf_id                  cds_27_frame_4
+Name: 138, dtype: object>"	cds_27_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id               U0000214
+species                bursaria
+sample      SC43B__bursaria_orf
+orf_id           cds_20_frame_3
+Name: 213, dtype: object>"	cds_20_frame_3	G4
+bursaria	"<bound method NDFrame.sample of short_id                 U0000204
+species                  bursaria
+sample      SC_38_B__bursaria_orf
+orf_id             cds_33_frame_6
+Name: 203, dtype: object>"	cds_33_frame_6	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000225
+species                 bursaria
+sample      WC9-1b__bursaria_orf
+orf_id            cds_14_frame_5
+Name: 224, dtype: object>"	cds_14_frame_5	G4
+bursaria	"<bound method NDFrame.sample of short_id                 U0000060
+species                  bursaria
+sample      P1-20_B__bursaria_orf
+orf_id             cds_29_frame_4
+Name: 59, dtype: object>"	cds_29_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id                    U0000173
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                cds_35_frame_5
+Name: 172, dtype: object>"	cds_35_frame_5	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000211
+species                 bursaria
+sample      SC_3_B__bursaria_orf
+orf_id            cds_27_frame_4
+Name: 210, dtype: object>"	cds_27_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000038
+species                 bursaria
+sample      P1-14B__bursaria_orf
+orf_id            cds_30_frame_1
+Name: 37, dtype: object>"	cds_30_frame_1	G4
+bursaria	"<bound method NDFrame.sample of short_id                   U0000199
+species                    bursaria
+sample      SC_22-29B__bursaria_orf
+orf_id               cds_15_frame_6
+Name: 198, dtype: object>"	cds_15_frame_6	G4
+bursaria	"<bound method NDFrame.sample of short_id                  U0000101
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_36_frame_6
+Name: 100, dtype: object>"	cds_36_frame_6	G4
+bursaria	"<bound method NDFrame.sample of short_id              U0000026
+species               bursaria
+sample      C173__bursaria_orf
+orf_id          cds_39_frame_4
+Name: 25, dtype: object>"	cds_39_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000035
+species                 bursaria
+sample      P1-12B__bursaria_orf
+orf_id            cds_16_frame_3
+Name: 34, dtype: object>"	cds_16_frame_3	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000128
+species                 bursaria
+sample      P3-17b__bursaria_orf
+orf_id            cds_31_frame_6
+Name: 127, dtype: object>"	cds_31_frame_6	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000192
+species                 bursaria
+sample      SC_17B__bursaria_orf
+orf_id            cds_36_frame_4
+Name: 191, dtype: object>"	cds_36_frame_4	G4
+bursaria	"<bound method NDFrame.sample of short_id                U0000194
+species                 bursaria
+sample      SC_17B__bursaria_orf
+orf_id            cds_38_frame_1
+Name: 193, dtype: object>"	cds_38_frame_1	G5
+bursaria	"<bound method NDFrame.sample of short_id                 U0000206
+species                  bursaria
+sample      SC_38_B__bursaria_orf
+orf_id             cds_51_frame_1
+Name: 205, dtype: object>"	cds_51_frame_1	G5
+bursaria	"<bound method NDFrame.sample of short_id                 U0000062
+species                  bursaria
+sample      P1-20_B__bursaria_orf
+orf_id             cds_49_frame_2
+Name: 61, dtype: object>"	cds_49_frame_2	G5
+bursaria	"<bound method NDFrame.sample of short_id                U0000040
+species                 bursaria
+sample      P1-14B__bursaria_orf
+orf_id            cds_46_frame_4
+Name: 39, dtype: object>"	cds_46_frame_4	G5
+bursaria	"<bound method NDFrame.sample of short_id               U0000113
+species                bursaria
+sample      P2-7B__bursaria_orf
+orf_id           cds_51_frame_3
+Name: 112, dtype: object>"	cds_51_frame_3	G5
+bursaria	"<bound method NDFrame.sample of short_id               U0000222
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id           cds_38_frame_3
+Name: 221, dtype: object>"	cds_38_frame_3	G5
+bursaria	"<bound method NDFrame.sample of short_id                 U0000071
+species                  bursaria
+sample      P1-3a_B__bursaria_orf
+orf_id             cds_46_frame_4
+Name: 70, dtype: object>"	cds_46_frame_4	G5
+bursaria	"<bound method NDFrame.sample of short_id                U0000054
+species                 bursaria
+sample      P1-19B__bursaria_orf
+orf_id            cds_49_frame_4
+Name: 53, dtype: object>"	cds_49_frame_4	G5
+bursaria	"<bound method NDFrame.sample of short_id               U0000087
+species                bursaria
+sample      P2-16__bursaria_orf
+orf_id           cds_48_frame_2
+Name: 86, dtype: object>"	cds_48_frame_2	G5
+bursaria	"<bound method NDFrame.sample of short_id             U0000014
+species              bursaria
+sample      AZ1__bursaria_orf
+orf_id         cds_39_frame_1
+Name: 13, dtype: object>"	cds_39_frame_1	G5
+bursaria	"<bound method NDFrame.sample of short_id                  U0000080
+species                   bursaria
+sample      P1-8a(B)__bursaria_orf
+orf_id              cds_42_frame_2
+Name: 79, dtype: object>"	cds_42_frame_2	G5
+bursaria	"<bound method NDFrame.sample of short_id                 U0000049
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id             cds_45_frame_5
+Name: 48, dtype: object>"	cds_45_frame_5	G5
+bursaria	"<bound method NDFrame.sample of short_id                   U0000074
+species                    bursaria
+sample      P1-7a_(B)__bursaria_orf
+orf_id               cds_38_frame_3
+Name: 73, dtype: object>"	cds_38_frame_3	G5
+bursaria	"<bound method NDFrame.sample of short_id                  U0000107
+species                   bursaria
+sample      P2-6_(B)__bursaria_orf
+orf_id              cds_35_frame_1
+Name: 106, dtype: object>"	cds_35_frame_1	G5
+bursaria	"<bound method NDFrame.sample of short_id                U0000130
+species                 bursaria
+sample      P3-17b__bursaria_orf
+orf_id            cds_50_frame_3
+Name: 129, dtype: object>"	cds_50_frame_3	G5
+bursaria	"<bound method NDFrame.sample of short_id                   U0000135
+species                    bursaria
+sample      P3-19_(B)__bursaria_orf
+orf_id               cds_43_frame_4
+Name: 134, dtype: object>"	cds_43_frame_4	G5
+bursaria	"<bound method NDFrame.sample of short_id                 U0000186
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id             cds_38_frame_3
+Name: 185, dtype: object>"	cds_38_frame_3	G5
+bursaria	"<bound method NDFrame.sample of short_id                  U0000103
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_41_frame_3
+Name: 102, dtype: object>"	cds_41_frame_3	G5
+bursaria	"<bound method NDFrame.sample of short_id               U0000032
+species                bursaria
+sample      MW_45__bursaria_orf
+orf_id           cds_33_frame_5
+Name: 31, dtype: object>"	cds_33_frame_5	G5
+bursaria	"<bound method NDFrame.sample of short_id                   U0000093
+species                    bursaria
+sample      P2-20_(B)__bursaria_orf
+orf_id               cds_27_frame_1
+Name: 92, dtype: object>"	cds_27_frame_1	G5
+bursaria	"<bound method NDFrame.sample of short_id                      U0000142
+species                       bursaria
+sample      P3-3b_(B)2nd__bursaria_orf
+orf_id                  cds_42_frame_1
+Name: 141, dtype: object>"	cds_42_frame_1	G5
+bursaria	"<bound method NDFrame.sample of short_id              U0000025
+species               bursaria
+sample      C173__bursaria_orf
+orf_id          cds_31_frame_1
+Name: 24, dtype: object>"	cds_31_frame_1	G5
+primaurelia	"<bound method NDFrame.sample of short_id                  U0000366
+species                primaurelia
+sample      LP7-1__primaurelia_orf
+orf_id              cds_32_frame_1
+Name: 365, dtype: object>"	cds_32_frame_1	R5
+primaurelia	"<bound method NDFrame.sample of short_id                 U0000367
+species               primaurelia
+sample      primaurelia_AZ9-3_orf
+orf_id             cds_31_frame_2
+Name: 366, dtype: object>"	cds_31_frame_2	R5
+primaurelia	"<bound method NDFrame.sample of short_id                   U0000363
+species                 primaurelia
+sample      CL3-12__primaurelia_orf
+orf_id                cds_5_frame_3
+Name: 362, dtype: object>"	cds_5_frame_3	R5
+primaurelia	"<bound method NDFrame.sample of short_id                            U0000368
+species                          primaurelia
+sample      Rio_Lg_Jac_2_II__primaurelia_orf
+orf_id                        cds_26_frame_5
+Name: 367, dtype: object>"	cds_26_frame_5	R5
+triaurelia	"<bound method NDFrame.sample of short_id                 U0000413
+species                triaurelia
+sample      LP3-6__triaurelia_orf
+orf_id             cds_28_frame_6
+Name: 412, dtype: object>"	cds_28_frame_6	R5
+bursaria	"<bound method NDFrame.sample of short_id                    U0000151
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                cds_14_frame_6
+Name: 150, dtype: object>"	cds_14_frame_6	G6
+bursaria	"<bound method NDFrame.sample of short_id               U0000215
+species                bursaria
+sample      SC43B__bursaria_orf
+orf_id            cds_2_frame_3
+Name: 214, dtype: object>"	cds_2_frame_3	G6
+bursaria	"<bound method NDFrame.sample of short_id                U0000190
+species                 bursaria
+sample      SC_17B__bursaria_orf
+orf_id            cds_16_frame_5
+Name: 189, dtype: object>"	cds_16_frame_5	G6
+bursaria	"<bound method NDFrame.sample of short_id                  U0000097
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_17_frame_6
+Name: 96, dtype: object>"	cds_17_frame_6	G6
+bursaria	"<bound method NDFrame.sample of short_id                     U0000146
+species                      bursaria
+sample      RL13-_18a_B__bursaria_orf
+orf_id                 cds_15_frame_1
+Name: 145, dtype: object>"	cds_15_frame_1	G6
+bursaria	"<bound method NDFrame.sample of short_id                U0000208
+species                 bursaria
+sample      SC_3_B__bursaria_orf
+orf_id            cds_11_frame_5
+Name: 207, dtype: object>"	cds_11_frame_5	G6
+bursaria	"<bound method NDFrame.sample of short_id                 U0000122
+species                  bursaria
+sample      P3-16aB__bursaria_orf
+orf_id              cds_1_frame_4
+Name: 121, dtype: object>"	cds_1_frame_4	G6
+bursaria	"<bound method NDFrame.sample of short_id               U0000028
+species                bursaria
+sample      MW_45__bursaria_orf
+orf_id           cds_13_frame_1
+Name: 27, dtype: object>"	cds_13_frame_1	G6
+bursaria	"<bound method NDFrame.sample of short_id                   U0000089
+species                    bursaria
+sample      P2-20_(B)__bursaria_orf
+orf_id               cds_12_frame_6
+Name: 88, dtype: object>"	cds_12_frame_6	G6
+bursaria	"<bound method NDFrame.sample of short_id                 U0000203
+species                  bursaria
+sample      SC_38_B__bursaria_orf
+orf_id             cds_22_frame_5
+Name: 202, dtype: object>"	cds_22_frame_5	G6
+bursaria	"<bound method NDFrame.sample of short_id                 U0000044
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id             cds_17_frame_1
+Name: 43, dtype: object>"	cds_17_frame_1	G6
+bursaria	"<bound method NDFrame.sample of short_id                    U0000168
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                cds_18_frame_5
+Name: 167, dtype: object>"	cds_18_frame_5	G6
+bursaria	"<bound method NDFrame.sample of short_id                   U0000196
+species                    bursaria
+sample      SC_22-13B__bursaria_orf
+orf_id                cds_2_frame_2
+Name: 195, dtype: object>"	cds_2_frame_2	G6
+bursaria	"<bound method NDFrame.sample of short_id                    U0000163
+species                     bursaria
+sample      RL14-15b-B__bursaria_orf
+orf_id                cds_15_frame_4
+Name: 162, dtype: object>"	cds_15_frame_4	G6
+bursaria	"<bound method NDFrame.sample of short_id                 U0000181
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id             cds_14_frame_6
+Name: 180, dtype: object>"	cds_14_frame_6	G6
+bursaria	"<bound method NDFrame.sample of short_id              U0000023
+species               bursaria
+sample      C173__bursaria_orf
+orf_id          cds_20_frame_4
+Name: 22, dtype: object>"	cds_20_frame_4	G6
+bursaria	"<bound method NDFrame.sample of short_id               U0000217
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id           cds_11_frame_5
+Name: 216, dtype: object>"	cds_11_frame_5	G6
+bursaria	"<bound method NDFrame.sample of short_id             U0000018
+species              bursaria
+sample      BB1__bursaria_orf
+orf_id          cds_1_frame_6
+Name: 17, dtype: object>"	cds_1_frame_6	G6
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000328
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_51_frame_4
+Name: 327, dtype: object>"	cds_51_frame_4	Z2
+caudatum	"<bound method NDFrame.sample of short_id             U0000243
+species              caudatum
+sample      caudatum_C026_orf
+orf_id         cds_24_frame_4
+Name: 242, dtype: object>"	cds_24_frame_4	Z3
+bursaria	"<bound method NDFrame.sample of short_id                  U0000098
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_19_frame_4
+Name: 97, dtype: object>"	cds_19_frame_4	G7
+bursaria	"<bound method NDFrame.sample of short_id                 U0000067
+species                  bursaria
+sample      P1-3a_B__bursaria_orf
+orf_id             cds_15_frame_3
+Name: 66, dtype: object>"	cds_15_frame_3	G7
+bursaria	"<bound method NDFrame.sample of short_id                 U0000182
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id             cds_16_frame_4
+Name: 181, dtype: object>"	cds_16_frame_4	G7
+bursaria	"<bound method NDFrame.sample of short_id               U0000224
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id            cds_8_frame_6
+Name: 223, dtype: object>"	cds_8_frame_6	G8
+bursaria	"<bound method NDFrame.sample of short_id                    U0000179
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                 cds_7_frame_6
+Name: 178, dtype: object>"	cds_7_frame_6	G8
+bursaria	"<bound method NDFrame.sample of short_id                U0000056
+species                 bursaria
+sample      P1-19B__bursaria_orf
+orf_id             cds_7_frame_3
+Name: 55, dtype: object>"	cds_7_frame_3	G8
+bursaria	"<bound method NDFrame.sample of short_id              U0000021
+species               bursaria
+sample      C173__bursaria_orf
+orf_id          cds_10_frame_4
+Name: 20, dtype: object>"	cds_10_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id                   U0000137
+species                    bursaria
+sample      P3-19_(B)__bursaria_orf
+orf_id                cds_8_frame_3
+Name: 136, dtype: object>"	cds_8_frame_3	G8
+bursaria	"<bound method NDFrame.sample of short_id                 U0000063
+species                  bursaria
+sample      P1-20_B__bursaria_orf
+orf_id              cds_8_frame_4
+Name: 62, dtype: object>"	cds_8_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id                U0000210
+species                 bursaria
+sample      SC_3_B__bursaria_orf
+orf_id             cds_1_frame_4
+Name: 209, dtype: object>"	cds_1_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id                  U0000108
+species                   bursaria
+sample      P2-6_(B)__bursaria_orf
+orf_id               cds_3_frame_6
+Name: 107, dtype: object>"	cds_3_frame_6	G8
+bursaria	"<bound method NDFrame.sample of short_id                  U0000104
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id               cds_8_frame_4
+Name: 103, dtype: object>"	cds_8_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id                    U0000167
+species                     bursaria
+sample      RL14-15b-B__bursaria_orf
+orf_id                 cds_5_frame_5
+Name: 166, dtype: object>"	cds_5_frame_5	G8
+bursaria	"<bound method NDFrame.sample of short_id               U0000033
+species                bursaria
+sample      MW_45__bursaria_orf
+orf_id            cds_6_frame_3
+Name: 32, dtype: object>"	cds_6_frame_3	G8
+bursaria	"<bound method NDFrame.sample of short_id                U0000189
+species                 bursaria
+sample      SC_17B__bursaria_orf
+orf_id            cds_10_frame_4
+Name: 188, dtype: object>"	cds_10_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id               U0000115
+species                bursaria
+sample      P2-7B__bursaria_orf
+orf_id            cds_9_frame_5
+Name: 114, dtype: object>"	cds_9_frame_5	G8
+bursaria	"<bound method NDFrame.sample of short_id                      U0000144
+species                       bursaria
+sample      P3-3b_(B)2nd__bursaria_orf
+orf_id                   cds_9_frame_5
+Name: 143, dtype: object>"	cds_9_frame_5	G8
+bursaria	"<bound method NDFrame.sample of short_id                    U0000159
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                 cds_3_frame_4
+Name: 158, dtype: object>"	cds_3_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id                 U0000188
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id              cds_9_frame_5
+Name: 187, dtype: object>"	cds_9_frame_5	G8
+bursaria	"<bound method NDFrame.sample of short_id                U0000131
+species                 bursaria
+sample      P3-17b__bursaria_orf
+orf_id             cds_8_frame_6
+Name: 130, dtype: object>"	cds_8_frame_6	G8
+bursaria	"<bound method NDFrame.sample of short_id                 U0000201
+species                  bursaria
+sample      SC_38_B__bursaria_orf
+orf_id             cds_10_frame_5
+Name: 200, dtype: object>"	cds_10_frame_5	G8
+bursaria	"<bound method NDFrame.sample of short_id                   U0000094
+species                    bursaria
+sample      P2-20_(B)__bursaria_orf
+orf_id                cds_5_frame_4
+Name: 93, dtype: object>"	cds_5_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id                     U0000150
+species                      bursaria
+sample      RL13-_18a_B__bursaria_orf
+orf_id                  cds_5_frame_3
+Name: 149, dtype: object>"	cds_5_frame_3	G8
+bursaria	"<bound method NDFrame.sample of short_id                  U0000082
+species                   bursaria
+sample      P1-8a(B)__bursaria_orf
+orf_id               cds_8_frame_4
+Name: 81, dtype: object>"	cds_8_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id                 U0000050
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id              cds_8_frame_3
+Name: 49, dtype: object>"	cds_8_frame_3	G8
+bursaria	"<bound method NDFrame.sample of short_id                 U0000230
+species                  bursaria
+sample      Yad1g1N__bursaria_orf
+orf_id              cds_8_frame_1
+Name: 229, dtype: object>"	cds_8_frame_1	G8
+bursaria	"<bound method NDFrame.sample of short_id                   U0000075
+species                    bursaria
+sample      P1-7a_(B)__bursaria_orf
+orf_id                cds_7_frame_4
+Name: 74, dtype: object>"	cds_7_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id               U0000083
+species                bursaria
+sample      P2-16__bursaria_orf
+orf_id           cds_10_frame_4
+Name: 82, dtype: object>"	cds_10_frame_4	G8
+bursaria	"<bound method NDFrame.sample of short_id             U0000012
+species              bursaria
+sample      AZ1__bursaria_orf
+orf_id          cds_1_frame_5
+Name: 11, dtype: object>"	cds_1_frame_5	G8
+bursaria	"<bound method NDFrame.sample of short_id                U0000042
+species                 bursaria
+sample      P1-14B__bursaria_orf
+orf_id             cds_9_frame_2
+Name: 41, dtype: object>"	cds_9_frame_2	G8
+bursaria	"<bound method NDFrame.sample of short_id                 U0000066
+species                  bursaria
+sample      P1-3a_B__bursaria_orf
+orf_id             cds_11_frame_1
+Name: 65, dtype: object>"	cds_11_frame_1	G8
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000008
+species                 biaurelia
+sample      DP1G_2__biaurelia_orf
+orf_id              cds_8_frame_5
+Name: 7, dtype: object>"	cds_8_frame_5	G9
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000004
+species                 biaurelia
+sample      BA2A_1__biaurelia_orf
+orf_id             cds_15_frame_3
+Name: 3, dtype: object>"	cds_15_frame_3	G9
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000006
+species                 biaurelia
+sample      BA4C_1__biaurelia_orf
+orf_id              cds_8_frame_1
+Name: 5, dtype: object>"	cds_8_frame_1	G9
+multi	"<bound method NDFrame.sample of short_id                             U0000282
+species                                 multi
+sample      PPP22-26__multimicronucleatum_orf
+orf_id                          cds_1_frame_5
+Name: 281, dtype: object>"	cds_1_frame_5	R6
+multi	"<bound method NDFrame.sample of short_id                             U0000279
+species                                 multi
+sample      PPP22-23__multimicronucleatum_orf
+orf_id                          cds_1_frame_4
+Name: 278, dtype: object>"	cds_1_frame_4	R6
+multi	"<bound method NDFrame.sample of short_id                           U0000266
+species                               multi
+sample      AL7-12__multimicronucleatum_orf
+orf_id                        cds_1_frame_3
+Name: 265, dtype: object>"	cds_1_frame_3	R6
+pfoki	"<bound method NDFrame.sample of short_id          U0000351
+species              pfoki
+sample      NE3__pfoki_orf
+orf_id       cds_1_frame_5
+Name: 350, dtype: object>"	cds_1_frame_5	R6
+multi	"<bound method NDFrame.sample of short_id                            U0000285
+species                                multi
+sample      PPP22-9__multimicronucleatum_orf
+orf_id                         cds_1_frame_3
+Name: 284, dtype: object>"	cds_1_frame_3	R6
+pfoki	"<bound method NDFrame.sample of short_id              U0000347
+species                  pfoki
+sample      MW_26__Pfokini_orf
+orf_id           cds_1_frame_1
+Name: 346, dtype: object>"	cds_1_frame_1	R6
+multi	"<bound method NDFrame.sample of short_id                            U0000290
+species                                multi
+sample      RL15-60__multimicronucleatum_orf
+orf_id                         cds_1_frame_5
+Name: 289, dtype: object>"	cds_1_frame_5	R6
+pfoki	"<bound method NDFrame.sample of short_id            U0000342
+species                pfoki
+sample      Mo3C4__pfoki_orf
+orf_id         cds_1_frame_4
+Name: 341, dtype: object>"	cds_1_frame_4	R6
+bursaria	"<bound method NDFrame.sample of short_id                U0000213
+species                 bursaria
+sample      SC_3_B__bursaria_orf
+orf_id             cds_3_frame_6
+Name: 212, dtype: object>"	cds_3_frame_6	Z4
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000001
+species                 biaurelia
+sample      4_IV_3__biaurelia_orf
+orf_id              cds_1_frame_4
+Name: 0, dtype: object>"	cds_1_frame_4	R7
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000003
+species                 biaurelia
+sample      BA1C_2__biaurelia_orf
+orf_id              cds_1_frame_6
+Name: 2, dtype: object>"	cds_1_frame_6	R7
+primaurelia	"<bound method NDFrame.sample of short_id                    U0000358
+species                  primaurelia
+sample      CL11-15__primaurelia_orf
+orf_id                 cds_1_frame_3
+Name: 357, dtype: object>"	cds_1_frame_3	R7
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000009
+species                 biaurelia
+sample      DP3B_1__biaurelia_orf
+orf_id              cds_1_frame_3
+Name: 8, dtype: object>"	cds_1_frame_3	R7
+triaurelia	"<bound method NDFrame.sample of short_id                 U0000412
+species                triaurelia
+sample      LP3-1__triaurelia_orf
+orf_id              cds_9_frame_3
+Name: 411, dtype: object>"	cds_9_frame_3	R7
+bursaria	"<bound method NDFrame.sample of short_id                 U0000205
+species                  bursaria
+sample      SC_38_B__bursaria_orf
+orf_id             cds_50_frame_1
+Name: 204, dtype: object>"	cds_50_frame_1	G10
+bursaria	"<bound method NDFrame.sample of short_id                U0000212
+species                 bursaria
+sample      SC_3_B__bursaria_orf
+orf_id            cds_36_frame_2
+Name: 211, dtype: object>"	cds_36_frame_2	G10
+bursaria	"<bound method NDFrame.sample of short_id               U0000030
+species                bursaria
+sample      MW_45__bursaria_orf
+orf_id           cds_32_frame_5
+Name: 29, dtype: object>"	cds_32_frame_5	G10
+bursaria	"<bound method NDFrame.sample of short_id                U0000053
+species                 bursaria
+sample      P1-19B__bursaria_orf
+orf_id            cds_48_frame_4
+Name: 52, dtype: object>"	cds_48_frame_4	G10
+bursaria	"<bound method NDFrame.sample of short_id               U0000221
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id           cds_37_frame_3
+Name: 220, dtype: object>"	cds_37_frame_3	G10
+bursaria	"<bound method NDFrame.sample of short_id                U0000129
+species                 bursaria
+sample      P3-17b__bursaria_orf
+orf_id            cds_49_frame_3
+Name: 128, dtype: object>"	cds_49_frame_3	G10
+bursaria	"<bound method NDFrame.sample of short_id                U0000039
+species                 bursaria
+sample      P1-14B__bursaria_orf
+orf_id            cds_45_frame_4
+Name: 38, dtype: object>"	cds_45_frame_4	G10
+bursaria	"<bound method NDFrame.sample of short_id                  U0000102
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_40_frame_3
+Name: 101, dtype: object>"	cds_40_frame_3	G10
+bursaria	"<bound method NDFrame.sample of short_id                      U0000141
+species                       bursaria
+sample      P3-3b_(B)2nd__bursaria_orf
+orf_id                  cds_41_frame_1
+Name: 140, dtype: object>"	cds_41_frame_1	G10
+bursaria	"<bound method NDFrame.sample of short_id                   U0000134
+species                    bursaria
+sample      P3-19_(B)__bursaria_orf
+orf_id               cds_42_frame_4
+Name: 133, dtype: object>"	cds_42_frame_4	G10
+bursaria	"<bound method NDFrame.sample of short_id                  U0000106
+species                   bursaria
+sample      P2-6_(B)__bursaria_orf
+orf_id              cds_34_frame_1
+Name: 105, dtype: object>"	cds_34_frame_1	G10
+bursaria	"<bound method NDFrame.sample of short_id                U0000193
+species                 bursaria
+sample      SC_17B__bursaria_orf
+orf_id            cds_37_frame_1
+Name: 192, dtype: object>"	cds_37_frame_1	G10
+bursaria	"<bound method NDFrame.sample of short_id               U0000086
+species                bursaria
+sample      P2-16__bursaria_orf
+orf_id           cds_47_frame_2
+Name: 85, dtype: object>"	cds_47_frame_2	G10
+bursaria	"<bound method NDFrame.sample of short_id                 U0000061
+species                  bursaria
+sample      P1-20_B__bursaria_orf
+orf_id             cds_48_frame_2
+Name: 60, dtype: object>"	cds_48_frame_2	G10
+bursaria	"<bound method NDFrame.sample of short_id              U0000024
+species               bursaria
+sample      C173__bursaria_orf
+orf_id          cds_30_frame_1
+Name: 23, dtype: object>"	cds_30_frame_1	G10
+bursaria	"<bound method NDFrame.sample of short_id                  U0000079
+species                   bursaria
+sample      P1-8a(B)__bursaria_orf
+orf_id              cds_41_frame_2
+Name: 78, dtype: object>"	cds_41_frame_2	G10
+bursaria	"<bound method NDFrame.sample of short_id             U0000013
+species              bursaria
+sample      AZ1__bursaria_orf
+orf_id         cds_38_frame_1
+Name: 12, dtype: object>"	cds_38_frame_1	G10
+bursaria	"<bound method NDFrame.sample of short_id               U0000112
+species                bursaria
+sample      P2-7B__bursaria_orf
+orf_id           cds_50_frame_3
+Name: 111, dtype: object>"	cds_50_frame_3	G10
+bursaria	"<bound method NDFrame.sample of short_id                   U0000092
+species                    bursaria
+sample      P2-20_(B)__bursaria_orf
+orf_id               cds_26_frame_1
+Name: 91, dtype: object>"	cds_26_frame_1	G10
+bursaria	"<bound method NDFrame.sample of short_id                 U0000185
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id             cds_37_frame_3
+Name: 184, dtype: object>"	cds_37_frame_3	G10
+bursaria	"<bound method NDFrame.sample of short_id                 U0000070
+species                  bursaria
+sample      P1-3a_B__bursaria_orf
+orf_id             cds_45_frame_4
+Name: 69, dtype: object>"	cds_45_frame_4	G10
+bursaria	"<bound method NDFrame.sample of short_id                   U0000073
+species                    bursaria
+sample      P1-7a_(B)__bursaria_orf
+orf_id               cds_37_frame_3
+Name: 72, dtype: object>"	cds_37_frame_3	G10
+bursaria	"<bound method NDFrame.sample of short_id                 U0000048
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id             cds_44_frame_5
+Name: 47, dtype: object>"	cds_44_frame_5	G10
+bursaria	"<bound method NDFrame.sample of short_id                    U0000155
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                 cds_2_frame_3
+Name: 154, dtype: object>"	cds_2_frame_3	G11
+bursaria	"<bound method NDFrame.sample of short_id                    U0000170
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                 cds_2_frame_2
+Name: 169, dtype: object>"	cds_2_frame_2	G11
+bursaria	"<bound method NDFrame.sample of short_id                U0000055
+species                 bursaria
+sample      P1-19B__bursaria_orf
+orf_id             cds_7_frame_1
+Name: 54, dtype: object>"	cds_7_frame_1	G12
+bursaria	"<bound method NDFrame.sample of short_id                  U0000109
+species                   bursaria
+sample      P2-6_(B)__bursaria_orf
+orf_id               cds_5_frame_5
+Name: 108, dtype: object>"	cds_5_frame_5	G12
+bursaria	"<bound method NDFrame.sample of short_id                   U0000095
+species                    bursaria
+sample      P2-20_(B)__bursaria_orf
+orf_id                cds_5_frame_6
+Name: 94, dtype: object>"	cds_5_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id                U0000195
+species                 bursaria
+sample      SC_17B__bursaria_orf
+orf_id             cds_6_frame_6
+Name: 194, dtype: object>"	cds_6_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id                 U0000187
+species                  bursaria
+sample      SC_15_B__bursaria_orf
+orf_id              cds_9_frame_4
+Name: 186, dtype: object>"	cds_9_frame_4	G12
+bursaria	"<bound method NDFrame.sample of short_id                U0000125
+species                 bursaria
+sample      P3-17b__bursaria_orf
+orf_id            cds_11_frame_5
+Name: 124, dtype: object>"	cds_11_frame_5	G12
+bursaria	"<bound method NDFrame.sample of short_id                  U0000096
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_11_frame_6
+Name: 95, dtype: object>"	cds_11_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id               U0000223
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id            cds_5_frame_5
+Name: 222, dtype: object>"	cds_5_frame_5	G12
+bursaria	"<bound method NDFrame.sample of short_id                      U0000143
+species                       bursaria
+sample      P3-3b_(B)2nd__bursaria_orf
+orf_id                   cds_8_frame_4
+Name: 142, dtype: object>"	cds_8_frame_4	G12
+bursaria	"<bound method NDFrame.sample of short_id               U0000088
+species                bursaria
+sample      P2-16__bursaria_orf
+orf_id            cds_8_frame_6
+Name: 87, dtype: object>"	cds_8_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id               U0000034
+species                bursaria
+sample      MW_45__bursaria_orf
+orf_id            cds_7_frame_1
+Name: 33, dtype: object>"	cds_7_frame_1	G12
+bursaria	"<bound method NDFrame.sample of short_id                U0000041
+species                 bursaria
+sample      P1-14B__bursaria_orf
+orf_id             cds_8_frame_3
+Name: 40, dtype: object>"	cds_8_frame_3	G12
+bursaria	"<bound method NDFrame.sample of short_id                     U0000149
+species                      bursaria
+sample      RL13-_18a_B__bursaria_orf
+orf_id                  cds_5_frame_1
+Name: 148, dtype: object>"	cds_5_frame_1	G12
+bursaria	"<bound method NDFrame.sample of short_id                 U0000231
+species                  bursaria
+sample      Yad1g1N__bursaria_orf
+orf_id              cds_8_frame_2
+Name: 230, dtype: object>"	cds_8_frame_2	G12
+bursaria	"<bound method NDFrame.sample of short_id                 U0000043
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id             cds_11_frame_1
+Name: 42, dtype: object>"	cds_11_frame_1	G12
+bursaria	"<bound method NDFrame.sample of short_id                    U0000166
+species                     bursaria
+sample      RL14-15b-B__bursaria_orf
+orf_id                 cds_5_frame_4
+Name: 165, dtype: object>"	cds_5_frame_4	G12
+bursaria	"<bound method NDFrame.sample of short_id                 U0000065
+species                  bursaria
+sample      P1-3a_B__bursaria_orf
+orf_id             cds_10_frame_2
+Name: 64, dtype: object>"	cds_10_frame_2	G12
+bursaria	"<bound method NDFrame.sample of short_id                   U0000076
+species                    bursaria
+sample      P1-7a_(B)__bursaria_orf
+orf_id                cds_7_frame_6
+Name: 75, dtype: object>"	cds_7_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id                  U0000081
+species                   bursaria
+sample      P1-8a(B)__bursaria_orf
+orf_id               cds_7_frame_6
+Name: 80, dtype: object>"	cds_7_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id               U0000114
+species                bursaria
+sample      P2-7B__bursaria_orf
+orf_id            cds_8_frame_4
+Name: 113, dtype: object>"	cds_8_frame_4	G12
+bursaria	"<bound method NDFrame.sample of short_id                 U0000057
+species                  bursaria
+sample      P1-20_B__bursaria_orf
+orf_id             cds_11_frame_6
+Name: 56, dtype: object>"	cds_11_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id                    U0000180
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                 cds_8_frame_5
+Name: 179, dtype: object>"	cds_8_frame_5	G12
+bursaria	"<bound method NDFrame.sample of short_id              U0000027
+species               bursaria
+sample      C173__bursaria_orf
+orf_id           cds_6_frame_6
+Name: 26, dtype: object>"	cds_6_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id                    U0000161
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                 cds_4_frame_6
+Name: 160, dtype: object>"	cds_4_frame_6	G12
+bursaria	"<bound method NDFrame.sample of short_id                 U0000207
+species                  bursaria
+sample      SC_38_B__bursaria_orf
+orf_id              cds_6_frame_4
+Name: 206, dtype: object>"	cds_6_frame_4	G12
+bursaria	"<bound method NDFrame.sample of short_id                   U0000136
+species                    bursaria
+sample      P3-19_(B)__bursaria_orf
+orf_id                cds_7_frame_1
+Name: 135, dtype: object>"	cds_7_frame_1	G12
+caudatum	"<bound method NDFrame.sample of short_id              U0000240
+species               caudatum
+sample      C139__caudatum_orf
+orf_id           cds_7_frame_5
+Name: 239, dtype: object>"	cds_7_frame_5	Z5
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000330
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id           cds_9_frame_3
+Name: 329, dtype: object>"	cds_9_frame_3	Z6
+bursaria	"<bound method NDFrame.sample of short_id                 U0000119
+species                  bursaria
+sample      P3-16aB__bursaria_orf
+orf_id             cds_10_frame_6
+Name: 118, dtype: object>"	cds_10_frame_6	G13
+bursaria	"<bound method NDFrame.sample of short_id             U0000020
+species              bursaria
+sample      BB1__bursaria_orf
+orf_id          cds_9_frame_6
+Name: 19, dtype: object>"	cds_9_frame_6	G13
+bursaria	"<bound method NDFrame.sample of short_id                   U0000091
+species                    bursaria
+sample      P2-20_(B)__bursaria_orf
+orf_id               cds_23_frame_6
+Name: 90, dtype: object>"	cds_23_frame_6	G13
+bursaria	"<bound method NDFrame.sample of short_id                  U0000118
+species                   bursaria
+sample      P2-9_(B)__bursaria_orf
+orf_id               cds_5_frame_4
+Name: 117, dtype: object>"	cds_5_frame_4	G13
+bursaria	"<bound method NDFrame.sample of short_id                 U0000046
+species                  bursaria
+sample      P1-16_B__bursaria_orf
+orf_id             cds_23_frame_3
+Name: 45, dtype: object>"	cds_23_frame_3	G13
+bursaria	"<bound method NDFrame.sample of short_id             U0000016
+species              bursaria
+sample      AZ4__bursaria_orf
+orf_id          cds_8_frame_2
+Name: 15, dtype: object>"	cds_8_frame_2	G13
+bursaria	"<bound method NDFrame.sample of short_id                 U0000059
+species                  bursaria
+sample      P1-20_B__bursaria_orf
+orf_id             cds_25_frame_6
+Name: 58, dtype: object>"	cds_25_frame_6	G13
+bursaria	"<bound method NDFrame.sample of short_id                  U0000099
+species                   bursaria
+sample      P2-4_(B)__bursaria_orf
+orf_id              cds_21_frame_5
+Name: 98, dtype: object>"	cds_21_frame_5	G13
+pfoki	"<bound method NDFrame.sample of short_id           U0000350
+species               pfoki
+sample      MW_6__pfoki_orf
+orf_id        cds_1_frame_6
+Name: 349, dtype: object>"	cds_1_frame_6	R8
+pfoki	"<bound method NDFrame.sample of short_id              U0000345
+species                  pfoki
+sample      MW_22__Pfokini_orf
+orf_id           cds_4_frame_6
+Name: 344, dtype: object>"	cds_4_frame_6	R8
+multi	"<bound method NDFrame.sample of short_id                       U0000288
+species                           multi
+sample      RIO_ETEALG_3_IX_Pfokini_orf
+orf_id                    cds_3_frame_3
+Name: 287, dtype: object>"	cds_3_frame_3	R8
+pfoki	"<bound method NDFrame.sample of short_id              U0000346
+species                  pfoki
+sample      MW_25__Pfokini_orf
+orf_id           cds_4_frame_6
+Name: 345, dtype: object>"	cds_4_frame_6	R8
+pfoki	"<bound method NDFrame.sample of short_id              U0000348
+species                  pfoki
+sample      MW_26__Pfokini_orf
+orf_id           cds_4_frame_6
+Name: 347, dtype: object>"	cds_4_frame_6	R8
+caudatum	"<bound method NDFrame.sample of short_id               U0000250
+species                caudatum
+sample      HC8-7__caudatum_orf
+orf_id           cds_39_frame_4
+Name: 249, dtype: object>"	cds_39_frame_4	G14
+caudatum	"<bound method NDFrame.sample of short_id                U0000261
+species                 caudatum
+sample      WL2-3B__caudatum_orf
+orf_id            cds_37_frame_6
+Name: 260, dtype: object>"	cds_37_frame_6	G14
+caudatum	"<bound method NDFrame.sample of short_id                U0000248
+species                 caudatum
+sample      HC6-16__caudatum_orf
+orf_id            cds_19_frame_5
+Name: 247, dtype: object>"	cds_19_frame_5	G14
+caudatum	"<bound method NDFrame.sample of short_id                 U0000259
+species                  caudatum
+sample      WCL8-15__caudatum_orf
+orf_id             cds_40_frame_1
+Name: 258, dtype: object>"	cds_40_frame_1	G14
+primaurelia	"<bound method NDFrame.sample of short_id                    U0000361
+species                  primaurelia
+sample      CL11-15__primaurelia_orf
+orf_id                 cds_9_frame_5
+Name: 360, dtype: object>"	cds_9_frame_5	R9
+triaurelia	"<bound method NDFrame.sample of short_id                 U0000411
+species                triaurelia
+sample      LP3-1__triaurelia_orf
+orf_id              cds_8_frame_4
+Name: 410, dtype: object>"	cds_8_frame_4	R9
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000321
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_23_frame_6
+Name: 320, dtype: object>"	cds_23_frame_6	Z7
+caudatum	"<bound method NDFrame.sample of short_id              U0000234
+species               caudatum
+sample      C139__caudatum_orf
+orf_id          cds_11_frame_3
+Name: 233, dtype: object>"	cds_11_frame_3	Z8
+bursaria	"<bound method NDFrame.sample of short_id                    U0000169
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                 cds_1_frame_3
+Name: 168, dtype: object>"	cds_1_frame_3	G15
+bursaria	"<bound method NDFrame.sample of short_id                    U0000152
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                 cds_1_frame_1
+Name: 151, dtype: object>"	cds_1_frame_1	G15
+multi	"<bound method NDFrame.sample of short_id              U0000271
+species                  multi
+sample      AL7-30__Pmulti_orf
+orf_id           cds_1_frame_6
+Name: 270, dtype: object>"	cds_1_frame_6	R10
+quadecaurelia	"<bound method NDFrame.sample of short_id                   U0000369
+species               quadecaurelia
+sample      SL5B__quadecaurelia_orf
+orf_id                cds_2_frame_1
+Name: 368, dtype: object>"	cds_2_frame_1	R10
+other_aurelia	"<bound method NDFrame.sample of short_id                 U0000335
+species             other_aurelia
+sample      tredecaurelia_209_orf
+orf_id             cds_50_frame_1
+Name: 334, dtype: object>"	cds_50_frame_1	Z9
+bursaria	"<bound method NDFrame.sample of short_id                  U0000078
+species                   bursaria
+sample      P1-8a(B)__bursaria_orf
+orf_id              cds_20_frame_4
+Name: 77, dtype: object>"	cds_20_frame_4	G16
+bursaria	"<bound method NDFrame.sample of short_id                   U0000132
+species                    bursaria
+sample      P3-19_(B)__bursaria_orf
+orf_id               cds_20_frame_3
+Name: 131, dtype: object>"	cds_20_frame_3	G16
+bursaria	"<bound method NDFrame.sample of short_id                U0000126
+species                 bursaria
+sample      P3-17b__bursaria_orf
+orf_id            cds_20_frame_6
+Name: 125, dtype: object>"	cds_20_frame_6	G16
+bursaria	"<bound method NDFrame.sample of short_id               U0000218
+species                bursaria
+sample      SC_4B__bursaria_orf
+orf_id           cds_14_frame_4
+Name: 217, dtype: object>"	cds_14_frame_4	G16
+bursaria	"<bound method NDFrame.sample of short_id                    U0000157
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                cds_32_frame_6
+Name: 156, dtype: object>"	cds_32_frame_6	G17
+bursaria	"<bound method NDFrame.sample of short_id                    U0000176
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                cds_40_frame_5
+Name: 175, dtype: object>"	cds_40_frame_5	G17
+caudatum	"<bound method NDFrame.sample of short_id              U0000236
+species               caudatum
+sample      C139__caudatum_orf
+orf_id           cds_1_frame_5
+Name: 235, dtype: object>"	cds_1_frame_5	Z10
+caudatum	"<bound method NDFrame.sample of short_id              U0000237
+species               caudatum
+sample      C139__caudatum_orf
+orf_id           cds_3_frame_5
+Name: 236, dtype: object>"	cds_3_frame_5	Z11
+primaurelia	"<bound method NDFrame.sample of short_id               U0000365
+species             primaurelia
+sample      G5__primaurelia_orf
+orf_id            cds_1_frame_3
+Name: 364, dtype: object>"	cds_1_frame_3	Z12
+bursaria	"<bound method NDFrame.sample of short_id                      U0000140
+species                       bursaria
+sample      P3-3b_(B)2nd__bursaria_orf
+orf_id                  cds_34_frame_5
+Name: 139, dtype: object>"	cds_34_frame_5	R11
+other_aurelia	"<bound method NDFrame.sample of short_id          U0000311
+species      other_aurelia
+sample        gigas_mt_orf
+orf_id      cds_12_frame_3
+Name: 310, dtype: object>"	cds_12_frame_3	R11
+other_aurelia	"<bound method NDFrame.sample of short_id                U0000318
+species            other_aurelia
+sample      sonneborni_30995_orf
+orf_id            cds_58_frame_1
+Name: 317, dtype: object>"	cds_58_frame_1	G18
+other_aurelia	"<bound method NDFrame.sample of short_id                 U0000337
+species             other_aurelia
+sample      tredecaurelia_209_orf
+orf_id             cds_65_frame_3
+Name: 336, dtype: object>"	cds_65_frame_3	G18
+bursaria	"<bound method NDFrame.sample of short_id                    U0000156
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                cds_30_frame_4
+Name: 155, dtype: object>"	cds_30_frame_4	G19
+bursaria	"<bound method NDFrame.sample of short_id                    U0000172
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                cds_34_frame_4
+Name: 171, dtype: object>"	cds_34_frame_4	G19
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000326
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_37_frame_3
+Name: 325, dtype: object>"	cds_37_frame_3	Z13
+multi	"<bound method NDFrame.sample of short_id                            U0000289
+species                                multi
+sample      RL15-41__multimicronucleatum_orf
+orf_id                         cds_1_frame_5
+Name: 288, dtype: object>"	cds_1_frame_5	R12
+pfoki	"<bound method NDFrame.sample of short_id          U0000354
+species              pfoki
+sample      NE8__pfoki_orf
+orf_id       cds_1_frame_5
+Name: 353, dtype: object>"	cds_1_frame_5	R12
+pfoki	"<bound method NDFrame.sample of short_id          U0000352
+species              pfoki
+sample      NE3__pfoki_orf
+orf_id       cds_2_frame_6
+Name: 351, dtype: object>"	cds_2_frame_6	R12
+primaurelia	"<bound method NDFrame.sample of short_id                   U0000364
+species                 primaurelia
+sample      CL3-12__primaurelia_orf
+orf_id                cds_6_frame_2
+Name: 363, dtype: object>"	cds_6_frame_2	Z14
+other_aurelia	"<bound method NDFrame.sample of short_id                 U0000331
+species             other_aurelia
+sample      tredecaurelia_209_orf
+orf_id              cds_3_frame_4
+Name: 330, dtype: object>"	cds_3_frame_4	G20
+other_aurelia	"<bound method NDFrame.sample of short_id                U0000314
+species            other_aurelia
+sample      sonneborni_30995_orf
+orf_id             cds_1_frame_6
+Name: 313, dtype: object>"	cds_1_frame_6	G20
+other_aurelia	"<bound method NDFrame.sample of short_id          U0000312
+species      other_aurelia
+sample        gigas_mt_orf
+orf_id      cds_26_frame_2
+Name: 311, dtype: object>"	cds_26_frame_2	Z15
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000319
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_11_frame_1
+Name: 318, dtype: object>"	cds_11_frame_1	Z16
+sexaurelia	"<bound method NDFrame.sample of short_id                U0000380
+species               sexaurelia
+sample      C131__sexaurelia_orf
+orf_id            cds_64_frame_5
+Name: 379, dtype: object>"	cds_64_frame_5	G21
+sexaurelia	"<bound method NDFrame.sample of short_id                    U0000397
+species                   sexaurelia
+sample      P_6a-131__sexaurelia_orf
+orf_id                cds_52_frame_2
+Name: 396, dtype: object>"	cds_52_frame_2	G21
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000325
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_35_frame_4
+Name: 324, dtype: object>"	cds_35_frame_4	Z17
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000323
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_31_frame_2
+Name: 322, dtype: object>"	cds_31_frame_2	Z18
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000324
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_35_frame_3
+Name: 323, dtype: object>"	cds_35_frame_3	Z19
+primaurelia	"<bound method NDFrame.sample of short_id                   U0000362
+species                 primaurelia
+sample      CL11-3__primaurelia_orf
+orf_id                cds_1_frame_4
+Name: 361, dtype: object>"	cds_1_frame_4	Z20
+bursaria	"<bound method NDFrame.sample of short_id                    U0000153
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                 cds_1_frame_5
+Name: 152, dtype: object>"	cds_1_frame_5	Z21
+bursaria	"<bound method NDFrame.sample of short_id             U0000019
+species              bursaria
+sample      BB1__bursaria_orf
+orf_id         cds_27_frame_3
+Name: 18, dtype: object>"	cds_27_frame_3	Z22
+bursaria	"<bound method NDFrame.sample of short_id                    U0000162
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                cds_54_frame_3
+Name: 161, dtype: object>"	cds_54_frame_3	G22
+bursaria	"<bound method NDFrame.sample of short_id                 U0000226
+species                  bursaria
+sample      Yad1g1N__bursaria_orf
+orf_id             cds_27_frame_4
+Name: 225, dtype: object>"	cds_27_frame_4	G22
+bursaria	"<bound method NDFrame.sample of short_id                     U0000148
+species                      bursaria
+sample      RL13-_18a_B__bursaria_orf
+orf_id                 cds_30_frame_6
+Name: 147, dtype: object>"	cds_30_frame_6	G22
+bursaria	"<bound method NDFrame.sample of short_id                    U0000177
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                cds_44_frame_1
+Name: 176, dtype: object>"	cds_44_frame_1	G22
+bursaria	"<bound method NDFrame.sample of short_id                    U0000165
+species                     bursaria
+sample      RL14-15b-B__bursaria_orf
+orf_id                cds_40_frame_2
+Name: 164, dtype: object>"	cds_40_frame_2	G22
+other_aurelia	"<bound method NDFrame.sample of short_id                U0000315
+species            other_aurelia
+sample      sonneborni_30995_orf
+orf_id             cds_2_frame_5
+Name: 314, dtype: object>"	cds_2_frame_5	G23
+other_aurelia	"<bound method NDFrame.sample of short_id                 U0000333
+species             other_aurelia
+sample      tredecaurelia_209_orf
+orf_id              cds_3_frame_6
+Name: 332, dtype: object>"	cds_3_frame_6	G23
+bursaria	"<bound method NDFrame.sample of short_id                    U0000160
+species                     bursaria
+sample      RL13-_4a_B__bursaria_orf
+orf_id                 cds_4_frame_2
+Name: 159, dtype: object>"	cds_4_frame_2	G24
+bursaria	"<bound method NDFrame.sample of short_id                    U0000178
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                 cds_6_frame_3
+Name: 177, dtype: object>"	cds_6_frame_3	G24
+bursaria	"<bound method NDFrame.sample of short_id                    U0000175
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                 cds_3_frame_6
+Name: 174, dtype: object>"	cds_3_frame_6	G25
+bursaria	"<bound method NDFrame.sample of short_id                     U0000147
+species                      bursaria
+sample      RL13-_18a_B__bursaria_orf
+orf_id                  cds_1_frame_3
+Name: 146, dtype: object>"	cds_1_frame_3	G25
+bursaria	"<bound method NDFrame.sample of short_id                    U0000164
+species                     bursaria
+sample      RL14-15b-B__bursaria_orf
+orf_id                 cds_1_frame_5
+Name: 163, dtype: object>"	cds_1_frame_5	G25
+bursaria	"<bound method NDFrame.sample of short_id                 U0000229
+species                  bursaria
+sample      Yad1g1N__bursaria_orf
+orf_id              cds_4_frame_1
+Name: 228, dtype: object>"	cds_4_frame_1	G25
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000320
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id           cds_1_frame_1
+Name: 319, dtype: object>"	cds_1_frame_1	Z23
+triaurelia	"<bound method NDFrame.sample of short_id                 U0000409
+species                triaurelia
+sample      LP3-1__triaurelia_orf
+orf_id             cds_11_frame_5
+Name: 408, dtype: object>"	cds_11_frame_5	R13
+primaurelia	"<bound method NDFrame.sample of short_id                    U0000359
+species                  primaurelia
+sample      CL11-15__primaurelia_orf
+orf_id                 cds_5_frame_6
+Name: 358, dtype: object>"	cds_5_frame_6	R13
+pfoki	"<bound method NDFrame.sample of short_id            U0000344
+species                pfoki
+sample      MW_12__pfoki_orf
+orf_id         cds_1_frame_5
+Name: 343, dtype: object>"	cds_1_frame_5	R14
+biaurelia	"<bound method NDFrame.sample of short_id                 U0000007
+species                 biaurelia
+sample      CL12-3__biaurelia_orf
+orf_id              cds_9_frame_6
+Name: 6, dtype: object>"	cds_9_frame_6	R14
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000329
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_52_frame_3
+Name: 328, dtype: object>"	cds_52_frame_3	Z24
+pfoki	"<bound method NDFrame.sample of short_id             U0000356
+species                 pfoki
+sample      NJH-WN__pfoki_orf
+orf_id          cds_3_frame_3
+Name: 355, dtype: object>"	cds_3_frame_3	Z25
+caudatum	"<bound method NDFrame.sample of short_id              U0000235
+species               caudatum
+sample      C139__caudatum_orf
+orf_id           cds_1_frame_4
+Name: 234, dtype: object>"	cds_1_frame_4	Z26
+other_aurelia	"<bound method NDFrame.sample of short_id         U0000313
+species     other_aurelia
+sample       gigas_mt_orf
+orf_id      cds_3_frame_5
+Name: 312, dtype: object>"	cds_3_frame_5	Z27
+bursaria	"<bound method NDFrame.sample of short_id                 U0000227
+species                  bursaria
+sample      Yad1g1N__bursaria_orf
+orf_id              cds_2_frame_2
+Name: 226, dtype: object>"	cds_2_frame_2	Z28
+other_aurelia	"<bound method NDFrame.sample of short_id                 U0000334
+species             other_aurelia
+sample      tredecaurelia_209_orf
+orf_id              cds_4_frame_5
+Name: 333, dtype: object>"	cds_4_frame_5	Z29
+caudatum	"<bound method NDFrame.sample of short_id              U0000238
+species               caudatum
+sample      C139__caudatum_orf
+orf_id           cds_5_frame_5
+Name: 237, dtype: object>"	cds_5_frame_5	Z30
+caudatum	"<bound method NDFrame.sample of short_id              U0000239
+species               caudatum
+sample      C139__caudatum_orf
+orf_id           cds_6_frame_5
+Name: 238, dtype: object>"	cds_6_frame_5	Z31
+other_aurelia	"<bound method NDFrame.sample of short_id                U0000317
+species            other_aurelia
+sample      sonneborni_30995_orf
+orf_id            cds_52_frame_3
+Name: 316, dtype: object>"	cds_52_frame_3	G26
+other_aurelia	"<bound method NDFrame.sample of short_id                 U0000336
+species             other_aurelia
+sample      tredecaurelia_209_orf
+orf_id             cds_51_frame_2
+Name: 335, dtype: object>"	cds_51_frame_2	G26
+other_aurelia	"<bound method NDFrame.sample of short_id                 U0000332
+species             other_aurelia
+sample      tredecaurelia_209_orf
+orf_id              cds_3_frame_5
+Name: 331, dtype: object>"	cds_3_frame_5	Z32
+bursaria	"<bound method NDFrame.sample of short_id                    U0000174
+species                     bursaria
+sample      RL15-14b-B__bursaria_orf
+orf_id                 cds_3_frame_5
+Name: 173, dtype: object>"	cds_3_frame_5	G27
+bursaria	"<bound method NDFrame.sample of short_id                 U0000228
+species                  bursaria
+sample      Yad1g1N__bursaria_orf
+orf_id              cds_3_frame_3
+Name: 227, dtype: object>"	cds_3_frame_3	G27
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000322
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_28_frame_5
+Name: 321, dtype: object>"	cds_28_frame_5	Z33
+other_aurelia	"<bound method NDFrame.sample of short_id              U0000327
+species          other_aurelia
+sample      tetrahymena_mt_orf
+orf_id          cds_48_frame_4
+Name: 326, dtype: object>"	cds_48_frame_4	Z34
+bursaria	"<bound method NDFrame.sample of short_id                 U0000121
+species                  bursaria
+sample      P3-16aB__bursaria_orf
+orf_id              cds_1_frame_2
+Name: 120, dtype: object>"	cds_1_frame_2	Z35
+multi	"<bound method NDFrame.sample of short_id               U0000309
+species                   multi
+sample      SWL_1-8__Pmulti_orf
+orf_id            cds_6_frame_3
+Name: 308, dtype: object>"	cds_6_frame_3	Z36
+bursaria	"<bound method NDFrame.sample of short_id                   U0000197
+species                    bursaria
+sample      SC_22-13B__bursaria_orf
+orf_id                cds_2_frame_6
+Name: 196, dtype: object>"	cds_2_frame_6	Z37

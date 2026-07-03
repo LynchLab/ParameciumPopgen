@@ -1,0 +1,308 @@
+﻿species,sample,site,collection,latitude,longitude,Population
+biaurelia,11_IV_2,USA,Germany,39.7837300,-100.445882,A
+biaurelia,12-I-16,Germany,Germany,51.1638180,10.4478310,B
+biaurelia,294,Germany,Germany,51.1638180,10.4478310,B
+biaurelia,36.0-I-2,USA,Germany,39.7837300,-100.445882,A
+biaurelia,36.0_I_1,USA,Germany,39.7837300,-100.445882,A
+biaurelia,4-IV-2,USA,Germany,39.7837300,-100.445882,A
+biaurelia,4_IV_3,USA,Germany,39.7837300,-100.445882,A
+biaurelia,A1-4,Germany,Germany,51.1638180,10.4478310,B
+biaurelia,AL7-10,Ayres Lake,Arizona,41.2307990,-86.5737420,C
+biaurelia,AL7-25,Ayres Lake,Arizona,41.2307990,-86.5737420,C
+biaurelia,AL7-27_B,Ayres Lake,Arizona,41.2307990,-86.5737420,C
+biaurelia,BA1C_2,Bashakill Marsh,New York,41.5663850,-74.4801560,D
+biaurelia,BA2A_1,Bashakill Marsh,New York,41.5663850,-74.4801560,D
+biaurelia,BA4C_1,Bashakill Marsh,New York,41.5663850,-74.4801560,D
+biaurelia,CL12-1,Canyon Lake,Arizona,33.5585630,-111.4156020,E
+biaurelia,CL12-3,Canyon Lake,Arizona,33.5585630,-111.4156020,E
+biaurelia,CL12-8,Canyon Lake,Arizona,33.5585630,-111.4156020,E
+biaurelia,CL5-12,Canyon Lake,Arizona,33.5585630,-111.4156020,E
+biaurelia,DP1G_2,Duck Pond,New York,44.5989342,-74.1435474,F
+biaurelia,G10,USA,Germany,39.7837300,-100.445882,A
+biaurelia,G11,USA,Germany,39.7837300,-100.445882,A
+biaurelia,G7,USA,Germany,39.7837300,-100.445882,A
+biaurelia,G8,USA,Germany,39.7837300,-100.445882,A
+biaurelia,G9,USA,Germany,39.7837300,-100.445882,A
+biaurelia,M2Hc,Germany,Germany,51.1638180,10.4478310,B
+biaurelia,Opa,Germany,Germany,51.1638180,10.4478310,B
+biaurelia,P2a.45,Israel,Germany,30.8124250,34.8594760,G
+biaurelia,P_2a-44,Spain,Germany,39.3260680,-4.8379790,H
+biaurelia,RL12-10,Arizona,Arizona,34.395342,-111.763275,I
+biaurelia,WCL3-10,woods cayon,Arizona,36.142435,-111.23896,I
+biaurelia,YK2H_1,Yanketown Pond,New York,42.02038,-74.17713,J
+biaurelia,biaurelia_V1_4,Arizona,Arizona,34.395342,-111.763275,I
+bursaria,AZ1,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,AZ4,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,BB1,Japan,Japan,36.5748441,139.239418,C
+bursaria,C173,Greece,Germany,38.9953680,21.9877130,D
+bursaria,MW_45,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,E
+bursaria,P1-12B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-14B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-16_B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-19B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-20_B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-21_B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-3a_B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-7a_(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P1-8a(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P2-16,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P2-20_(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P2-4_(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P2-6_(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P2-7B,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P2-9_(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P3-16aB,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P3-17a,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P3-17b,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P3-19_(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P3-3b_(B)2nd,Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,P3-5a(B),Ramsey Canyon Preserve,Arizona,31.4474090,-110.3139530,A
+bursaria,SC43B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+bursaria,SC_15_B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+bursaria,SC_17B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+bursaria,SC_22-13B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+bursaria,SC_22-29B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+bursaria,SC_38_B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+bursaria,SC_3_B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+bursaria,SC_4B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,B
+caudatum,6_II_4,Germany,Germany,51.1638180,10.4478310,J
+caudatum,C082,USA,Germany,39.7837300,-100.445882,K
+caudatum,C139,Japan,Germany,36.5748440,139.2394180,C
+caudatum,C171,Greece,Germany,38.9953680,21.9877130,L
+caudatum,CO30,Austria,Germany,47.59397,14.12456,M
+caudatum,HC10-10,Arizona,Arizona,34.395342,-111.763275,H
+caudatum,HC6-13,horton creek ,Arizona,34.355017,-111.0828810,A
+caudatum,HC6-15,horton creek ,Arizona,34.355017,-111.0828810,A
+caudatum,HC6-16,horton creek ,Arizona,34.355017,-111.0828810,A
+caudatum,HC6-5,horton creek ,Arizona,34.355017,-111.0828810,A
+caudatum,HC6-7,horton creek ,Arizona,34.355017,-111.0828810,A
+caudatum,HC7-9,horton creek ,Arizona,34.355017,-111.0828810,A
+caudatum,HC8-6a,Arizona,Arizona,34.395342,-111.763275,H
+caudatum,HC8-7,Arizona,Arizona,34.395342,-111.763275,H
+caudatum,HC9-9a_Large,Arizona,Arizona,34.395342,-111.763275,H
+caudatum,LP3-8,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP6-10,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP6-1,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP6-3,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP7-10,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP7-12,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP7-14,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP7-3,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP7-5a,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,LP8-12,Lake Pleasant,Arizona,33.9041540,-112.2898710,B
+caudatum,NF23,Japan,Japan,36.5748440,139.2394180,C
+caudatum,NF4,Japan,Japan,36.5748440,139.2394180,C
+caudatum,NF_13,Japan,Japan,36.5748440,139.2394180,C
+caudatum,NF_20,Japan,Japan,36.5748440,139.2394180,C
+caudatum,NF_3,Japan,Japan,36.5748440,139.2394180,C
+caudatum,RL15-37,Roosevelt Lake ,Arizona,41.783745,-71.416276,J
+caudatum,RL15-61,Roosevelt Lake ,Arizona,41.783745,-71.416276,J
+caudatum,SC22-16,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+caudatum,SC22-20,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+caudatum,SC22-22,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+caudatum,SC22-27,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+caudatum,SC22-28,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+caudatum,SC22-36,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+caudatum,SC22-7,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+caudatum,SF_3,Japan,Japan,36.5748440,139.2394180,C
+caudatum,SF_4,Japan,Japan,36.5748440,139.2394180,C
+caudatum,SF_5,Japan,Japan,36.5748440,139.2394180,C
+caudatum,SF_6,Japan,Japan,36.5748440,139.2394180,C
+caudatum,SF_9,Japan,Japan,36.5748440,139.2394180,C
+caudatum,WC1-6a,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL2-11,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL3-6,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL5-3,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL5-4,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL8-15,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL_2-10,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL_2-12,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL_2-15,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL_2-4,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL_2-5,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WCL_2-8,woods cayon,Arizona,36.142435,-111.23896,E
+caudatum,WL1-1C,Watson Lake ,Arizona,34.5889770,-112.4169080,F
+caudatum,WL2-3B,Watson Lake ,Arizona,34.5889770,-112.4169080,F
+caudatum,WL5-2C,Watson Lake ,Arizona,34.5889770,-112.4169080,F
+caudatum,WL5-6B,Watson Lake ,Arizona,34.5889770,-112.4169080,F
+caudatum,caudatum_43c3d,Arizona,Arizona,34.395342,-111.763275,H
+caudatum,caudatum_C026,"USA,baton Rouge","USA,baton Rouge",30.4494160,-91.1869660,G
+caudatum,caudatum_C083,"USA,Bloomington","USA,Bloomington",39.1670400,-86.5342880,G
+caudatum,caudatum_C104,Spain,Spain,39.3260680,-4.8379790,I
+caudatum,caudatum_GBE,Arizona,Arizona,34.395342,-111.763275,H
+fokini,MW23,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW24,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_11,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_12,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_14,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_15,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_18,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_20,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_21,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_22,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_25,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_26,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_27,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_30,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_31,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_32,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_33,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_34,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_3,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_4,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_5,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_6,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_7,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,MW_8,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,NE1,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,NE3,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,NE4,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,NE8,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+fokini,NJH-QZ,China,China,35.000074,104.999927,B
+fokini,NJH-SZ,China,China,35.000074,104.999927,B
+fokini,NJH-WN,China,China,35.000074,104.999927,B
+fokini,Pmmn_MO3C4,Germany,Germany,51.1638180,10.4478310,C
+fokini,SC22-13,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+fokini,SC22-19,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+fokini,SC22-25,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+fokini,SC22-26,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+fokini,SC_22-1,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,D
+fokini,multimicronucleatum_M04,Australia,Australia,-24.7761090,134.755,E
+multi,AL7-30,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+multi,MW_40,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,B
+multi,MW_42,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,B
+multi,NE5,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,B
+multi,PPP22-17,Nebraska,Nebraska,41.7370230,-99.5873820,B
+multi,RL6B,Roosevelt Lake ,Arizona,41.783745,-71.416276,C
+multi,SWL_1-25,Wisconsin,Arizona,44.4308980,-89.6884640,D
+multi,multimicronucleatum_3I,Portugal,Portugal,39.6621650,-8.1353520,E
+pquin,CL11-12,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+pquin,CL11-13,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+pquin,CL11-14,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+pquin,CL11-16,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+pquin,CL11-19,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+pquin,CL11-20,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+pquin,CL11-24,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+pquin,HC6-14,horton creek ,Arizona,34.355017,-111.0828810,B
+pquin,HC9-9b,Arizona,Arizona,34.395342,-111.763275,C
+pquin,WCL_3-12,woods cayon,Arizona,36.142435,-111.23896,D
+primaurelia,14_II_2,Germany,Germany,51.1638180,10.4478310,B
+primaurelia,3_III_1,Germany,Germany,51.1638180,10.4478310,B
+primaurelia,AL1-1,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL1-4,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL2-10,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL3-6,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL3-7,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL3-B,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL3B,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL4-A,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,AL6A,Ayres Lake,Arizona,41.2307990,-86.5737420,A
+primaurelia,C124,Germany,Germany,51.1638180,10.4478310,B
+primaurelia,CAC1-14,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-16,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-17,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-18,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-21,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-22,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-23,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-25,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-2,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-3,California,California,36.7014630,-118.755997,C
+primaurelia,CAC1-9,California,California,36.7014630,-118.755997,C
+primaurelia,CL11-10,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL11-15,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL11-3,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL3-12,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL5-11,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL5-1,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL5-2,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL_1-14,Canyon Lake,Arizona,33.5585630,-111.4156020,D
+primaurelia,CL_22-10,Nebraska,Nebraska,41.7370230,-99.5873820,E
+primaurelia,CL_22-7,Nebraska,Nebraska,41.7370230,-99.5873820,E
+primaurelia,Ecuador_A1-9._I,Ecuador,Germany,-1.3397670,-79.3666970,F
+primaurelia,G5,Istanbul,Germany,41.006381,28.9758720,G
+primaurelia,Ista1_d_1_IV,Istanbul,Germany,41.006381,28.9758720,G
+primaurelia,Ista_1_d_1(III),Istanbul,Germany,41.006381,28.9758720,G
+primaurelia,Istanbul-1a-III,Istanbul,Turkey,41.006381,28.9758720,G
+primaurelia,LP4-2b,Lake Pleasant,Arizona,43.4707480,-74.4116950,H
+primaurelia,LP7-1,Lake Pleasant,Arizona,33.9041540,-112.2898710,H
+primaurelia,LP7-4,Lake Pleasant,Arizona,33.9041540,-112.2898710,H
+primaurelia,LP8-13,Lake Pleasant,Arizona,33.9041540,-112.2898710,H
+primaurelia,RL13-15b,Arizona,Arizona,34.395342,-111.763275,I
+primaurelia,RL7B,Roosevelt Lake ,Arizona,41.783745,-71.416276,J
+primaurelia,Rio_Lg_Jac_2_II,Brazil,Germany,-10.3333330,-53.2,K
+primaurelia,SC22-12,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,L
+primaurelia,SC34B,Spring Creek Pond,Nebraska,41.2682680,-98.5228180,L
+primaurelia,YE_4,USA,Germany,39.7837300,-100.445882,M
+primaurelia,YE_5,USA,Germany,39.7837300,-100.445882,M
+primaurelia,YKKWold,Japan - Honsyu Island,Japan,37.4900740,139.8356880,N
+primaurelia,primaurelia_AZ9-3,Arizona,Arizona,34.395342,-111.763275,I
+quadecaurelia,SL1-A,Surprise Lake ,Arizona,33.6297730,-112.3740580,A
+quadecaurelia,SL5B,Surprise Lake ,Arizona,33.6297730,-112.3740580,A
+quadecaurelia,quadecaurelia_NiA,USA,USA,39.7837300,-100.445882,B
+sexaurelia,11_II_7,USA,Germany,39.7837300,-100.445882,J
+sexaurelia,A6-132,Spain,Germany,39.3260680,-4.8379790,A
+sexaurelia,A6-133,Spain,Germany,39.3260680,-4.8379790,A
+sexaurelia,A6-137,Russia,Germany,64.6863140,97.7453060,B
+sexaurelia,C131,Ecuador,Germany,-1.3397670,-79.3666970,F
+sexaurelia,Ecuad_6_II,Ecuador,Germany,-1.3397670,-79.3666970,F
+sexaurelia,G3,Japan,Germany,36.5748440,139.2394180,G
+sexaurelia,Indo_1_9_II,Indonesia,Germany,-2.4833830,117.8902850,C
+sexaurelia,Indon._1.7_I,Indonesia,Germany,-2.4833830,117.8902850,C
+sexaurelia,Indon._12.5_I,Indonesia,Germany,-2.4833830,117.8902850,C
+sexaurelia,J2,Indonesia,Germany,-2.4833830,117.8902850,C
+sexaurelia,Moz_13_C_IX,Mozambique,Germany,-19.302233,34.9144980,D
+sexaurelia,P_6a-131,Germany,Germany,51.1638180,10.4478310,E
+sexaurelia,RL6-2,Roosevelt Lake ,Arizona,41.783745,-71.416276,I
+sexaurelia,sexaurelia_128,Japan,Japan,36.5748440,139.2394180,G
+sexaurelia,sexaurelia_130,"Greece,Loannina Lake","Greece,Loannina Lake",39.6607360,20.893353,H
+sexaurelia,sexaurelia_133,"Spain,seville","Spain,seville",37.3886300,-5.9953400,A
+sexaurelia,sexaurelia_AZ8-4,Arizona,Arizona,34.395342,-111.763275,K
+tetraurelia,116.0-K,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,169.0k,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,198_K_24C,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,290.0apo,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,298.0_KC+,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,298.0_apo,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,3_III_2,USA,Germany,39.7837300,-100.445882,B
+tetraurelia,47,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,47.0apo,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,51.0_apo,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,98.0apo,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,A30_K,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,A30cplus,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,A4-116,USA,Germany,39.7837300,-100.445882,B
+tetraurelia,A4-291,Australia,Germany,-24.7761090,134.755,C
+tetraurelia,A4-293,Australia,Germany,-24.7761090,134.755,C
+tetraurelia,A4-298,Panama,Germany,8.559559,-81.1308430,D
+tetraurelia,Bapo,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,Brazil_P3,Brazil,Germany,-10.3333330,-53.2,E
+tetraurelia,G1,Germany,Germany,51.1638180,10.4478310,A
+tetraurelia,Istanbul_2_b_IV_3,Turkey,Germany,39.294076,35.2316630,F
+tetraurelia,Moz_13_C_XI,Mozambique,Germany,-19.302233,34.9144980,G
+tetraurelia,tetraurelia_32,Arizona,Arizona,34.395342,-111.763275,B
+tetraurelia,tetraurelia_51,"USA,Spenser","USA,Spenser",43.1333830,-89.3617810,B
+tredecaurelia,Pa_a_PFE_42,Germany,Germany,51.1638180,10.4478310,A
+tredecaurelia,tredecaurelia_209,USA,USA,39.7837300,-100.445882,B
+triaurelia,CL12-12,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+triaurelia,CL12-18,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+triaurelia,CL12-27,Canyon Lake,Arizona,33.5585630,-111.4156020,A
+triaurelia,CL_22-29,Germany,Germany,51.1638180,10.4478310,B
+triaurelia,CL_22-33,Germany,Germany,51.1638180,10.4478310,B
+triaurelia,CL_22-37,Germany,Germany,51.1638180,10.4478310,B
+triaurelia,CL_22-39,Germany,Germany,51.1638180,10.4478310,B
+triaurelia,LP2-1b,Lake Pleasant,Arizona,33.9041540,-112.2898710,C
+triaurelia,LP3-1,Lake Pleasant,Arizona,33.9041540,-112.2898710,C
+triaurelia,LP3-6,Lake Pleasant,Arizona,33.9041540,-112.2898710,C
+triaurelia,LP6-15,Lake Pleasant,Arizona,33.9041540,-112.2898710,C
+triaurelia,LP7-5b,Lake Pleasant,Arizona,33.9041540,-112.2898710,C
+triaurelia,SA1E_1,Great Sacandaga Lake,New York,43.1906910,-74.1615970,D
+tribursaria,MW_46,Marsh Wren Marsh,Nebraska,41.2682680,-98.5228180,A
+tribursaria,RL13-_18a_B,Arizona,Arizona,34.395342,-111.763275,B
+tribursaria,RL13-_4a_B,Roosevelt Lake,Arizona,41.783745,-71.416276,B
+tribursaria,RL14-15b-B,Arizona,Arizona,34.395342,-111.763275,B
+tribursaria,RL14-_9b_B,Arizona,Arizona,34.395342,-111.763275,B
+tribursaria,RL15-14b-B,Arizona,Arizona,34.395342,-111.763275,B
+tribursaria,WC9-1b,woods cayon,Arizona,36.142435,-111.23896,C
+tribursaria,Yad1g1N,Japan - Honsyu Island,Japan,37.4900740,139.8356880,D
+
