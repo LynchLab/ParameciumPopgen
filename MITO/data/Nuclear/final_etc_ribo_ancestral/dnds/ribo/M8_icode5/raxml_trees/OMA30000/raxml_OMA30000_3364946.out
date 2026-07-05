@@ -1,0 +1,53 @@
+
+RAxML-NG v. 1.2.1-master released on 12.02.2024 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth, Julia Haag, Anastasis Togkousidis.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: INTEL(R) XEON(R) PLATINUM 8568Y+, 96 cores, 502 GB RAM
+
+RAxML-NG was called at 16-Feb-2026 15:04:32 as follows:
+
+raxml-ng-mpi --all --msa OMA30000.codon.aln.fna --msa-format fasta --data-type DNA --model GTR+G --prefix OMA30000.raxml --threads 4 --tree rand{10} --bs-trees 100
+
+Analysis options:
+  run mode: ML tree search + bootstrapping (Felsenstein Bootstrap)
+  start tree(s): random (10)
+  bootstrap replicates: parsimony (100)
+  random seed: 1771279473
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  logLH epsilon: general: 10.000000, brlen-triplet: 1000.000000
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  fast CLV updates: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (4 threads), thread pinning: ON
+
+WARNING: The model you specified on the command line (GTR+G) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:01] Loading binary alignment from file: OMA30000.raxml.raxml.rba
+[00:00:01] Alignment comprises 7 taxa, 1 partitions and 331 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 1065 / 331
+Gaps: 4.95 %
+Invariant sites: 50.05 %
+
+
+Parallelization scheme autoconfig: 4 worker(s) x 1 thread(s)
+
+Parallel reduction/worker buffer size: 1 KB  / 0 KB
+
+
+ERROR: std::bad_alloc
+
+DONE: OMA30000 (Mon Feb 16 15:04:33 MST 2026)

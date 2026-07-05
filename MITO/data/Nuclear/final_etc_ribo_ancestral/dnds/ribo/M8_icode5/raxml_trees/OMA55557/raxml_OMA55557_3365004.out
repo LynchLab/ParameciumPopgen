@@ -1,0 +1,5 @@
+
+ERROR: Result files for the run with prefix `OMA55557.raxml` already exist!
+Please either choose a new prefix, remove old files, or add --redo command line switch to overwrite them.
+
+DONE: OMA55557 (Mon Feb 16 15:28:15 MST 2026)

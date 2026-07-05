@@ -1,0 +1,12 @@
+gene,from_label,to_label,dS
+OMA64060,node_8,tetr,0.1973
+OMA64060,node_8,node_9,0.3337
+OMA64060,node_9,node_10,0.4131
+OMA64060,node_10,node_11,0.5698
+OMA64060,node_11,burs,7.6843
+OMA64060,node_11,mult,0.5470
+OMA64060,node_10,caud,1.6346
+OMA64060,node_9,sexa,0.3807
+OMA64060,node_8,node_12,0.0806
+OMA64060,node_12,biau,0.2940
+OMA64060,node_12,prim,0.4827

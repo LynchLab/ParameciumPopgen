@@ -1,0 +1,132 @@
+
+CODONML in paml version 4.9j, February 2020
+
+----------------------------------------------
+Phe F TTT | Ser S TCT | Tyr Y TAT | Cys C TGT
+      TTC |       TCC |       TAC |       TGC
+Leu L TTA |       TCA | Gln Q TAA | *** * TGA
+      TTG |       TCG |       TAG | Trp W TGG
+----------------------------------------------
+Leu L CTT | Pro P CCT | His H CAT | Arg R CGT
+      CTC |       CCC |       CAC |       CGC
+      CTA |       CCA | Gln Q CAA |       CGA
+      CTG |       CCG |       CAG |       CGG
+----------------------------------------------
+Ile I ATT | Thr T ACT | Asn N AAT | Ser S AGT
+      ATC |       ACC |       AAC |       AGC
+      ATA |       ACA | Lys K AAA | Arg R AGA
+Met M ATG |       ACG |       AAG |       AGG
+----------------------------------------------
+Val V GTT | Ala A GCT | Asp D GAT | Gly G GGT
+      GTC |       GCC |       GAC |       GGC
+      GTA |       GCA | Glu E GAA |       GGA
+      GTG |       GCG |       GAG |       GGG
+----------------------------------------------
+Nice code, uuh?
+
+processing fasta file
+reading seq# 1 biau                                                   354 sites
+reading seq# 2 burs                                                   354 sites
+reading seq# 3 caud                                                   354 sites
+reading seq# 4 mult                                                   354 sites
+reading seq# 5 prim                                                   354 sites
+reading seq# 6 sexa                                                   354 sites
+reading seq# 7 tetr                                                   354 sitesns = 7  	ls = 354
+Reading sequences, sequential format..
+Reading seq # 1: biau       Reading seq # 2: burs       Reading seq # 3: caud       Reading seq # 4: mult       Reading seq # 5: prim       Reading seq # 6: sexa       Reading seq # 7: tetr       
+stop codon TGA in seq. #   1 (biau), nucleotide site 352
+ 1 columns are converted into ??? because of stop codons
+Press Enter to continue
+Sites with gaps or missing data are removed.
+
+     3 ambiguity characters in seq. 1
+     3 ambiguity characters in seq. 2
+     3 ambiguity characters in seq. 3
+     3 ambiguity characters in seq. 4
+     3 ambiguity characters in seq. 5
+     3 ambiguity characters in seq. 6
+     3 ambiguity characters in seq. 7
+1 sites are removed.  118
+Sequences read..
+Counting site patterns..  0:00
+Compressing,    108 patterns at    117 /    117 sites (100.0%),  0:00
+Collecting fpatt[] & pose[],    108 patterns at    117 /    117 sites (100.0%),  0:00
+Counting codons..
+
+      168 bytes for distance
+   108864 bytes for conP
+     9504 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+(7, (((2, 4), 3), 6), (1, 5));   MP score: 228
+   272160 bytes for conP, adjusted
+
+    0.089780    0.053811    0.085419    0.098774    0.040122    0.016184    0.059007    0.103033    0.083783    0.041146    0.045317    2.000000    0.900000    1.115596    1.327794    1.500000
+
+ntime & nrate & np:    11     2    16
+
+Bounds (np=16):
+   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000100   0.000010   0.005000   0.005000   1.000000
+  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000 999.000000   0.999990  99.000000  99.000000 999.000000
+Qfactor_NS = 6.874654
+
+np =    16
+lnL0 = -1875.315344
+
+Iterating by ming2
+Initial: fx=  1875.315344
+x=  0.08978  0.05381  0.08542  0.09877  0.04012  0.01618  0.05901  0.10303  0.08378  0.04115  0.04532  2.00000  0.90000  1.11560  1.32779  1.50000
+
+  1 h-m-p  0.0000 0.0007 2877.5300 ++++   1512.587053  m 0.0007    23 | 1/16
+  2 h-m-p  0.0032 0.0159  96.2392 +YYCYCCC  1465.181781  6 0.0106    52 | 1/16
+  3 h-m-p  0.0006 0.0028 163.7930 CYCCCC  1458.952350  5 0.0010    80 | 1/16
+  4 h-m-p  0.0013 0.0066  62.0949 YCCCCC  1454.846916  5 0.0028   108 | 1/16
+  5 h-m-p  0.0007 0.0037  96.1795 +CYYCC  1447.408932  4 0.0032   134 | 1/16
+  6 h-m-p  0.0012 0.0058 167.1814 +YYCCCC  1434.861666  5 0.0040   162 | 1/16
+  7 h-m-p  0.0011 0.0054  48.8941 YCCC   1433.403917  3 0.0026   186 | 1/16
+  8 h-m-p  0.0021 0.0124  61.5926 +YYCCC  1429.676123  4 0.0063   212 | 1/16
+  9 h-m-p  0.0010 0.0049 194.0319 ++     1420.153107  m 0.0049   231 | 1/16
+ 10 h-m-p  0.0000 0.0000  28.8841 
+h-m-p:      8.89861773e-20      4.44930887e-19      2.88841177e+01  1420.153107
+..  | 1/16
+ 11 h-m-p  0.0000 0.0043  73.7024 +++YCCCC  1417.169094  4 0.0013   276 | 1/16
+ 12 h-m-p  0.0014 0.0071  34.6113 CYCCC  1415.597173  4 0.0027   302 | 1/16
+ 13 h-m-p  0.0014 0.0070  46.5552 YCCC   1414.510404  3 0.0023   326 | 1/16
+ 14 h-m-p  0.0009 0.0046  60.1316 YCCCC  1413.098191  4 0.0024   352 | 1/16
+ 15 h-m-p  0.0048 0.0239  28.0343 YCCC   1412.538458  3 0.0032   376 | 1/16
+ 16 h-m-p  0.0063 0.0419  14.2244 CCCC   1412.081225  3 0.0072   401 | 1/16
+ 17 h-m-p  0.0089 0.0450  11.5917 CCC    1411.978027  2 0.0029   424 | 1/16
+ 18 h-m-p  0.0036 0.2228   9.3651 ++YYYC  1410.884757  3 0.0543   448 | 1/16
+ 19 h-m-p  0.0040 0.0199 118.2485 CCC    1409.823980  2 0.0043   471 | 1/16
+ 20 h-m-p  0.0073 0.0367  18.5052 ++     1408.306861  m 0.0367   490 | 2/16
+ 21 h-m-p  0.0771 0.7112   8.5106 YCCC   1407.286384  3 0.1648   514 | 2/16
+ 22 h-m-p  0.0869 0.4347   4.6519 YCCC   1407.116709  3 0.0566   538 | 2/16
+ 23 h-m-p  0.1530 1.1353   1.7197 YCC    1407.065136  2 0.0642   560 | 2/16
+ 24 h-m-p  0.1428 8.0000   0.7731 +YCCC  1406.669889  3 1.2116   585 | 1/16
+ 25 h-m-p  0.0018 0.0362 520.7581 -CCC   1406.650039  2 0.0001   623 | 1/16
+ 26 h-m-p  0.1208 7.5452   0.4456 ++CCC  1406.383094  2 2.5351   648 | 1/16
+ 27 h-m-p  0.3620 1.8100   0.5824 ++     1406.242480  m 1.8100   682 | 1/16
+ 28 h-m-p  1.6000 8.0000   0.1325 CY     1406.224101  1 1.5219   718 | 1/16
+ 29 h-m-p  1.6000 8.0000   0.1107 C      1406.221277  0 1.5950   752 | 1/16
+ 30 h-m-p  1.6000 8.0000   0.0262 C      1406.220824  0 1.3809   786 | 1/16
+ 31 h-m-p  1.6000 8.0000   0.0078 C      1406.220776  0 1.2861   820 | 1/16
+ 32 h-m-p  1.6000 8.0000   0.0041 C      1406.220766  0 2.0205   854 | 1/16
+ 33 h-m-p  1.6000 8.0000   0.0011 C      1406.220765  0 1.4872   888 | 1/16
+ 34 h-m-p  1.6000 8.0000   0.0003 C      1406.220764  0 1.6092   922 | 1/16
+ 35 h-m-p  1.6000 8.0000   0.0001 Y      1406.220764  0 1.1905   956 | 1/16
+ 36 h-m-p  1.6000 8.0000   0.0000 C      1406.220764  0 1.8622   990 | 1/16
+ 37 h-m-p  1.3821 8.0000   0.0000 --Y    1406.220764  0 0.0216  1026 | 1/16
+ 38 h-m-p  0.0210 8.0000   0.0000 ----Y  1406.220764  0 0.0000  1064
+Out..
+lnL  = -1406.220764
+1065 lfun, 12780 eigenQcodon, 128865 P(t)
+
+BEBing (dim = 4).  This may take several minutes.
+Calculating f(x_h|w): 10 categories 20 w sets.
+Calculating f(X), the marginal likelihood.
+	log(fX) = -1467.598451  S = -1419.974994   -47.732703
+Calculating f(w|X), posterior probabilities of site classes.
+	did  10 / 108 patterns   0:38	did  20 / 108 patterns   0:38	did  30 / 108 patterns   0:38	did  40 / 108 patterns   0:38	did  50 / 108 patterns   0:39	did  60 / 108 patterns   0:39	did  70 / 108 patterns   0:39	did  80 / 108 patterns   0:39	did  90 / 108 patterns   0:39	did 100 / 108 patterns   0:39	did 108 / 108 patterns   0:39end of tree file.
+
+Time used:  0:39

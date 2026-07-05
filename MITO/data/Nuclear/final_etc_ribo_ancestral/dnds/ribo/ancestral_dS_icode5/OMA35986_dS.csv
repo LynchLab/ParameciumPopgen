@@ -1,0 +1,8 @@
+gene,from_label,to_label,dS
+OMA35986,node_6,node_7,0.0000
+OMA35986,node_7,PBIA,0.1125
+OMA35986,node_7,node_8,0.2035
+OMA35986,node_8,PTET,0.4818
+OMA35986,node_8,PSEX,0.4107
+OMA35986,node_6,PBUR,8.3801
+OMA35986,node_6,PPRIM,0.1985

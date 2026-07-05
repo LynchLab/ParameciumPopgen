@@ -1,0 +1,23 @@
+Collected 4,519 unique IDs from ortholog TSV
+
+biaurelia.csv: kept 236 / 38,199  ->  biaurelia.filtered_by_pcaud_orthologs.csv
+
+bursaria.csv: kept 75 / 15,434  ->  bursaria.filtered_by_pcaud_orthologs.csv
+
+caudatum.csv: kept 119 / 18,544  ->  caudatum.filtered_by_pcaud_orthologs.csv
+
+fokini.csv: kept 31 / 11,417  ->  fokini.filtered_by_pcaud_orthologs.csv
+
+multimicronucleatum.csv: kept 49 / 13,058  ->  multimicronucleatum.filtered_by_pcaud_orthologs.csv
+
+primaurelia.csv: kept 278 / 34,195  ->  primaurelia.filtered_by_pcaud_orthologs.csv
+
+quindecaurelia.csv: kept 251 / 37,660  ->  quindecaurelia.filtered_by_pcaud_orthologs.csv
+
+sexaurelia.csv: kept 265 / 35,907  ->  sexaurelia.filtered_by_pcaud_orthologs.csv
+
+tetraurelia.csv: kept 244 / 37,182  ->  tetraurelia.filtered_by_pcaud_orthologs.csv
+
+triaurelia.csv: kept 281 / 33,293  ->  triaurelia.filtered_by_pcaud_orthologs.csv
+
+tribursaria.csv: kept 74 / 15,260  ->  tribursaria.filtered_by_pcaud_orthologs.csv

@@ -1,0 +1,8 @@
+gene,from_label,to_label,dS
+OMA41860,node_6,PBIA,0.1157
+OMA41860,node_6,PTET,0.1310
+OMA41860,node_6,node_7,0.0747
+OMA41860,node_7,node_8,0.2355
+OMA41860,node_8,PMMN,0.5367
+OMA41860,node_8,PBUR,1.4860
+OMA41860,node_7,PSEX,0.0808

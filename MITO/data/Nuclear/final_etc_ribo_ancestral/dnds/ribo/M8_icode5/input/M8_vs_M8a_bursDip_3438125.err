@@ -1,0 +1,2 @@
+[2026-02-20T16:10:08.052] error: slurm_get_node_energy: Socket timed out on send/recv operation
+[2026-02-20T16:10:08.052] error: _get_joules_task: can't get info from slurmd
