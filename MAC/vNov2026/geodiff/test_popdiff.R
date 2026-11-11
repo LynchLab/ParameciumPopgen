@@ -1,5 +1,5 @@
 ### Test population differentiation by permuting location identities
-dgen <- 'gendist_for_samples_w_coordinates'
+dgen <- 'genetic_vs_geo'
 floc <- 'isolate_location_coords.csv'
 
 fout <- 'popdiff_perms.csv'
@@ -16,7 +16,8 @@ dloc <- read.csv(file = floc)
 
 dloc <- dloc[ !is.na(dloc$latitude), ]
 
-isolocs <- gsub(pattern = " ", replacement = "", x = dloc$source)
+# clear all spaces from location ids
+isolocs <- gsub(pattern = " +", replacement = "", x = dloc$source)
 names(isolocs) <- dloc$isolate
 
 ### Function to get mean distance among isolates at a location
@@ -65,55 +66,72 @@ get_nperm <- function(isolist){
   exp( lfactorial(niso) - sum(lfactorial(loc_niso)))
 }
 
-
-out <- matrix( NA, nsp, 6, dimnames = list( sps, c( "nloc", "obs_mean", "nperm", "cileft","ciright",
-                                                   "sig")))
-
-for(i in 1:nsp){
-  cat( sprintf( "%s: species = %s\n",Sys.time(),sps[i]))
+### Function to run test given a species name
+run_test_sp <- function(sp){
+  
   # genetic distance matrix
-  fgen <- file.path( dgen, paste0(sps[i],".csv"))
-  genmat <- read.csv( fgen, row.names = 1, check.names = F)
+  fgen <- file.path( dgen, paste0( sp,".csv"))
+  df <- read.csv( fgen)
   
   # isolates
-  isolates <- rownames(genmat)
+  isolates <- unique( c( df$Sample1, df$Sample2))
   locids <- isolocs[ isolates]
-  # clear all spaces from location ids
-  locids <- gsub(" +", "", locids)
   loc_iso <- split( isolates, locids)
   # remove singletons
   loc_iso <- loc_iso[ sapply( loc_iso, length)>1]
   nloc <- length(loc_iso)
   cat( sprintf("\t # locations w/ multiple isolates = %i\n",nloc))
+  # final isolates
+  isolates <- unlist( loc_iso)
+  niso <- length(isolates)
+  cat( sprintf("\t # isolates = %i\n",niso))
   
-  if( nloc < 2){
-    out[ i, 1] <- nloc
-    next
+  # terminate if less than 2 locations
+  if( nloc < 2)
+    return( c( nloc, rep(NA,5)))
+
+  ## generate distance matrix
+  gmat <- matrix( 0, niso, niso, dimnames = list(isolates,isolates))
+  for(j in 1:(niso-1)){
+    for(k in (j+1):niso){
+      d <- df[ ( (df$Sample1==isolates[j]) & (df$Sample2==isolates[k])) |
+                 ( (df$Sample1==isolates[k]) & (df$Sample2==isolates[j])),
+               "Genetic_Distance"]
+      gmat[j,k] <- d
+      gmat[k,j] <- d
+    }
   }
   
-  obsm <- mdist_in_pop(isolist = loc_iso, distmat = genmat)
+  # observed within-location mean
+  obsm <- mdist_in_pop(isolist = loc_iso, distmat = gmat)
   
   ## permutations
   totnp <- get_nperm(isolist = loc_iso)
   cat( sprintf("\t # possible permutations = %.0f\n",totnp))
   nperms <- ifelse( totnp < maxnperm, totnp, maxnperm)
   
-  rdrb <- get_rdist(isolist = loc_iso, distmat = genmat, 
+  rdrb <- get_rdist(isolist = loc_iso, distmat = gmat, 
                     nperm = nperms)
   ci <- quantile(x = rdrb, probs = c(0.025,0.975))
   # fraction of randomized mean distances less than the observed mean
   f <- (sum( rdrb <= obsm)+1)/(nperms+1)
-  out [i, ] <- c( nloc, obsm, nperms, ci, f)
+  out <- c( nloc, obsm, nperms, ci, f)
+  return(out)
 }
+#############################################################
 
-out <- as.data.frame(out)
-out$padj <- p.adjust(p = out$sig, method = 'holm')
+
+out <- sapply( sps, run_test_sp)
+
+out <- as.data.frame( t(out))
+colnames(out) <- c("n","obs_mean","nperms", "left", "right", "p")
+
+out$padj <- p.adjust(p = out$p, method = 'holm')
 
 out <- round(out, 4)
-out$nperm <- round(out$nperm)
+out$nperm <- round(out$nperms)
 
 write.csv(x = out, file = fout, quote = F)
-
 
 
 cat("Finished with a")

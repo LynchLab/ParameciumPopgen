@@ -1,8 +1,8 @@
 species,color,hex,pch
 caudatum_cladeA,firebrick3,#CD2626,1
 caudatum_cladeB,tomato2,#EE5C42,5
-bursaria,mediumseagreen,#3CB371,1
-tribursaria,tan2,#EE9A49,2
+protobursaria,mediumseagreen,#3CB371,1
+tritobursaria,tan2,#EE9A49,2
 fokini,darkcyan,#008B8B,2
 quindecaurelia,deepskyblue3,#009ACD,2
 sexaurelia,mediumorchid3,#B452CD,1

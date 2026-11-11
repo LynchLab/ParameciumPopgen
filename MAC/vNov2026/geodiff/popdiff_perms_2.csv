@@ -1,0 +1,14 @@
+,n,obs_mean,nperms,left,right,p,padj,nperm
+biaurelia,3,0.0077,4200,0.0062,0.007,7e-04,0.0029,4200
+caudatum_cladeA,3,0.0116,10000,0.009,0.0097,1e-04,0.001,10000
+caudatum_cladeB,5,0.0208,10000,0.0187,0.0193,1e-04,0.001,10000
+fokini,2,0.0037,10000,9e-04,0.0019,2e-04,0.0012,10000
+multimicronucleatum,1,NA,NA,NA,NA,NA,NA,NA
+primaurelia_cladeA,3,0.0018,10000,9e-04,0.0013,1e-04,0.001,10000
+primaurelia_cladeB,4,0.0102,10000,0.0092,0.0104,0.0337,0.0674,10000
+protobursaria,2,0.0317,10000,0.0219,0.0255,1e-04,0.001,10000
+quindecaurelia,2,0.014,36,0.0071,0.014,0.1081,0.1081,36
+sexaurelia,3,0.0426,420,0.0301,0.0416,0.0143,0.0428,420
+tetraurelia,1,NA,NA,NA,NA,NA,NA,NA
+triaurelia,3,0.0047,10000,0.0046,0.0047,2e-04,0.0012,10000
+tritobursaria,1,NA,NA,NA,NA,NA,NA,NA

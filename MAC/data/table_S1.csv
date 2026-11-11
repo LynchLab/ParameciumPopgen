@@ -1,4 +1,4 @@
-collection,source,latitude,longitude,population,species,sample
+collection,source,latitude,longitude,population,species,isolate
 Arizona,Ayer Lake,33.2802317444025,-111.153813768354,C,biaurelia,AL7-10
 Arizona,Ayer Lake,33.2802317444025,-111.153813768354,C,biaurelia,AL7-25
 Arizona,Ayer Lake,33.2802317444025,-111.153813768354,C,biaurelia,AL7-27_B
@@ -210,7 +210,7 @@ Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum
 Japan,Fukushima Daiichi Power Plant,37.4216435622978,141.032866314024,C,caudatum_cladeB,SF_9
 Japan,Germany – Baden-baden,48.7610716,8.239959,C,bursaria,BB1
 Japan,Japan - Honsyu Island,37.490074,139.835688,N,primaurelia_cladeB,YKKWold
-Japan,"Yamaguchi, Japan",37.490074,139.835688,D,tribursaria,Yad1g1N
+Japan,Yamaguchi - Japan,37.490074,139.835688,D,tribursaria,Yad1g1N
 Nebraska,Marsh Wren Marsh,40.881369,-96.657388,E,bursaria,MW_45
 Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_11
 Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,fokini,MW_12
@@ -244,7 +244,7 @@ Nebraska,Marsh Wren Marsh,40.881369,-96.657388,B,multimicronucleatum,MW_40
 Nebraska,Marsh Wren Marsh,40.881369,-96.657388,B,multimicronucleatum,MW_42
 Nebraska,Marsh Wren Marsh,40.881369,-96.657388,B,multimicronucleatum,NE5
 Nebraska,Marsh Wren Marsh,40.881369,-96.657388,A,tribursaria,MW_46
-Nebraska,,,,,multimicronucleatum,PPP22-17
+Nebraska,,41.737023,-99.587382,,multimicronucleatum,PPP22-17
 Nebraska,,41.737023,-99.587382,E,primaurelia_cladeA,CL_22-7
 Nebraska,,41.737023,-99.587382,E,primaurelia_cladeB,CL_22-10
 Nebraska,Spring Creek Pond,40.692931,-96.851981,B,bursaria,SC_15_B

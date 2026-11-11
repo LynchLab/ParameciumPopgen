@@ -1,0 +1,354 @@
+gene	category	class	function	GO_terms
+CAK57548	chromatin_remodeling	information	Swr1 complex. Incorporation of the histone variant H2AZ into chromatin	GO:0000812,GO:0005634,GO:0031491
+CAK64975	chromatin_remodeling	information	nuclear chromosome 	GO:0000228,GO:0005730,GO:0006338
+CAK72403	chromatin_remodeling	information	histone H4R3 demethylase. Binding to a P-TEFb complex	GO:0005634,GO:0005737,GO:0006338,GO:0006909,GO:0033749,GO:0106140
+CAK76561	chromatin_remodeling	information	poly(ADP-ribose) glycohydrolase. generating ATP in the nucleus from poly-ADP-D-ribose	GO:0004649,GO:0005634,GO:0005737,GO:0005975,GO:0006282,GO:0009225,GO:0016787,GO:1990966
+CAK82157	chromatin_remodeling	information	histone binding.	GO:0005515,GO:0005634,GO:0042393
+CAK82886	chromatin_remodeling	information	histone H4R3 demethylase. Binding to a P-TEFb complex	GO:0005634,GO:0005737,GO:0006338,GO:0006909,GO:0033749,GO:0106140
+CAK86351	chromatin_remodeling	information	poly(ADP-ribose) glycohydrolase. generating ATP in the nucleus from poly-ADP-D-ribose	GO:0004649,GO:0005634,GO:0005737,GO:0005975,GO:0006282,GO:0009225,GO:0016020,GO:1990966
+CAK60595	DNA_recombination	information	3-flap endonuclease. crossover junction endonuclease	GO:0000712,GO:0000727,GO:0003677,GO:0004518,GO:0004519,GO:0005634,GO:0006259,GO:0006281,GO:0006302,GO:0006308,GO:0006310,GO:0008821,GO:0031573,GO:0046872,GO:0048257,GO:0048476
+CAK74663	DNA_recombination	information	Mre11 complex.	GO:0000722,GO:0000794,GO:0003691,GO:0005524,GO:0005634,GO:0005694,GO:0006281,GO:0006302,GO:0007004,GO:0016787,GO:0016887,GO:0030870,GO:0032508,GO:0043047,GO:0046872,GO:0051880,GO:0070192
+CAK91418	DNA_recombination	information	reciprocal DNA recombination.	GO:0007131,GO:0016020
+CAK92630	DNA_recombination	information	reciprocal DNA recombination.	GO:0007131,GO:0016020
+CAK71151	DNA_repair	information	ssDNA-binding peptidase. DNA damage response - removal of covalent cross-link between DNA and a protein	GO:0003677,GO:0003697,GO:0006508,GO:0006974,GO:0008233,GO:0016829,GO:0106300
+CAK73253	DNA_repair	information	ubiquitin-protein transferase.	GO:0000209,GO:0004842,GO:0005524,GO:0006281,GO:0016740,GO:0016881,GO:0043161,GO:0061631
+CAK74056	DNA_repair	information	DNA nuclease. Base-excision repair	GO:0003677,GO:0003824,GO:0003906,GO:0004518,GO:0004519,GO:0005622,GO:0005634,GO:0006281,GO:0006284,GO:0008081,GO:0008311,GO:0046872
+CAK74231	DNA_repair	information	NAD+-protein ADP-ribosyltransferase. dsDNA break repair nucleotidyltransferase	GO:0003950,GO:0005634,GO:0005730,GO:0006302,GO:0006471,GO:0016757,GO:0016779,GO:1990404
+CAK76121	DNA_repair	information	regulation of DNA damage checkpoint.	GO:0003677,GO:0005515,GO:0005634,GO:2000001
+CAK78752	DNA_repair	information	telomerase holoenzyme. telomere maintenance via recombination	GO:0000722,GO:0003720,GO:0003723,GO:0005697,GO:0006278,GO:0070034
+CAK82278	DNA_repair	information	DNA topoisomerase type I (single strand cut ATP-independent).	GO:0003677,GO:0003916,GO:0003917,GO:0005634,GO:0006265,GO:0006281,GO:0006310
+CAK87605	DNA_repair	information	3-5 DNA helicase. dsDNA break repair via homologous recombination	GO:0000724,GO:0003676,GO:0004386,GO:0005524,GO:0005634,GO:0005694,GO:0005737,GO:0006268,GO:0006310,GO:0008026,GO:0009378,GO:0016787,GO:0043138
+CAK91338	DNA_repair	information	nucleotide-excision repair.	GO:0003677,GO:0003697,GO:0003824,GO:0004518,GO:0004519,GO:0004520,GO:0005634,GO:0005739,GO:0006259,GO:0006281,GO:0006289,GO:0016788,GO:0046872
+CAK92582	DNA_repair	information	5-tyrosyl-DNA phosphodiesterase. dsDNA break repair- Catalysis of the hydrolysis of 5-phosphotyrosyl groups formed as covalent intermediates (in DNA backbone breakage) between DNA topoisomerase II and DNA	GO:0003697,GO:0003824,GO:0005737,GO:0006302,GO:0070260
+CAK63966	DNA_replication	information	epsilon DNA polymerase complex.	GO:0000166,GO:0000278,GO:0003676,GO:0003677,GO:0003887,GO:0005634,GO:0006260,GO:0006272,GO:0006281,GO:0006287,GO:0006297,GO:0008270,GO:0008310,GO:0008622,GO:0045004,GO:0046872,GO:0051539,GO:0071897
+CAK65748	DNA_replication	information	alpha DNA polymerase:primase complex.	GO:0003677,GO:0003887,GO:0005658,GO:0006260,GO:0006270
+CAK70624	DNA_replication	information	DNA replication factor C. clamp loader	GO:0003677,GO:0003689,GO:0005634,GO:0005663,GO:0006260,GO:0006261,GO:0006281,GO:0016887
+CAK71325	DNA_replication	information	5’-3' DNA helicase.	GO:0004386,GO:0005524,GO:0032508,GO:0043139
+CAK75903	DNA_replication	information	5’-3' DNA helicase.	GO:0003678,GO:0003697,GO:0032508,GO:0043139
+CAK83276	DNA_replication	information	RNA-DNA hybrid ribonuclease. Catalysis of the endonucleolytic cleavage of RNA in RNA-DNA hybrids to 5-phosphomonoesters	GO:0003676,GO:0004523
+CAK94315	DNA_replication	information	alpha DNA polymerase:primase complex. RNA primer synthesis	GO:0000428,GO:0003896,GO:0005658,GO:0006260,GO:0006261,GO:0006269,GO:0016779,GO:0046872,GO:1990077
+CAK60755	mRNA_stability	information	RNA-binding protein. forms ribonucleoprotein granules in mitochondria	GO:0000963,GO:0003723,GO:0005759,GO:0035770,GO:0044528
+CAK80978	mRNA_stability	information	RNA-binding protein. forms ribonucleoprotein granules in mitochondria	GO:0000963,GO:0003723,GO:0005759,GO:0035770,GO:0044528
+CAK64846	uncategorized	information	nuclear protein-binding 	GO:0005515,GO:0005634
+CAK67453	uncategorized	information	DNA-binding 	GO:0003677
+CAK69027	uncategorized	information	RNA-binding helicase and transferase 	GO:0003676,GO:0003723,GO:0004386,GO:0005524,GO:0008270,GO:0016740,GO:0046872
+CAK70198	uncategorized	information	nucleus 	GO:0005634,GO:0043231
+CAK75860	uncategorized	information	nucleic acid binding methyltransferase 	GO:0003676,GO:0008168,GO:0032259
+CAK75932	uncategorized	information	ligase activity forming carbon-nitrogen bonds 	GO:0005524,GO:0005737,GO:0016879,GO:0046872
+CAK79504	uncategorized	information	DNA-binding ATPase 	GO:0003677,GO:0005524,GO:0016787
+CAK55883	transcription	information	regulation of transcription by RNA Pol II 	GO:0006357,GO:0008270
+CAK59895	transcription	information	RNA Pol II-specific TF 	GO:0000978,GO:0000981,GO:0003677,GO:0003682,GO:0005634,GO:0006355,GO:0006357
+CAK60543	transcription	information	RNA Pol II-specific TF 	GO:0000978,GO:0000981,GO:0003677,GO:0003682,GO:0005634,GO:0006355,GO:0006357
+CAK63036	transcription	information	histone H3K27 methyltransferase, heterochromatin formation	GO:0003682,GO:0005515,GO:0005634,GO:0006338,GO:0031507,GO:0042054,GO:0046976
+CAK78511	transcription	information	RNA Pol II-specific TF 	GO:0000978,GO:0003677,GO:0003700,GO:0005634,GO:0006355,GO:0006357,GO:0043565
+CAK83130	transcription	information	RNA polymerase I complex 	GO:0000428,GO:0001054,GO:0003677,GO:0003899,GO:0005634,GO:0005736,GO:0006351,GO:0006360,GO:0008270,GO:0016779,GO:0034062
+CAK85896	transcription	information	U2 snRNP. MRNA maturation	GO:0000398,GO:0005686,GO:0071011
+CAK86572	transcription	information	regulatory ncRNA-mediated heterochromatin formation 	GO:0005634,GO:0031048,GO:1902369
+CAK87127	transcription	information	cysteine-type deubiquitinase transcription proteolysis of some protein involved in transcription	GO:0003676,GO:0003677,GO:0004843,GO:0006355,GO:0006508,GO:0008233,GO:0016579
+CAK88620	transcription	information	spliceosomal complex disassembly transcription mRNA maturation	GO:0000390,GO:0003676,GO:0003723,GO:0004386,GO:0005524,GO:0016887,GO:0071013
+CAK88984	transcription	information	H2AZ histone chaperone 	GO:0005634,GO:0006355,GO:0045815,GO:0140849
+CAK90308	transcription	information	spliceosomal snRNP assembly 	GO:0000387,GO:0003676,GO:0003724,GO:0003729,GO:0004386,GO:0005524,GO:0016787,GO:0032797
+CAK94726	transcription	information	RNA Pol II-specific TF 	GO:0000978,GO:0000981,GO:0003677,GO:0003682,GO:0005634,GO:0006355,GO:0006357
+CAK56055	translation	information	3-tRNA processing endoribonuclease translation mitochondrial tRNA 3-end processing for maturation	GO:0005739,GO:0008033,GO:0016787,GO:0042781,GO:0046872,GO:1990180
+CAK57796	translation	information	L-threonylcarbamoyladenylate synthase. tRNA processing that regulates translation in cytoplasm	GO:0000049,GO:0003725,GO:0005524,GO:0005737,GO:0006450,GO:0008033,GO:0016779,GO:0061710
+CAK60329	translation	information	aminoacyl-tRNA editing. Hydrolysis of an incorrectly aminoacylated tRNA	GO:0002161,GO:0006399,GO:0106074
+CAK71443	translation	information	tRNA-uridine aminocarboxypropyltransferase. TRNA processing	GO:0005634,GO:0008033,GO:0016432,GO:0016740
+CAK72032	translation	information	tRNA-specific adenosine deaminase. Adenosine to Inosine editing of tRNA, found in nucleolus and cytoplasm	GO:0003723,GO:0003725,GO:0003726,GO:0004000,GO:0005730,GO:0005737,GO:0006382,GO:0006396,GO:0008251
+CAK74358	translation	information	eukaryotic translation initiation factor 2alpha kinase translation ST-Kinase	GO:0004672,GO:0004674,GO:0004694,GO:0005524,GO:0005634,GO:0005737,GO:0006468
+CAK74547	translation	information	mRNA and protein binding	GO:0003729,GO:0005515,GO:0005634
+CAK79016	translation	information	N6-isopentenyladenosine methylthiotransferase. 4Fe-4S cluster binding protein involved in mitochonddrial tRNA modification	GO:0003824,GO:0005739,GO:0005829,GO:0006400,GO:0009451,GO:0016740,GO:0035596,GO:0035597,GO:0035600,GO:0046872,GO:0051536,GO:0051539
+CAK80182	translation	information	translation elongation factor	GO:0003746,GO:0006414
+CAK80342	translation	information	preribosome large subunit precursor. Ribosome biogenesis	GO:0003676,GO:0005737,GO:0008270,GO:0030687,GO:0042254,GO:0042273
+CAK82864	translation	information	positive regulation of transcription by RNA polymerase I. RRNA processing	GO:0005515,GO:0005634,GO:0005730,GO:0006364,GO:0045943
+CAK82877	translation	information	Methyltransferase, rRNA processing	GO:0005737,GO:0006364,GO:0008168,GO:0032259
+CAK85075	translation	information	tRNA guanylyltransferase activity. posttranscriptional addition of a guanyl residue to the 5 end of a tRNA	GO:0000287,GO:0005525,GO:0006400,GO:0008033,GO:0008193,GO:0016779,GO:0046872,GO:0099116
+CAK88351	translation	information	tRNA (guanosine(9)-N1)-methyltransferase	GO:0000049,GO:0002939,GO:0005634,GO:0008168,GO:0032259,GO:0052905
+CAK90401	translation	information	mRNA and protein binding	GO:0003729,GO:0005515
+CAK91419	translation	information	ribonucleoprotein complex GTPase. Cytosolic ribosome assembly	GO:0003924,GO:0005525,GO:0005829,GO:0042256,GO:0043022,GO:1990904
+CAK91451	translation	information	rRNA methyltransferase. Maturation of 5.8S and LSU rRNA	GO:0000463,GO:0000466,GO:0001510,GO:0005730,GO:0008168,GO:0008650,GO:0016435,GO:0030687,GO:0031167,GO:0032259
+CAK55857	nucleic_acid_processing	macromolecule_processing	deoxyribonuclease II.	GO:0004531,GO:0006259,GO:0016787
+CAK57618	nucleic_acid_processing	macromolecule_processing	endodeoxyribonuclease.	GO:0016788,GO:0016888,GO:0046872
+CAK64593	nucleic_acid_processing	macromolecule_processing	integrator complex. stably associates with the C-terminus of RNA polymerase II and mediates 3-end processing of small nuclear RNAs generated by RNA polymerase II	GO:0016180,GO:0032039,GO:0034472
+CAK72635	nucleic_acid_processing	macromolecule_processing	ASAP complex. regulation of mRNA processing and apoptosis	GO:0000166,GO:0000398,GO:0003676,GO:0003723,GO:0005654,GO:0005737,GO:0061574
+CAK88583	nucleic_acid_processing	macromolecule_processing	ribonuclease III.	GO:0003677,GO:0003723,GO:0004386,GO:0004525,GO:0005524,GO:0006396,GO:0016787,GO:0016891
+CAK93419	nucleic_acid_processing	macromolecule_processing	3-5 exonuclease.	GO:0003676,GO:0006139,GO:0008408
+CAK56778	protein_catabolism	macromolecule_processing	ubiquitin protein ligase.	GO:0005634,GO:0006511,GO:0008270,GO:0016567,GO:0046872,GO:0061630
+CAK58228	protein_catabolism	macromolecule_processing	calcium-dependent cysteine-type endopeptidase.	GO:0004198,GO:0005622,GO:0005737,GO:0006508,GO:0008234
+CAK59540	protein_catabolism	macromolecule_processing	cysteine-type endopeptidase. localized to extracellular space, so likely involved in extracellular digestion	GO:0004197,GO:0005615,GO:0006508,GO:0008234,GO:0051603
+CAK60086	protein_catabolism	macromolecule_processing	cullin-RING ubiquitin ligase complex. protein ubiquitination	GO:0005634,GO:0006511,GO:0008270,GO:0016567,GO:0031461,GO:0046872,GO:0061630,GO:0097602
+CAK60424	protein_catabolism	macromolecule_processing	calcium-dependent cysteine-type endopeptidase.	GO:0004198,GO:0005622,GO:0005737,GO:0006508
+CAK63560	protein_catabolism	macromolecule_processing	ubiquitin protein ligase.	GO:0008270,GO:0061630
+CAK65277	protein_catabolism	macromolecule_processing	peptidase.	GO:0006508,GO:0008233,GO:0016787
+CAK66893	protein_catabolism	macromolecule_processing	cysteine-type deubiquitinase.	GO:0004843,GO:0006511,GO:0016579
+CAK67341	protein_catabolism	macromolecule_processing	metallocarboxypeptidase. Catalysis of the hydrolysis of a single C-terminal amino acid residue from a polypeptide chain	GO:0004181,GO:0006508,GO:0008270
+CAK68850	protein_catabolism	macromolecule_processing	metalloendopeptidase.	GO:0004176,GO:0004222,GO:0005524,GO:0006508,GO:0008233,GO:0009534,GO:0016020,GO:0016887
+CAK69420	protein_catabolism	macromolecule_processing	calcium-dependent cysteine-type endopeptidase.	GO:0004198,GO:0005509,GO:0005622,GO:0005737,GO:0006508,GO:0008234
+CAK69664	protein_catabolism	macromolecule_processing	ubiquitin-protein transferase.	GO:0004842,GO:0016020
+CAK70231	protein_catabolism	macromolecule_processing	ubiquitin protein ligase.	GO:0006511,GO:0008270,GO:0016567,GO:0061630
+CAK71114	protein_catabolism	macromolecule_processing	protein-N-terminal Asn/Gln amidohydrolase.	GO:0006807,GO:0008418,GO:0016810,GO:0030163,GO:0036211,GO:0070773
+CAK72444	protein_catabolism	macromolecule_processing	serine-type peptidase.	GO:0006508,GO:0008233,GO:0008236
+CAK73763	protein_catabolism	macromolecule_processing	ubiquitin protein ligase.	GO:0000209,GO:0005737,GO:0008270,GO:0016020,GO:0061630
+CAK75240	protein_catabolism	macromolecule_processing	cysteine-type deubiquitinase.	GO:0004843,GO:0005622,GO:0005737,GO:0006508,GO:0006511,GO:0008234,GO:0016579
+CAK77144	protein_catabolism	macromolecule_processing	peptidase.	GO:0006508,GO:0008233
+CAK77461	protein_catabolism	macromolecule_processing	ubiquitin protein ligase.	GO:0005634,GO:0006511,GO:0008270,GO:0016020,GO:0046872,GO:0061630
+CAK80028	protein_catabolism	macromolecule_processing	ubiquitin-protein transferase. protein autoubiquitination	GO:0004842,GO:0008270,GO:0046872,GO:0051865
+CAK80077	protein_catabolism	macromolecule_processing	cysteine-type deubiquitinase.	GO:0004843,GO:0005634,GO:0005829,GO:0006511,GO:0016579,GO:0031647,GO:0036459
+CAK83000	protein_catabolism	macromolecule_processing	cysteine-type endopeptidase. localized to extracellular space, so likely involved in extracellular digestion	GO:0004197,GO:0005615,GO:0006508,GO:0008234,GO:0051603
+CAK83734	protein_catabolism	macromolecule_processing	ubiquitin protein ligase binding.	GO:0005515,GO:0016567,GO:0019941,GO:0031386,GO:0031625
+CAK84468	protein_catabolism	macromolecule_processing	peptidase.	GO:0006508,GO:0008233,GO:0016787
+CAK86797	protein_catabolism	macromolecule_processing	SCF ubiquitin ligase.	GO:0005515,GO:0019005,GO:0031146
+CAK93068	protein_catabolism	macromolecule_processing	proteasome binding. proteasome-mediated ubiquitin-dependent protein catabolic process	GO:0005515,GO:0005654,GO:0005829,GO:0031593,GO:0043130,GO:0043161,GO:0070628
+CAK94317	protein_catabolism	macromolecule_processing	serine-type endopeptidase.	GO:0004252,GO:0006508,GO:0008236,GO:0016020,GO:0016021
+CAK94869	protein_catabolism	macromolecule_processing	cysteine-type deubiquitinase.	GO:0004843,GO:0006511,GO:0016579,GO:0036459,GO:0140096
+CAK94991	protein_catabolism	macromolecule_processing	cysteine-type endopeptidase. localized to extracellular space, so likely involved in extracellular digestion	GO:0004197,GO:0005615,GO:0006508,GO:0008234,GO:0051603
+CAK94997	protein_catabolism	macromolecule_processing	ubiquitin protein ligase. proteasome-mediated ubiquitin-dependent protein catabolic process	GO:0000209,GO:0004842,GO:0005515,GO:0005737,GO:0006515,GO:0016567,GO:0043161,GO:0045862,GO:0051087,GO:0061630,GO:0071218
+CAK80146	protein_folding	macromolecule_processing	Hsp70 protein binding.	GO:0005634,GO:0005737,GO:0030544,GO:0044183,GO:0051082,GO:0051087,GO:0061077
+CAK81995	protein_folding	macromolecule_processing	2Fe-2S chaperone binding ATPase.	GO:0001671,GO:0006457,GO:0016020,GO:0016787,GO:0016811,GO:0017000,GO:0044571,GO:0051087,GO:0051259
+CAK91838	protein_folding	macromolecule_processing	ATP-dependent chaperone. heat shock protein binding, does refolding of misfolded proteins	GO:0005524,GO:0005737,GO:0016887,GO:0031072,GO:0042026,GO:0044183,GO:0051085,GO:0140662
+CAK59405	protein_modification	macromolecule_processing	diphthine methylesterase. Post-translational modification of eEF2 required for translation	GO:0005515,GO:0005737,GO:0016787,GO:0017183,GO:0061685
+CAK61400	protein_modification	macromolecule_processing	protein-lysine N-methyltransferase. transfer of a methyl group from S-adenosyl-L-methionine to the epsilon-amino group of a lysine residue in a protein substrate	GO:0005515,GO:0016279
+CAK62292	protein_modification	macromolecule_processing	N-terminal protein amino acid methylation.	GO:0005737,GO:0006480,GO:0008168,GO:0016740
+CAK86818	protein_modification	macromolecule_processing	SUMO transferase. sumoylated proteins are involved in multiple processes such as cell-cycle regulation, DNA repair, and phagocytosis	GO:0000785,GO:0008270,GO:0016925,GO:0019789,GO:0046872,GO:0061665
+CAK88387	protein_modification	macromolecule_processing	protein-L-isoaspartate (D-aspartate) O-methyltransferase.	GO:0004719,GO:0005515,GO:0005737,GO:0016020,GO:0036211
+CAK61005	amino-acid_metabolism	metabolism	2-hydroxyglutarate dehydrogenase Amino-acid_metabolism mitochondrial	GO:0016491,GO:0016614,GO:0047545
+CAK72244	amino-acid_metabolism	metabolism	asparagine synthase (glutamine-hydrolyzing) Amino-acid_	GO:0004066,GO:0006529
+CAK72696	amino-acid_metabolism	metabolism	O-phospho-L-serine:2-oxoglutarate aminotransferase Amino-acid_metabolism biosynthesis of L-serine	GO:0004648,GO:0005737,GO:0006563,GO:0006564,GO:0030170
+CAK81092	amino-acid_metabolism	metabolism	diaminopimelate decarboxylase Amino-acid_metabolism lysine biosynthesis	GO:0003824,GO:0008836,GO:0009089,GO:0016830
+CAK87312	amino-acid_metabolism	metabolism	L-serine ammonia-lyase Amino-acid_metabolism catabolism of L-serine and threonine, anabolism of isoleucine	GO:0003941,GO:0004794,GO:0006520,GO:0006565,GO:0006567,GO:0009097,GO:0016020,GO:0030170
+CAK58641	carbohydrate_metabolism	metabolism	Alpha-mannosidase.	GO:0003824,GO:0004559,GO:0005975,GO:0006013,GO:0008270,GO:0016798,GO:0030246,GO:0046872
+CAK64592	carbohydrate_metabolism	metabolism	isomerase.	GO:0005975,GO:0016853
+CAK65951	carbohydrate_metabolism	metabolism	Alpha-mannosidase.	GO:0003824,GO:0004559,GO:0005975,GO:0006013,GO:0008270,GO:0016798,GO:0030246,GO:0046872
+CAK72422	carbohydrate_metabolism	metabolism	Glc3Man9GlcNAc2 oligosaccharide glucosidase. protein N-linked glycosylation on ER membrane	GO:0004573,GO:0005783,GO:0005789,GO:0005975,GO:0006487,GO:0009311,GO:0016020,GO:0016787,GO:0016798
+CAK74111	carbohydrate_metabolism	metabolism	alpha-amylase.	GO:0003824,GO:0004556,GO:0005509,GO:0005975,GO:0016798,GO:0043169
+CAK93329	carbohydrate_metabolism	metabolism	ADP-specific glucokinase. glycolysis	GO:0005737,GO:0005783,GO:0005975,GO:0006006,GO:0006096,GO:0016301,GO:0016773,GO:0043843
+CAK94942	carbohydrate_metabolism	metabolism	alpha-amylase.	GO:0003824,GO:0004556,GO:0005509,GO:0005975,GO:0016798,GO:0043169,GO:0046872
+CAK72807	coenzyme_metabolism	metabolism	NAD+ synthase (glutamine-hydrolyzing).	GO:0003952,GO:0004359,GO:0005524,GO:0005737,GO:0009435,GO:0016810,GO:0016874
+CAK75986	coenzyme_metabolism	metabolism	glucosamine 6-phosphate N-acetyltransferase. UDP-N-acetylglucosamine biosynthetic	GO:0004343,GO:0006048,GO:0008080,GO:0016746,GO:0016747
+CAK80950	coenzyme_metabolism	metabolism	FMN adenylyltransferase. FAD biosynthetic process	GO:0003824,GO:0003919,GO:0005524,GO:0006747,GO:0016779
+CAK94480	coenzyme_metabolism	metabolism	Transferase in ubiquinone biosynthesis. electron transport chain	GO:0006744,GO:0016772
+CAK70872	electron_transport_chain	metabolism	mitochondrial cytochrome c oxidase assembly.	GO:0005739,GO:0016020,GO:0033617,GO:0046872
+CAK56321	lipid_metabolism	metabolism	enoyl-CoA hydratase. fatty acid beta-oxidation in mitochondria	GO:0003824,GO:0004300,GO:0005739,GO:0006635
+CAK57798	lipid_metabolism	metabolism	[acyl-carrier-protein] S-malonyltransferase. Acyltransferase in fatty acid biosynthesis	GO:0004314,GO:0006633,GO:0016740,GO:0016746
+CAK59722	lipid_metabolism	metabolism	1-alkyl-2-acetylglycerophosphocholine esterase. catabolic	GO:0003847,GO:0016020,GO:0016042,GO:0016787
+CAK63354	lipid_metabolism	metabolism	phosphatidylinositol phospholipase C. involved in intracellular signal transduction	GO:0004435,GO:0006629,GO:0007165,GO:0035556
+CAK66038	lipid_metabolism	metabolism	enoyl-CoA hydratase. fatty acid beta-oxidation in mitochondria	GO:0003824,GO:0004300,GO:0005739,GO:0006635
+CAK68889	lipid_metabolism	metabolism	oxidoreductase.	GO:0005737,GO:0006629,GO:0016020,GO:0016021,GO:0016627
+CAK70541	lipid_metabolism	metabolism	O-acyltransferase.	GO:0006629,GO:0008374
+CAK73254	lipid_metabolism	metabolism	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase.	GO:0005789,GO:0006629,GO:0006633,GO:0016020,GO:0016829,GO:0018812,GO:0030148,GO:0030497,GO:0042761,GO:0102158
+CAK74271	lipid_metabolism	metabolism	triglyceride lipase. catabolize triglycerides	GO:0004771,GO:0004806,GO:0005829,GO:0016020,GO:0016787,GO:0019433
+CAK83212	lipid_metabolism	metabolism	acyl-CoA dehydrogenase. fatty acid beta-oxidation in mitochondria	GO:0003995,GO:0005737,GO:0006631,GO:0016020,GO:0016627,GO:0016772,GO:0031966,GO:0033539,GO:0050660
+CAK83496	lipid_metabolism	metabolism	CoA-transferase.	GO:0003824,GO:0008410
+CAK91242	lipid_metabolism	metabolism	triglyceride lipase. catabolize triglycerides	GO:0004771,GO:0004806,GO:0005829,GO:0016787,GO:0019433
+CAK65691	nucleotide_metabolism	metabolism	purine nucleosidase.	GO:0005829,GO:0006139,GO:0006152,GO:0008477,GO:0016798,GO:0016799
+CAK65823	nucleotide_metabolism	metabolism	NTP diphosphatase.	GO:0009143,GO:0047429
+CAK74624	nucleotide_metabolism	metabolism	adenine phosphoribosyltransferase. AMP salvage	GO:0002055,GO:0003999,GO:0005737,GO:0006166,GO:0006168,GO:0009116,GO:0016208,GO:0016757,GO:0044209
+CAK85900	nucleotide_metabolism	metabolism	dihydroorotate dehydrogenase. de novo pyrimidine nucleobase biosynthetic process	GO:0004152,GO:0005737,GO:0005743,GO:0006207,GO:0006222,GO:0009220,GO:0016491,GO:0016627
+CAK91407	nucleotide_metabolism	metabolism	NTP diphosphatase.	GO:0005737,GO:0047429
+CAK57574	uncategorized	metabolism	methyltransferase 	GO:0008168,GO:0016020,GO:0016740
+CAK61471	uncategorized	metabolism	N-acetyltransferase, acyltransferase	GO:0008080,GO:0016740,GO:0016747
+CAK83649	uncategorized	metabolism	acyltransferase, localized to ER	GO:0005783,GO:0016020,GO:0016021,GO:0016746
+CAK93141	uncategorized	metabolism	N-acetyltransferase 	GO:0005737,GO:0008080,GO:0016746,GO:0016747
+CAK69430	secondary_metabolism	metabolism	coproporphyrinogen oxidase.	GO:0003824,GO:0004109,GO:0005737,GO:0006779,GO:0051536,GO:0051539
+CAK74069	secondary_metabolism	metabolism	aldehyde dehydrogenase (NAD+).	GO:0004029,GO:0016491,GO:0016620
+CAK74379	secondary_metabolism	metabolism	porphobilinogen synthase. protoporphyrinogen IX biosynthetic process	GO:0004655,GO:0005829,GO:0006782,GO:0006783,GO:0008270,GO:0016829,GO:0033014,GO:0046872
+CAK79339	secondary_metabolism	metabolism	5-oxoprolinase (ATP-hydrolyzing). glutathione metabolic process	GO:0003824,GO:0005829,GO:0006749,GO:0016787,GO:0017168
+CAK65710	sterol_metabolism	metabolism	2Fe-2S binding oxidoreductase. cholesterol 	GO:0005737,GO:0008203,GO:0016020,GO:0016491,GO:0046872,GO:0051537
+CAK78763	sterol_metabolism	metabolism	cholestenol delta-isomerase.	GO:0000247,GO:0004769,GO:0005783,GO:0005789,GO:0016020,GO:0016021,GO:0016125,GO:0016126,GO:0016853,GO:0047750
+CAK59873	uncategorized	uncategorized	cytoplasmic oxidoreductase	GO:0005737,GO:0016491
+CAK64604	uncategorized	uncategorized	cytosol	GO:0005829
+CAK75199	uncategorized	uncategorized	hydrolase	GO:0016787
+CAK76876	uncategorized	uncategorized	phosphotransferase	GO:0016772
+CAK79554	uncategorized	uncategorized	hydrolase	GO:0016787
+CAK82318	uncategorized	uncategorized	Lipid-binding	GO:0008289
+CAK92146	uncategorized	uncategorized	phosphotransferase	GO:0016772
+CAK93993	uncategorized	uncategorized	Non-peptide C-N bond hydrolase	GO:0016810
+CAK57795	homeostasis	sensing_and_response	endoplasmic reticulum calcium ion homeostasis	GO:0005509,GO:0005783,GO:0016020,GO:0032469
+CAK61754	uncategorized	sensing_and_response	plasma membrane protein 	GO:0005737,GO:0005886
+CAK70229	uncategorized	sensing_and_response	extracellular space 	GO:0005615,GO:0031012
+CAK74774	uncategorized	sensing_and_response	extracellular space 	GO:0005615
+CAK78988	uncategorized	sensing_and_response	plasma membrane protein 	GO:0005886,GO:0016020
+CAK88110	oxygen_sensing	sensing_and_response	dioxygenase.	GO:0005634,GO:0046872,GO:0051213
+CAK70109	pH_regulation	sensing_and_response	acid phosphatase.	GO:0003993,GO:0016791
+CAK77257	pH_regulation	sensing_and_response	acid phosphatase.	GO:0003993,GO:0016791
+CAK65577	redox	sensing_and_response	thioredoxin-disulfide reductase redox	GO:0000166,GO:0004791,GO:0005737,GO:0016491,GO:0016668,GO:0045454,GO:0050660,GO:0050661,GO:0098869
+CAK68757	redox	sensing_and_response	2-oxoglutarate-dependent dioxygenase redox	GO:0016706
+CAK70301	redox	sensing_and_response	protein disulfide isomerase redox response to ER stress	GO:0003756,GO:0005783,GO:0006457,GO:0034976,GO:0045454
+CAK82265	redox	sensing_and_response	glutathione peroxidase redox	GO:0004601,GO:0004602,GO:0006979,GO:0098869
+CAK91789	redox	sensing_and_response	sulfur dioxygenase redox glutathione metabolic process	GO:0006749,GO:0050313,GO:0070813
+CAK67555	response_to_calcium	sensing_and_response	calcium-dependent phospholipid binding.	GO:0005544,GO:0005886,GO:0071277
+CAK81088	response_to_calcium	sensing_and_response	calcium-dependent phospholipid binding.	GO:0005544,GO:0005886,GO:0071277
+CAK55814	signaling	sensing_and_response	signaling receptor 	GO:0016020,GO:0016021,GO:0038023,GO:0046872
+CAK56701	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK57136	signaling	sensing_and_response	cAMP-dependent protein kinase inhibitor 	GO:0004862,GO:0005829,GO:0005952,GO:0030552,GO:0034236
+CAK57283	signaling	sensing_and_response	protein phosphatase type 2A complex signaling Regulator of protein serine/threonine phosphatase activity that is polycation-stimulated (PCS) being directly stimulated by protamine	GO:0000159,GO:0005634,GO:0005737,GO:0005829,GO:0019888
+CAK58813	signaling	sensing_and_response	GTPase 	GO:0005525,GO:0005737,GO:0016787
+CAK60521	signaling	sensing_and_response	calmodulin-dependent protein ST-kinase 	GO:0004672,GO:0004674,GO:0004683,GO:0005516,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0009931,GO:0035556
+CAK60642	signaling	sensing_and_response	phosphoprotein phosphatase 	GO:0004721,GO:0016791
+CAK60696	signaling	sensing_and_response	small GTPase. Signal transduction leading to actin filament organization	GO:0003924,GO:0005525,GO:0005622,GO:0005886,GO:0007015,GO:0007165,GO:0007264,GO:0019901
+CAK60878	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468,GO:0035556
+CAK62252	signaling	sensing_and_response	cAMP-dependent protein kinase inhibitor 	GO:0004862,GO:0005829,GO:0005952,GO:0008603,GO:0030552,GO:0034236
+CAK62457	signaling	sensing_and_response	calmodulin-dependent protein ST-kinase 	GO:0004672,GO:0004674,GO:0004683,GO:0005509,GO:0005516,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0009931,GO:0016020,GO:0035556,GO:0046872
+CAK62556	signaling	sensing_and_response	small GTPase 	GO:0003924,GO:0005525,GO:0005622,GO:0005886,GO:0007165,GO:0007264,GO:0016020,GO:0019003
+CAK63421	signaling	sensing_and_response	protein ST phosphatase 	GO:0004721,GO:0004722,GO:0006470,GO:0016020,GO:0043169,GO:0046872
+CAK65153	signaling	sensing_and_response	protein kinase 	GO:0004672,GO:0005524,GO:0006468
+CAK67798	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK68171	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0005737,GO:0006468
+CAK68880	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK70051	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK70423	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468,GO:0007165
+CAK71442	signaling	sensing_and_response	calmodulin-dependent protein ST-kinase 	GO:0004672,GO:0004674,GO:0004683,GO:0005509,GO:0005516,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0009931,GO:0016020,GO:0035556,GO:0046872
+CAK74007	signaling	sensing_and_response	protein kinase 	GO:0004672,GO:0005524,GO:0006468
+CAK74077	signaling	sensing_and_response	Notch signaling pathway, involves ubiquitination	GO:0007219,GO:0008270,GO:0016567,GO:0016740,GO:0046872
+CAK74625	signaling	sensing_and_response	MAP kinase tyrosine phosphatase. negative regulation of MAPK cascade	GO:0004721,GO:0004725,GO:0005737,GO:0006470,GO:0008138,GO:0008330,GO:0016311,GO:0017017,GO:0033550,GO:0043409
+CAK74897	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0016020,GO:0016740,GO:0035556
+CAK75719	signaling	sensing_and_response	protein ST phosphatase 	GO:0003824,GO:0004722,GO:0006470,GO:0016020
+CAK76378	signaling	sensing_and_response	cAMP-dependent protein kinase inhibitor 	GO:0004862,GO:0005829,GO:0005952,GO:0008603,GO:0030552,GO:0034236
+CAK76481	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0006468
+CAK76885	signaling	sensing_and_response	GTPase 	GO:0003924,GO:0005525,GO:0006184,GO:0007165,GO:0008270,GO:0016020,GO:0046872
+CAK77429	signaling	sensing_and_response	protein kinase 	GO:0004672,GO:0005524,GO:0006468
+CAK77708	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK78629	signaling	sensing_and_response	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex. GPI-anchor biosynthesis	GO:0000506,GO:0006506,GO:0016020,GO:0016757,GO:0017176
+CAK78958	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK79934	signaling	sensing_and_response	calmodulin-dependent protein ST-kinase 	GO:0004672,GO:0004674,GO:0004683,GO:0005509,GO:0005516,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0009931,GO:0016020,GO:0035556,GO:0046872
+CAK80035	signaling	sensing_and_response	phosphatase 	GO:0005737,GO:0016791
+CAK80260	signaling	sensing_and_response	ST-kinase 	GO:0004674,GO:0005524,GO:0006468
+CAK80924	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK81348	signaling	sensing_and_response	GTPase 	GO:0003924,GO:0005525
+CAK81935	signaling	sensing_and_response	protein kinase 	GO:0004672,GO:0005524,GO:0006468
+CAK82057	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468,GO:0007165
+CAK83132	signaling	sensing_and_response	phosphatidylinositol-4 5-bisphosphate 5-phosphatase 	GO:0004439,GO:0016791,GO:0042578,GO:0046856
+CAK83148	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK83516	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468,GO:0035556
+CAK84045	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0005737,GO:0006468
+CAK84908	signaling	sensing_and_response	MAP kinase tyrosine phosphatase. negative regulation of MAPK cascade	GO:0004721,GO:0004725,GO:0005737,GO:0006470,GO:0008138,GO:0008330,GO:0016311,GO:0017017,GO:0033550,GO:0043409
+CAK84927	signaling	sensing_and_response	N-acylphosphatidylethanolamine-specific phospholipase D. phopholipid catabolism	GO:0003824,GO:0004630,GO:0005886,GO:0006654,GO:0009395,GO:0016042,GO:0016787,GO:0035556,GO:0070290
+CAK84939	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK86497	signaling	sensing_and_response	phosphoprotein phosphatase 	GO:0004721,GO:0016791
+CAK86529	signaling	sensing_and_response	MAP kinase tyrosine phosphatase. negative regulation of MAPK cascade	GO:0005737,GO:0006470,GO:0008138,GO:0008330,GO:0016311,GO:0017017,GO:0033550,GO:0043409
+CAK86930	signaling	sensing_and_response	MAP kinase tyrosine phosphatase. negative regulation of MAPK cascade	GO:0004721,GO:0004725,GO:0005737,GO:0006470,GO:0008138,GO:0008330,GO:0016311,GO:0017017,GO:0033550,GO:0043409
+CAK87758	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005515,GO:0005524,GO:0005634,GO:0005737,GO:0006468
+CAK87940	signaling	sensing_and_response	GTPase 	GO:0000166,GO:0003924,GO:0005525,GO:0016787
+CAK87941	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK88086	signaling	sensing_and_response	cAMP-dependent protein ST-kinase. An intracellular signaling cassette that starts with the activation of protein kinase A (PKA) and ends with the regulation of a downstream cellular process	GO:0004672,GO:0004674,GO:0004691,GO:0005524,GO:0005952,GO:0006468,GO:0010737
+CAK88621	signaling	sensing_and_response	calmodulin-dependent protein ST-kinase 	GO:0004672,GO:0004674,GO:0004683,GO:0005509,GO:0005516,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0009931,GO:0016020,GO:0035556,GO:0046872
+CAK90859	signaling	sensing_and_response	ST-kinase 	GO:0004672,GO:0004674,GO:0005524,GO:0006468
+CAK91447	signaling	sensing_and_response	cAMP-dependent protein kinase inhibitor 	GO:0004862,GO:0005829,GO:0005952,GO:0030552,GO:0034236
+CAK92724	signaling	sensing_and_response	3 5-cyclic-nucleotide phosphodiesterase. CAMP-mediated intracellular 	GO:0004114,GO:0004115,GO:0007165,GO:0008081,GO:0016020,GO:0016787,GO:0019933,GO:0046872,GO:0047555
+CAK87042	stress_response	sensing_and_response	beta-lactamase.	GO:0008800,GO:0017001,GO:0030655,GO:0046677
+CAK61319	cell_adhesion	structure_and_development	metalloendopeptidase.	GO:0004222,GO:0005737,GO:0006508,GO:0007155,GO:0008233,GO:0008237,GO:0016020,GO:0046872
+CAK56529	cell_cycle	structure_and_development	gamma-tubulin binding. microtubule nucleation involved in spindle assembly during mitotic/meiotic cell cycle	GO:0000226,GO:0000278,GO:0000922,GO:0000923,GO:0000930,GO:0005737,GO:0005813,GO:0005815,GO:0005856,GO:0005874,GO:0007020,GO:0015630,GO:0031122,GO:0043015,GO:0051011,GO:0051225,GO:0051321
+CAK58283	cell_cycle	structure_and_development	deNEDDylase. isopeptidase activity that cleaves NEDD8 from a target protein to which it is conjugated	GO:0000338,GO:0006508,GO:0008234,GO:0019784
+CAK64626	cell_cycle	structure_and_development	anaphase-promoting complex. ubiquitin ligase complex that degrades mitotic cyclins and anaphase inhibitory protein thereby triggering sister chromatid separation and exit from mitosis	GO:0005515,GO:0005680,GO:0005737,GO:0007091,GO:0016567,GO:0031145,GO:0051301
+CAK77245	cell_cycle	structure_and_development	ST-kinase. phosphorylation involved in mitotic DNA damage checkpoint 	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0044773
+CAK78975	cell_cycle	structure_and_development	cytoplasmic dynein complex. mitotic spindle organization in nuclear migration	GO:0003777,GO:0005524,GO:0005737,GO:0005856,GO:0005868,GO:0005874,GO:0005881,GO:0005938,GO:0007018,GO:0007052,GO:0007097,GO:0008569,GO:0016887,GO:0030286,GO:0031122,GO:0045505,GO:0051959
+CAK79971	cell_cycle	structure_and_development	gamma-tubulin binding. microtubule nucleation involved in spindle assembly during mitotic/meiotic cell cycle	GO:0000226,GO:0000278,GO:0000922,GO:0000923,GO:0000930,GO:0005737,GO:0005813,GO:0005815,GO:0005856,GO:0005874,GO:0007020,GO:0015630,GO:0031122,GO:0043015,GO:0051011,GO:0051225,GO:0051321
+CAK84932	cell_cycle	structure_and_development	condensin complex. chromosome condensation in meiosis and mitosis	GO:0000796,GO:0005515,GO:0005524,GO:0005634,GO:0005694,GO:0007076,GO:0016887,GO:0051276
+CAK94118	cell_cycle	structure_and_development	positive regulation of centriole elongation.	GO:0005813,GO:0005814,GO:0007098,GO:1903724
+CAK94945	cell_cycle	structure_and_development	replication fork protection complex. DNA replication checkpoint 	GO:0000076,GO:0003677,GO:0005634,GO:0006281,GO:0031298,GO:0043111
+CAK60542	cell_motility	structure_and_development	protein localization to cilium. ciliary basal body	GO:0005515,GO:0005929,GO:0036064,GO:0060271,GO:0061512
+CAK63107	cell_motility	structure_and_development	cilium.	GO:0005856,GO:0005929,GO:0044782
+CAK71251	cell_motility	structure_and_development	BBSome. ciliary protein complex involved in cilium biogenesis	GO:0005515,GO:0005737,GO:0005856,GO:0005929,GO:0016020,GO:0031514,GO:0034464,GO:0035058,GO:0036064,GO:0060271,GO:1905515
+CAK74862	cell_motility	structure_and_development	cilium.	GO:0005737,GO:0005856,GO:0005929
+CAK75637	cell_motility	structure_and_development	outer dynein arm assembly. present at ciliary rootlet, basal body, and tip	GO:0003341,GO:0005929,GO:0035253,GO:0036064,GO:0036158,GO:0097542
+CAK78938	cell_motility	structure_and_development	axonemal dynein complex.	GO:0001539,GO:0003777,GO:0005524,GO:0005737,GO:0005856,GO:0005858,GO:0005874,GO:0007018,GO:0008569,GO:0016887,GO:0030286,GO:0045505,GO:0051959
+CAK80648	cell_motility	structure_and_development	microtubule binding. present at axoneme and regulates cytoskeletal organization	GO:0005515,GO:0005930,GO:0008017,GO:0051493
+CAK81080	cell_motility	structure_and_development	MKS complex. present at ciliary transition zone involved in cilium assembly. Also known to negatively regulate centrosome duplication	GO:0010826,GO:0016020,GO:0035869,GO:0036038,GO:0042384,GO:0060271
+CAK86819	cell_motility	structure_and_development	cilium assembly. ciliary inversin compartment at ciliary base	GO:0005515,GO:0060271,GO:0097543,GO:0097546
+CAK91412	cell_motility	structure_and_development	cytoplasmic dynein complex. intraciliary transport	GO:0005515,GO:0005868,GO:0042073,GO:0045503,GO:0045504,GO:0097014
+CAK79583	cell_structure	structure_and_development	phosphotransferase. localized to IMM, involved in mitochondrion organization and lipid homeostasis	GO:0005743,GO:0007005,GO:0016772,GO:0055088
+CAK77369	cytoskeleton	structure_and_development	protein-glycine ligase. protein polyglutamylation important for cell shape and motility	GO:0005737,GO:0015630,GO:0018095,GO:0036211,GO:0070735,GO:0070736
+CAK90774	cytoskeleton	structure_and_development	GTPase involved in polymerization	GO:0000226,GO:0000278,GO:0003924,GO:0005200,GO:0005525,GO:0005634,GO:0005737,GO:0005814,GO:0005874,GO:0005929,GO:0007017,GO:0030030,GO:0042995,GO:0051258
+CAK74776	digestion	structure_and_development	peptidoglycan beta-N-acetylmuramidase digestion	GO:0033922
+CAK85223	cytoskeleton	structure_and_development	actin filament binding	GO:0005515,GO:0007015,GO:0051015
+CAK57382	intracellular_transport	transport	sterol transfer. Sterol-binding protein at ER-PM contact site involved in intracellular sterol transport	GO:0005789,GO:0005886,GO:0016020,GO:0032366,GO:0032934,GO:0043226,GO:0120015,GO:0140268
+CAK58259	intracellular_transport	transport	GTPase activator.	GO:0005096,GO:0005097,GO:0006886
+CAK60094	motor_protein	transport	kinesin complex.	GO:0003774,GO:0003777,GO:0005524,GO:0005871,GO:0005874,GO:0007018,GO:0008017,GO:0016887
+CAK94021	motor_protein	transport	kinesin complex.	GO:0003774,GO:0003777,GO:0005524,GO:0005871,GO:0005874,GO:0007018,GO:0008017,GO:0016887
+CAK65380	protein_transport	transport	protein-cysteine S-palmitoyltransferase. protein targeting to membrane	GO:0005783,GO:0005794,GO:0006612,GO:0008270,GO:0016020,GO:0016021,GO:0016409,GO:0016746,GO:0019706
+CAK66660	protein_transport	transport	protein retention in Golgi apparatus. protein targeting to vacuole	GO:0006623,GO:0006869,GO:0045053
+CAK70300	protein_transport	transport	small GTPase binding. intracellular protein transport	GO:0006886,GO:0031267
+CAK72375	protein_transport	transport	protein retention in Golgi apparatus. protein targeting to vacuole	GO:0006623,GO:0045053
+CAK76366	protein_transport	transport	small GTPase. signal transduction involved in intracellular protein transport via endomembrane system	GO:0003924,GO:0005525,GO:0006886,GO:0007264,GO:0012505,GO:0015031,GO:0043227
+CAK80015	protein_transport	transport	protein retention in Golgi apparatus. protein targeting to vacuole	GO:0006623,GO:0006869,GO:0045053
+CAK55878	transmembrane_transport	transport	calcium-activated cation channel.	GO:0005227,GO:0005886,GO:0016020,GO:0016021,GO:0098655
+CAK57569	transmembrane_transport	transport	HCN channel complex. A cation ion channel with a preference for K+ over Na+ ions which is activated by membrane hyperpolarization	GO:0003254,GO:0003676,GO:0005249,GO:0008270,GO:0016020,GO:0035725,GO:0071805,GO:0098855
+CAK59111	transmembrane_transport	transport	xenobiotic transmembrane antiporter.	GO:0015238,GO:0015297,GO:0016020,GO:0022857,GO:0042908,GO:0042910,GO:0055085
+CAK62319	transmembrane_transport	transport	calcium-activated cation channel.	GO:0005227,GO:0005886,GO:0016020,GO:0098655
+CAK62622	transmembrane_transport	transport	transmembrane transporter.	GO:0016020,GO:0022857,GO:0055085
+CAK63347	transmembrane_transport	transport	ABC-type transporter.	GO:0005524,GO:0016020,GO:0016021,GO:0016887,GO:0042626,GO:0055085,GO:0140359
+CAK64013	transmembrane_transport	transport	ABC-type lipid transporter.	GO:0005319,GO:0005524,GO:0006869,GO:0016020,GO:0016887,GO:0042626,GO:0043231,GO:0055085,GO:0140359
+CAK64671	transmembrane_transport	transport	chloride channel.	GO:0005254,GO:0016020,GO:1902476
+CAK66619	transmembrane_transport	transport	calcium-activated cation channel.	GO:0005227,GO:0005886,GO:0016020,GO:0098655
+CAK67717	transmembrane_transport	transport	transmembrane transporter.	GO:0006810,GO:0016020,GO:0016021,GO:0022857,GO:0055085
+CAK68282	transmembrane_transport	transport	ferrous iron transmembrane transporter. mitochondrial membrane	GO:0005739,GO:0015093,GO:0016020,GO:0016021,GO:0031966,GO:0048250,GO:0055085
+CAK69322	transmembrane_transport	transport	transmembrane transporter.	GO:0016020,GO:0016021,GO:0022857,GO:0055085
+CAK70527	transmembrane_transport	transport	chloride channel.	GO:0005254,GO:0016020,GO:1902476
+CAK71284	transmembrane_transport	transport	voltage-gated potassium channel complex.	GO:0001508,GO:0005216,GO:0005249,GO:0005267,GO:0006811,GO:0008076,GO:0016020,GO:0055085,GO:0071805
+CAK72050	transmembrane_transport	transport	ABC-type transporter.	GO:0005524,GO:0016020,GO:0016021,GO:0016887,GO:0042626,GO:0055085,GO:0140359
+CAK72839	transmembrane_transport	transport	transmembrane transporter.	GO:0016020,GO:0016021,GO:0022857,GO:0055085
+CAK74218	transmembrane_transport	transport	calcium-activated cation channel.	GO:0005227,GO:0005886,GO:0016020,GO:0098655
+CAK75361	transmembrane_transport	transport	calcium ion transport.	GO:0005216,GO:0005262,GO:0006811,GO:0006816,GO:0016020,GO:0034220,GO:0055085
+CAK76708	transmembrane_transport	transport	ABC-type lipid transporter.	GO:0005319,GO:0005524,GO:0006869,GO:0016020,GO:0016887,GO:0042626,GO:0043231,GO:0055085,GO:0140359
+CAK77301	transmembrane_transport	transport	transmembrane transporter.	GO:0016020,GO:0016021,GO:0022857,GO:0055085
+CAK77703	transmembrane_transport	transport	ABC-type transporter.	GO:0005524,GO:0016020,GO:0016021,GO:0016887,GO:0042626,GO:0055085,GO:0140359
+CAK78750	transmembrane_transport	transport	inositol hexakisphosphate binding. cellular response to phosphate starvation	GO:0000822,GO:0005315,GO:0005737,GO:0005794,GO:0005886,GO:0006817,GO:0016020,GO:0016021,GO:0016036
+CAK78931	transmembrane_transport	transport	Na/K:H antiporter.	GO:0005886,GO:0006812,GO:0006814,GO:0006885,GO:0015297,GO:0015385,GO:0015386,GO:0016020,GO:0016021,GO:0051453,GO:0055085,GO:0071805,GO:0098719,GO:1902600
+CAK79428	transmembrane_transport	transport	transmembrane transporter.	GO:0005886,GO:0016020,GO:0016021,GO:0022857,GO:0055085
+CAK80458	transmembrane_transport	transport	chloride channel.	GO:0005254,GO:0016020,GO:1902476
+CAK81936	transmembrane_transport	transport	monoatomic ion channel. this might be non-selective as opposed to the previous two	GO:0005216,GO:0006811,GO:0016020,GO:0034220,GO:0044877,GO:0055085
+CAK82127	transmembrane_transport	transport	voltage-gated potassium channel.	GO:0005216,GO:0005249,GO:0005886,GO:0006811,GO:0016020,GO:0042391,GO:0055085,GO:0071805
+CAK82509	transmembrane_transport	transport	transmembrane transporter.	GO:0016020,GO:0016021,GO:0055085
+CAK83402	transmembrane_transport	transport	ATPase-coupled intramembrane lipid transporter. movement of lipids from one membrane leaflet to the other driven by ATP hydrolysis. This includes flippases and floppases	GO:0000166,GO:0000287,GO:0004012,GO:0005215,GO:0005524,GO:0005886,GO:0015914,GO:0016020,GO:0016021,GO:0016887,GO:0019829,GO:0045332,GO:0046872,GO:0140326
+CAK83492	transmembrane_transport	transport	ABC-type transporter.	GO:0005524,GO:0016020,GO:0016021,GO:0016887,GO:0042626,GO:0055085,GO:0140359
+CAK84933	transmembrane_transport	transport	voltage-gated potassium channel.	GO:0005216,GO:0005249,GO:0005886,GO:0006811,GO:0016020,GO:0042391,GO:0055085,GO:0071805
+CAK84990	transmembrane_transport	transport	transmembrane transporter.	GO:0016020,GO:0016021,GO:0022857,GO:0055085
+CAK86955	transmembrane_transport	transport	HCN channel complex. A cation ion channel with a preference for K+ over Na+ ions which is activated by membrane hyperpolarization	GO:0003254,GO:0003676,GO:0005249,GO:0008270,GO:0016020,GO:0035725,GO:0071805,GO:0098855
+CAK87633	transmembrane_transport	transport	ABC-type lipid transporter.	GO:0005319,GO:0005524,GO:0006869,GO:0016020,GO:0016887,GO:0042626,GO:0043231,GO:0055085,GO:0140359
+CAK87874	transmembrane_transport	transport	Na/K:H antiporter.	GO:0005886,GO:0006812,GO:0006814,GO:0006885,GO:0015297,GO:0015385,GO:0015386,GO:0016020,GO:0016021,GO:0051453,GO:0055085,GO:0071805,GO:0098719,GO:1902600
+CAK87993	transmembrane_transport	transport	P-type calcium transporter.	GO:0000166,GO:0005388,GO:0005886,GO:0016020,GO:0016021,GO:0043231,GO:0046872,GO:0070588
+CAK88167	transmembrane_transport	transport	transmembrane transporter.	GO:0016020,GO:0016021,GO:0022857,GO:0055085
+CAK91421	transmembrane_transport	transport	calcium-activated potassium channel.	GO:0005267,GO:0006813,GO:0015269,GO:0016020,GO:0071805
+CAK92474	transmembrane_transport	transport	L-alpha-amino acid transmembrane transporter.	GO:0003333,GO:0015179,GO:0016020,GO:0016021,GO:1902475
+CAK92730	transmembrane_transport	transport	voltage-gated potassium channel.	GO:0005216,GO:0005249,GO:0006811,GO:0006813,GO:0016020,GO:0016021,GO:0055085,GO:0071805
+CAK84873	transport	transport	THO complex part of transcription export complex. Directed movement of mRNA from the nucleus to the cytoplasm	GO:0000445,GO:0005515,GO:0006406
+CAK55741	vesicle_transport	transport	GTPase activator.	GO:0005096,GO:0005097,GO:0016192,GO:0043547
+CAK55983	vesicle_transport	transport	ESCRT I complex. endosomal sorting complex required for transport. It consists of the class E vacuolar protein sorting (Vps) proteins and interacts with ubiquitinated cargoes	GO:0000813,GO:0005768,GO:0009056,GO:0015031
+CAK57119	vesicle_transport	transport	scavenger receptor.	GO:0005044,GO:0005737,GO:0007155,GO:0016020,GO:0016021,GO:0016192
+CAK58638	vesicle_transport	transport	small GTPase. signal transduction in intracellular protein transport	GO:0003924,GO:0005525,GO:0005769,GO:0006886,GO:0007264,GO:0012505
+CAK58873	vesicle_transport	transport	AP-2 adaptor complex. clathrin-dependent endocytosis	GO:0030122,GO:0035615,GO:0072583
+CAK61643	vesicle_transport	transport	exocyst. A protein complex peripherally associated with the plasma membrane that determines where vesicles dock and fuse	GO:0000145,GO:0000149,GO:0006887,GO:0051601
+CAK64212	vesicle_transport	transport	SNARE complex disassembly. intra-Golgi vesicle-mediated protein transport	GO:0005524,GO:0005737,GO:0005795,GO:0006891,GO:0015031,GO:0016192,GO:0016787,GO:0016887,GO:0035494,GO:0043001,GO:0046872
+CAK64372	vesicle_transport	transport	HOPS complex. multimeric protein complex that associates with the vacuolar membrane late endosomal (multivesicular body) and lysosomal membranes. HOPS is a tethering complex involved in vesicle fusion.	GO:0005770,GO:0006623,GO:0030897,GO:0034058
+CAK66604	vesicle_transport	transport	vacuole organization.	GO:0005524,GO:0007033,GO:0016197,GO:0016887
+CAK68964	vesicle_transport	transport	ST-kinase. endocytic protein involved in signaling pathway from membrane to nucleus	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0006468,GO:0006897,GO:0007165
+CAK70535	vesicle_transport	transport	clathrin vesicle coat.	GO:0005543,GO:0005768,GO:0005886,GO:0006897,GO:0030125,GO:0030276
+CAK70663	vesicle_transport	transport	COPII vesicle coat. ER to Golgi vesicle-mediated protein transport	GO:0006886,GO:0006888,GO:0008270,GO:0030127
+CAK75629	vesicle_transport	transport	ESCRT II complex. protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO:0000814,GO:0043328,GO:0071985
+CAK75724	vesicle_transport	transport	guanyl-nucleotide exchange factor. regulation of COPII vesicle coating by exchange of GDP to GTP on a signaling GTPase	GO:0003400,GO:0005085,GO:0005515,GO:0005789,GO:0006888,GO:0015031
+CAK76112	vesicle_transport	transport	ST-kinase. endocytic protein involved in signaling pathway from membrane to nucleus	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0006468,GO:0006897,GO:0007165
+CAK76276	vesicle_transport	transport	scavenger receptor.	GO:0005044,GO:0005737,GO:0007155,GO:0016020,GO:0016192
+CAK81006	vesicle_transport	transport	SNAP receptor. interact selectively with SNAREs for vesicle docking	GO:0000149,GO:0005484,GO:0006886,GO:0006906,GO:0012505,GO:0016020,GO:0031201,GO:0048278
+CAK83199	vesicle_transport	transport	ST-kinase. endocytic protein involved in signaling pathway from membrane to nucleus	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0006468,GO:0006897,GO:0007165
+CAK92015	vesicle_transport	transport	HOPS complex. multimeric protein complex that associates with the vacuolar membrane late endosomal (multivesicular body) and lysosomal membranes. HOPS is a tethering complex involved in vesicle fusion.	GO:0005515,GO:0005770,GO:0006623,GO:0008270,GO:0030897,GO:0034058
+CAK92936	vesicle_transport	transport	small GTPase. signal transduction	GO:0003924,GO:0005525,GO:0007264,GO:0015031,GO:0016192
+CAK93413	vesicle_transport	transport	endocytic recycling.	GO:0005515,GO:0005769,GO:0006886,GO:0032456,GO:0035091
+CAK94248	vesicle_transport	transport	GTPase activator.	GO:0005096,GO:0005097,GO:0006886
+CAK94278	vesicle_transport	transport	small GTPase. intracellular protein transport - intragolgi, endosome to golgi, golgi to ER	GO:0003924,GO:0005525,GO:0005794,GO:0005829,GO:0006886,GO:0006890,GO:0006891,GO:0007264,GO:0012505,GO:0042147
+CAK57797	vesicle_transport	transport	autophagy development found at phagophore assembly site, endocytic recycling involved in autophage of nucleus, mitochondria, and ER	GO:0000407,GO:0000422,GO:0005737,GO:0005769,GO:0015031,GO:0016020,GO:0032456,GO:0034727,GO:0035091,GO:0061709
+CAK58162	vesicle_transport	transport	ST-kinase development protein phosphorylation involved in regulation of autophagy at autophagosome assembly	GO:0000045,GO:0000407,GO:0004672,GO:0004674,GO:0005524,GO:0005737,GO:0005776,GO:0005829,GO:0006468,GO:0010506,GO:0016020
+CAK70904	vesicle_transport	transport	ST-kinase development protein phosphorylation involved in regulation of autophagy at autophagosome assembly	GO:0000045,GO:0000407,GO:0004672,GO:0004674,GO:0005524,GO:0005737,GO:0005776,GO:0005829,GO:0006468,GO:0010506,GO:0016020
+CAK82367	vesicle_transport	transport	ST-kinase development protein phosphorylation involved in regulation of autophagy at autophagosome assembly	GO:0000045,GO:0000407,GO:0004672,GO:0004674,GO:0005524,GO:0005737,GO:0005776,GO:0005829,GO:0006468,GO:0010506,GO:0016020
+CAK83630	vesicle_transport	transport	ST-kinase development protein phosphorylation involved in regulation of autophagy at autophagosome assembly	GO:0000045,GO:0000407,GO:0004672,GO:0004674,GO:0005524,GO:0005737,GO:0005776,GO:0005829,GO:0006468,GO:0010506,GO:0016020
+CAK84075	vesicle_transport	transport	ST-kinase development protein phosphorylation involved in regulation of autophagy at autophagosome assembly	GO:0000045,GO:0000407,GO:0004672,GO:0004674,GO:0005524,GO:0005737,GO:0005776,GO:0005829,GO:0006468,GO:0010506,GO:0016020
+CAK85729	vesicle_transport	transport	ST-kinase development protein phosphorylation involved in regulation of autophagy at autophagosome assembly	GO:0000045,GO:0000407,GO:0004672,GO:0004674,GO:0005524,GO:0005737,GO:0005776,GO:0005829,GO:0006468,GO:0010506,GO:0016020
+CAK77330	signaling	sensing_and_response	ST-kinase development signal transduction leading to cell differentiation	GO:0004672,GO:0004674,GO:0005524,GO:0005634,GO:0005737,GO:0006468,GO:0007165,GO:0030154
+CAK64274	cell_adhesion	structure_and_development	carbohydrate-binding development membrane localized protein involved in cell adhesion	GO:0007155,GO:0016020,GO:0030246
+CAK69215	protein_folding	macromolecule_processing	carbohydrate-binding development localized on ER membrane	GO:0005783,GO:0005789,GO:0016020,GO:0030246
+CAK58612	intracellular_transport	transport	endoplasmic reticulum-plasma membrane tethering 	GO:0005198,GO:0005789,GO:0005886,GO:0016020,GO:0061817,GO:0090158
+CAK63105	protein_modification	macromolecule_processing	activation of NF-kappaB-inducing kinase development via ubiquitnation, also activates JUN kinase	GO:0000209,GO:0001503,GO:0004842,GO:0004871,GO:0005515,GO:0005737,GO:0007250,GO:0008270,GO:0009887,GO:0016567,GO:0031666,GO:0043123,GO:0043507,GO:0045672,GO:0046849,GO:0046872,GO:0048468,GO:0050852,GO:0051865,GO:0070498
+CAK65033	lipid_metabolism	metabolism	single fertilization development Lipid-binding protein localized to PM	GO:0005886,GO:0007338,GO:0008289
+CAK72155	response_to_calcium	sensing_and_response	Calcium-binding ST-kinase 	GO:0004672,GO:0004674,GO:0005509,GO:0005524,GO:0006468,GO:0010506
+CAK93177	uncategorized	uncategorized	membrane protein 	GO:0004872,GO:0007275,GO:0016020
+CAK86647	uncategorized	uncategorized	membrane protein 	GO:0004872,GO:0007275,GO:0016020
+CAK71858	uncategorized	uncategorized	membrane protein 	GO:0004872,GO:0007275,GO:0016020
+CAK60459	uncategorized	uncategorized	membrane protein 	GO:0004872,GO:0007275,GO:0016020
